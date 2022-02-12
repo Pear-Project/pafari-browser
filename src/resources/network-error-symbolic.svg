@@ -1,0 +1,106 @@
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" height="1" width="1" x="0" y="0">
+        <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="c">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".3"/>
+        </g>
+    </mask>
+    <clipPath id="b">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="e">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".05"/>
+        </g>
+    </mask>
+    <clipPath id="d">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="g">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".05"/>
+        </g>
+    </mask>
+    <clipPath id="f">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="i">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".05"/>
+        </g>
+    </mask>
+    <clipPath id="h">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="k">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".05"/>
+        </g>
+    </mask>
+    <clipPath id="j">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="m">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".05"/>
+        </g>
+    </mask>
+    <clipPath id="l">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="o">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".05"/>
+        </g>
+    </mask>
+    <clipPath id="n">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="q">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".3"/>
+        </g>
+    </mask>
+    <clipPath id="p">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <mask id="s">
+        <g filter="url(#a)">
+            <path d="M0 0h16v16H0z" fill-opacity=".5"/>
+        </g>
+    </mask>
+    <clipPath id="r">
+        <path d="M0 0h1024v800H0z"/>
+    </clipPath>
+    <g clip-path="url(#b)" mask="url(#c)" transform="translate(-720 -100)">
+        <path d="M562.46 212.059h10.45c-1.183.492-1.297 2.46 0 3h-10.45zm0 0" fill="#2e3436"/>
+    </g>
+    <path style="fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1" d="M9 8c-.554 0-1 .446-1 1v6c0 .554.446 1 1 1h6c.554 0 1-.446 1-1V9c0-.554-.446-1-1-1H9zm0 1h1c.242.008.42.083.686.313l1.312 1.277 1.28-1.277A1.04 1.04 0 0 1 13.965 9h1.031v1a.902.902 0 0 1-.283.748l-1.28 1.281 1.282 1.248c.187.188.281.453.281.72v1h-1c-.266-.009-.53-.096-.719-.284l-1.279-1.28-1.281 1.282c-.176.199-.451.281-.717.281H9v-1a1 1 0 0 1 .281-.719l1.248-1.248-1.279-1.281c-.215-.2-.25-.463-.25-.748V9z"/>
+    <g clip-path="url(#d)" mask="url(#e)" transform="translate(-720 -100)">
+        <path d="M16 632h1v1h-1zm0 0" fill="#2e3436" fill-rule="evenodd"/>
+    </g>
+    <g clip-path="url(#f)" mask="url(#g)" transform="translate(-720 -100)">
+        <path d="M17 631h1v1h-1zm0 0" fill="#2e3436" fill-rule="evenodd"/>
+    </g>
+    <g clip-path="url(#h)" mask="url(#i)" transform="translate(-720 -100)">
+        <path d="M18 634h1v1h-1zm0 0" fill="#2e3436" fill-rule="evenodd"/>
+    </g>
+    <g clip-path="url(#j)" mask="url(#k)" transform="translate(-720 -100)">
+        <path d="M16 634h1v1h-1zm0 0" fill="#2e3436" fill-rule="evenodd"/>
+    </g>
+    <g clip-path="url(#l)" mask="url(#m)" transform="translate(-720 -100)">
+        <path d="M17 635h1v1h-1zm0 0" fill="#2e3436" fill-rule="evenodd"/>
+    </g>
+    <g clip-path="url(#n)" mask="url(#o)" transform="translate(-720 -100)">
+        <path d="M19 635h1v1h-1zm0 0" fill="#2e3436" fill-rule="evenodd"/>
+    </g>
+    <g clip-path="url(#p)" mask="url(#q)" transform="translate(-720 -100)">
+        <path d="M136 660v7h7v-7zm0 0" fill="#2e3436"/>
+    </g>
+    <g clip-path="url(#r)" mask="url(#s)" transform="translate(-720 -100)">
+        <path d="M219 642h3v12h-3zm0 0" fill="#2e3436"/>
+    </g>
+    <path style="color:#000;fill:#2e3436;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:.34999999" d="M7.5 0C3.37 0 0 3.37 0 7.5S3.37 15 7.5 15c.168 0 .335-.009.5-.02V8h6.98c.011-.165.02-.332.02-.5C15 3.37 11.63 0 7.5 0zM5.744 2.285c-.307.3-.578.67-.805 1.086A6.452 6.452 0 0 0 4.641 4H3.248a5.48 5.48 0 0 1 2.496-1.715zm3.512 0c.988.33 1.85.93 2.496 1.715h-1.393c-.09-.22-.19-.43-.298-.629a4.578 4.578 0 0 0-.805-1.086zM7 2.61V4H5.74l.078-.15C6.17 3.205 6.581 2.792 7 2.61zm1 0c.419.183.83.596 1.182 1.24L9.26 4H8V2.61zM2.598 5h1.71a9.704 9.704 0 0 0-.296 2H2.023c.064-.716.265-1.39.575-2zM5.35 5H7v2H5.014a8.607 8.607 0 0 1 .336-2zM8 5h1.65c.18.598.298 1.276.336 2H8V5zm2.691 0h1.711c.31.61.51 1.284.575 2h-1.989a9.704 9.704 0 0 0-.297-2zM2.023 8h1.989a9.64 9.64 0 0 0 .297 2H2.598a5.478 5.478 0 0 1-.575-2zm2.99 0H7v2H5.35a8.607 8.607 0 0 1-.336-2zm-1.765 3h1.393c.09.22.19.43.298.629.227.416.498.786.805 1.086A5.48 5.48 0 0 1 3.248 11zm2.492 0H7v1.39c-.419-.182-.83-.595-1.182-1.24A4.912 4.912 0 0 1 5.74 11z"/>
+</svg>

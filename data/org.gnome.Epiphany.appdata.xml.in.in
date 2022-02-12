@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2013, 2015, 2019 Epiphany contributors -->
+<component type="desktop">
+  <id>@appid@.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Web</name>
+  <summary>Web browser for GNOME</summary>
+  <description>
+    <p>
+      The web browser for GNOME, featuring tight integration with the desktop
+      and a simple and intuitive user interface that allows you to focus on your
+      web pages. If you’re looking for a simple, clean, beautiful view of the
+      web, this is the browser for you.
+    </p>
+    <p>
+      Web is often referred to by its code name, Epiphany.
+    </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://git.gnome.org/browse/epiphany/plain/data/screenshot.png</image>
+      <caption>The GNOME web site displayed in GNOME Web</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://wiki.gnome.org/Apps/Web</url>
+  <update_contact>mcatanzaro_at_gnome.org</update_contact>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>SearchProvider</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <project_group>GNOME</project_group>
+  <project_license>GPL-3.0+</project_license>
+  <developer_name>The GNOME Project</developer_name>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/epiphany/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/epiphany/stable/</url>
+  <url type="translate">https://wiki.gnome.org/TranslationProject</url>
+  <translation type="gettext">epiphany</translation>
+  <provides>
+    <id>epiphany.desktop</id>
+  </provides>
+  <content_rating type="oars-1.1" />
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+  <releases>
+    <release date="2022-02-11" version="42~beta"/>
+    <release date="2022-01-06" version="42~alpha"/>
+    <release date="2021-12-20" version="41.3"/>
+    <release date="2021-12-16" version="41.2"/>
+    <release date="2021-12-16" version="41.1"/>
+    <release date="2021-09-16" version="41.0"/>
+    <release date="2021-09-02" version="41~rc"/>
+    <release date="2021-08-12" version="41~beta"/>
+    <release date="2021-07-02" version="41~alpha"/>
+    <release date="2021-06-04" version="40.2"/>
+    <release date="2021-04-29" version="40.1"/>
+    <release date="2021-03-19" version="40.0"/>
+    <release date="2021-03-12" version="40~rc"/>
+    <release date="2021-02-11" version="40~beta"/>
+    <release date="2021-01-07" version="40~alpha"/>
+    <release date="2020-12-01" version="3.38.2"/>
+    <release date="2020-10-06" version="3.38.1"/>
+    <release date="2020-09-11" version="3.38.0"/>
+    <release date="2020-09-04" version="3.37.92"/>
+    <release date="2020-08-20" version="3.37.91"/>
+    <release date="2020-08-06" version="3.37.90"/>
+    <release date="2020-07-02" version="3.37.3"/>
+    <release date="2020-05-29" version="3.37.2"/>
+    <release date="2020-04-25" version="3.37.1"/>
+    <release date="2020-03-27" version="3.36.1"/>
+    <release date="2020-03-07" version="3.36.0"/>
+    <release date="2020-02-27" version="3.35.92"/>
+    <release date="2020-02-14" version="3.35.91"/>
+    <release date="2020-02-01" version="3.35.90"/>
+    <release date="2019-01-03" version="3.35.3"/>
+    <release date="2019-11-22" version="3.35.2"/>
+    <release date="2019-10-11" version="3.35.1"/>
+    <release date="2019-10-04" version="3.34.1"/>
+    <release date="2019-09-07" version="3.34.0"/>
+    <release date="2019-09-01" version="3.33.92"/>
+    <release date="2019-08-16" version="3.33.91"/>
+    <release date="2019-08-05" version="3.33.90"/>
+    <release date="2019-07-14" version="3.33.4"/>
+  </releases>
+</component>

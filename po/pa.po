@@ -1,0 +1,7013 @@
+# translation of epiphany.HEAD.po to Punjabi
+# Copyright (C) 2004 THE epiphany.HEAD'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the epiphany.HEAD package.
+#
+# Amanpreet Singh Alam <amanlinux@netscape.net>, 2004.
+# A S Alam <aalam@users.sf.net>, 2005,2006,2007, 2010, 2011, 2021.
+# Amanpreet Singh Alam <aalam@users.sf.net>, 2009, 2012, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: epiphany.HEAD\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues\n"
+"POT-Creation-Date: 2021-02-06 12:58+0000\n"
+"PO-Revision-Date: 2021-03-03 23:12-0800\n"
+"Last-Translator: A S Alam <aalam@satluj.org>\n"
+"Language-Team: Punjabi <kde-i18n-doc@kde.org>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.08.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+"\n"
+
+#: data/org.gnome.Epiphany.appdata.xml.in.in:6
+msgid "GNOME Web"
+msgstr "ਗਨੋਮ ਵੈੱਬ"
+
+#: data/org.gnome.Epiphany.appdata.xml.in.in:7
+msgid "Web browser for GNOME"
+msgstr "ਗਨੋਮ ਲਈ ਵੈੱਬ ਝਲਕਾਰਾ"
+
+#: data/org.gnome.Epiphany.appdata.xml.in.in:9
+msgid ""
+"The web browser for GNOME, featuring tight integration with the desktop and "
+"a simple and intuitive user interface that allows you to focus on your web "
+"pages. If you’re looking for a simple, clean, beautiful view of the web, "
+"this is the browser for you."
+msgstr ""
+
+#: data/org.gnome.Epiphany.appdata.xml.in.in:15
+msgid "GNOME Web is often referred to by its code name, Epiphany."
+msgstr "ਗਨੋਮ ਵੈੱਬ ਨੂੰ ਇਸ ਦੇ ਕੋਡ ਨਾਂ ਨਾਲ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ, ਏਪੀਫ਼ਨੀ"
+
+#: data/org.gnome.Epiphany.appdata.xml.in.in:22
+msgid "The GNOME web site displayed in GNOME Web"
+msgstr "ਗਨੋਮ ਵੈੱਬ ਸਾਈਟ ਨੂੰ ਗਨੋਮ ਵੈੱਬ ਵਿੱਚ ਦਿਖਾਇਆ"
+
+#: data/org.gnome.Epiphany.appdata.xml.in.in:36
+msgid "The GNOME Project"
+msgstr "ਗਨੋਮ ਪਰੋਜੈੱਕਟ"
+
+#: data/org.gnome.Epiphany.desktop.in.in:3 embed/ephy-about-handler.c:192
+#: embed/ephy-about-handler.c:226 src/ephy-main.c:102 src/ephy-main.c:254
+#: src/ephy-main.c:406 src/window-commands.c:1009
+msgid "Web"
+msgstr "ਵੈੱਬ"
+
+#: data/org.gnome.Epiphany.desktop.in.in:4
+msgid "Web Browser"
+msgstr "ਵੈੱਬ ਝਲਕਾਰਾ"
+
+#: data/org.gnome.Epiphany.desktop.in.in:5
+msgid "Browse the web"
+msgstr "ਵੈੱਬ ਦੀ ਝਲਕ"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.Epiphany.desktop.in.in:7
+msgid "web;browser;internet;"
+msgstr "ਵੈੱਬ;ਬਰਾਊਜ਼ਰ;ਇੰਟਰਨੈੱਟ;"
+
+#  File menu
+#: data/org.gnome.Epiphany.desktop.in.in:21
+#| msgid "_New Window"
+msgid "New Window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ"
+
+#  File menu
+#: data/org.gnome.Epiphany.desktop.in.in:25
+msgid "New Incognito Window"
+msgstr "ਨਵੀਂ ਲੁਕਵੀਂ ਵਿੰਡੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:13
+msgid "Browse with caret"
+msgstr "ਗੁਪਤ-ਲੇਖਣ ਨਾਲ ਝਲਕ"
+
+#: data/org.gnome.epiphany.gschema.xml:17
+msgid "Home page"
+msgstr "ਮੁੱਖ ਸਫ਼ਾ"
+
+#: data/org.gnome.epiphany.gschema.xml:18
+#| msgid "Address of the user's home page."
+msgid "Address of the user’s home page."
+msgstr "ਵਰਤੋਂਕਾਰ ਦੇ ਮੁੱਖ ਸਫ਼ੇ ਦਾ ਐਡਰੈੱਸ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:22
+#| msgid "Default encoding"
+msgid "Default search engine."
+msgstr "ਮੂਲ ਖੋਜ ਇੰਜਣ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:23
+msgid "Name of the search engine selected by default."
+msgstr "ਮੂਲ ਵਜੋਂ ਚੁਣੇ ਗਏ ਖੋਜ ਇੰਜਣ ਦਾ ਨਾਂ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:26
+msgid ""
+"[('DuckDuckGo', 'https://duckduckgo.com/?q=%s&t=epiphany', '!ddg'),\n"
+"\t\t\t\t  ('Google', 'https://www.google.com/search?q=%s', '!g'),\n"
+"\t\t\t\t  ('Bing', 'https://www.bing.com/search?q=%s', '!b')]"
+msgstr ""
+"[('DuckDuckGo', 'https://duckduckgo.com/?q=%s&t=epiphany', '!ddg'),\n"
+"\t\t\t\t  ('Google', 'https://www.google.com/search?q=%s', '!g'),\n"
+"\t\t\t\t  ('Bing', 'https://www.bing.com/search?q=%s', '!b')]"
+
+#: data/org.gnome.epiphany.gschema.xml:33
+#| msgid "Default encoding"
+msgid "Default search engines."
+msgstr "ਮੂਲ ਖੋਜ ਇੰਜਣ ਹਨ।"
+
+#: data/org.gnome.epiphany.gschema.xml:34
+msgid ""
+"List of the default search engines. It is an array in which each search "
+"engine is described by a name, an address, and a bang (shortcut)."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:38
+msgid "Enable Google Search Suggestions"
+msgstr "ਗੂਗਲ ਖੋਜ ਸੁਝਾਅ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:39
+msgid "Whether to show Google Search Suggestion in url entry popdown."
+msgstr "ਕੀ url ਐਂਟਰੀ ਪੋਪ-ਅੱਪ ਵਿੱਚ ਗੂਗਲ ਖੋਜ ਸੁਝਾਅ ਵੇਖਣੇ ਹਨ।"
+
+#: data/org.gnome.epiphany.gschema.xml:43
+msgid "Force new windows to be opened in tabs"
+msgstr "ਨਵੀ ਵਿੰਡੋ ਨੂੰ ਟੈਬ ਵਿੱਚ ਖੁੱਲ੍ਹਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:44
+msgid ""
+"Force new window requests to be opened in tabs instead of using a new window."
+msgstr ""
+"ਨਵੀਂ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਦੀ ਮੰਗ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਬਜਾਏ ਟੈਬ ਵਿੱਚ ਖੁੱਲ੍ਹਣ"
+" ਲਈ ਮਜ਼ਬੂਰ ਕਰੋ।"
+
+#: data/org.gnome.epiphany.gschema.xml:51
+msgid "Whether to automatically restore the last session"
+msgstr "ਕੀ ਆਪਣੇ-ਆਪ ਹੀ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰਨਾ ਹੈ"
+
+#: data/org.gnome.epiphany.gschema.xml:52
+msgid ""
+"Defines how the session will be restored during startup. Allowed values are "
+"“always” (the previous state of the application is always restored), "
+"“crashed” (the session is only restored if the application crashes) and "
+"“never” (the homepage is always shown)."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:56
+msgid ""
+"Whether to delay loading of tabs that are not immediately visible on session "
+"restore"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:57
+msgid ""
+"When this option is set to true, tabs will not start loading until the user "
+"switches to them, upon session restore."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:61
+msgid "List of adblock filters"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:62
+msgid ""
+"List of URLs with content filtering rules in JSON format to be used by the "
+"ad blocker."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:66
+msgid "Whether to ask for setting browser as default"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:67
+msgid ""
+"When this option is set to true, browser will ask for being default if it is "
+"not already set."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:71
+#| msgid "Start an instance in incognito mode"
+msgid "Start in incognito mode"
+msgstr "ਲੁਕਵੇਂ ਮੋਡ ਵਿੱਚ ਸ਼ੁਰੂ"
+
+#: data/org.gnome.epiphany.gschema.xml:72
+msgid ""
+"When this option is set to true, browser will always start in incognito mode"
+msgstr "ਜਦੋਂ ਇਹ ਚੋਣ ਕੀਤੀ ਹੁੰਦੀ ਹੈ ਤਾਂ ਬਰਾਊਜ਼ਰ ਹਮੇਸ਼ਾਂ ਲੁਕਵੇਂ ਢੰਗ ਨਾਲ ਸ਼ੁਰੂ ਹੋਵੇਗਾ"
+
+#: data/org.gnome.epiphany.gschema.xml:76
+msgid "Active clear data items."
+msgstr "ਡਾਟਾ ਚੀਜ਼ਾਂ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਨੂੰ ਸਰਗਰਮ ਕਰੋ।"
+
+#: data/org.gnome.epiphany.gschema.xml:77
+msgid ""
+"Selection (bitmask) which clear data items should be active by default. 1 = "
+"Cookies, 2 = HTTP disk cache, 4 = Local storage data, 8 = Offline web "
+"application cache, 16 = IndexDB databases, 32 = WebSQL databases, 64 = "
+"Plugins data, 128 = HSTS policies cache, 256 = Intelligent Tracking "
+"Prevention data."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:83
+msgid "Expand tabs size to fill the available space on the tabs bar."
+msgstr "ਟੈਬ ਪੱਟੀ ਉੱਤੇ ਮੌਜੂਦ ਥਾਂ ਨੂੰ ਭਰਨ ਲਈ ਟੈਬ ਦਾ ਆਕਾਰ ਫੈਲਾਓ।"
+
+#: data/org.gnome.epiphany.gschema.xml:84
+msgid ""
+"If enabled the tabs will expand to use the entire available space in the "
+"tabs bar. This setting is ignored in Pantheon desktop."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:88
+msgid "The visibility policy for the tabs bar."
+msgstr "ਟੈਬ ਪੱਟੀ ਲਈ ਦਿਖਾਉਣ ਨੀਤੀ।"
+
+#: data/org.gnome.epiphany.gschema.xml:89
+msgid ""
+"Controls when the tabs bar is shown. Possible values are “always” (the tabs "
+"bar is always shown), “more-than-one” (the tabs bar is only shown if there’s "
+"two or more tabs) and “never” (the tabs bar is never shown). This setting is "
+"ignored in Pantheon desktop, and “always” value is used."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:93
+msgid "Keep window open when closing last tab"
+msgstr "ਜਦੋਂ ਆਖਰੀ ਟੈਬ ਬੰਦ ਹੋਵੇ ਤਾਂ ਤਾਂ ਵਿੰਡੋ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:94
+msgid "If enabled application window is kept open when closing the last tab."
+msgstr ""
+"ਜੇ ਸਮਰੱਥ ਕੀਤਾ ਤਾਂ ਜਦੋਂ ਆਖਰੀ ਟੈਬ ਬੰਦ ਹੋਵੇ ਤਾਂ ਤਾਂ ਵਿੰਡੋ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖਦਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:100
+msgid "Reader mode article font style."
+msgstr "ਪੜ੍ਹਨ ਢੰਗ ਲੇਖ ਦਾ ਫ਼ੋਂਟ ਦਾ ਸਟਾਈਲ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:101
+msgid ""
+"Chooses the style of the main body text for articles in reader mode. "
+"Possible values are “sans” and “serif”."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:105
+msgid "Reader mode color scheme."
+msgstr "ਰੀਡਰ ਮੋਡ ਰੰਗ ਸਕੀਮ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:106
+msgid ""
+"Selects the style of colors for articles displayed in reader mode. Possible "
+"values are “light” (dark text on light background) and “dark” (light text on "
+"dark background)."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:112
+msgid "Minimum font size"
+msgstr "ਘੱਟੋ-ਘੱਟ ਫੋਂਟ ਅਕਾਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:116
+msgid "Use GNOME fonts"
+msgstr "ਗਨੋਮ ਫ਼ੋਂਟਾਂ ਨੂੰ ਵਰਤੋਂ"
+
+#: data/org.gnome.epiphany.gschema.xml:117
+msgid "Use GNOME font settings."
+msgstr "ਗਨੋਮ ਫ਼ੋਂਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋਂ।"
+
+#: data/org.gnome.epiphany.gschema.xml:121
+msgid "Custom sans-serif font"
+msgstr "ਕਸਟਮ sans-serif ਫ਼ੋਂਟ"
+
+#: data/org.gnome.epiphany.gschema.xml:122
+msgid ""
+"A value to be used to override sans-serif desktop font when use-gnome-fonts "
+"is set."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:126
+msgid "Custom serif font"
+msgstr "ਕਸਟਮ serif ਫੋਂਟ"
+
+#: data/org.gnome.epiphany.gschema.xml:127
+msgid ""
+"A value to be used to override serif desktop font when use-gnome-fonts is "
+"set."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:131
+msgid "Custom monospace font"
+msgstr "ਕਸਟਮ ਮੋਨੋਸਪੇਸ ਫੋਂਟ"
+
+#: data/org.gnome.epiphany.gschema.xml:132
+msgid ""
+"A value to be used to override monospace desktop font when use-gnome-fonts "
+"is set."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:136
+msgid "Use a custom CSS"
+msgstr "ਪਸੰਦੀਦਾ CSS ਨੂੰ ਵਰਤੋਂ"
+
+#: data/org.gnome.epiphany.gschema.xml:137
+msgid "Use a custom CSS file to modify websites own CSS."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:141
+#| msgid "Use a custom CSS"
+msgid "Use a custom JS"
+msgstr "ਕਸਟਮ JS ਨੂੰ ਵਰਤੋਂ"
+
+#: data/org.gnome.epiphany.gschema.xml:142
+msgid "Use a custom JS file to modify websites."
+msgstr "ਵੈੱਬਸਾਈਟਾਂ ਸੋਧਣ ਲਈ ਕਸਟਮ JS ਨੂੰ ਵਰਤੋਂ।"
+
+#: data/org.gnome.epiphany.gschema.xml:146
+msgid "Enable spell checking"
+msgstr "ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਕਰਨਾ ਚਾਲੂ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:147
+msgid "Spell check any text typed in editable areas."
+msgstr "ਸੋਧਯੋਗ ਖੇਤਰ ਵਿੱਚ ਕਿਸੇ ਵੀ ਲਿਖੀ ਲਿਖਤ ਲਈ ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਕਰੋ।"
+
+#: data/org.gnome.epiphany.gschema.xml:151
+msgid "Default encoding"
+msgstr "ਮੂਲ ਇੰਕੋਡਿੰਗ"
+
+#: data/org.gnome.epiphany.gschema.xml:152
+msgid ""
+"Default encoding. Accepted values are the ones WebKitGTK can understand."
+msgstr ""
+"ਮੂਲ ਇੰਕੋਡਿੰਗ। ਮਨਜ਼ੂਰ ਕੀਤੇ ਮੁੱਲ WebKitGTK ਵਲੋਂ ਸਮਝੇ ਜਾ ਸਕਣ ਵਾਲੇ ਹੁੰਦੇ ਹਨ।"
+
+#: data/org.gnome.epiphany.gschema.xml:156
+#: src/resources/gtk/prefs-general-page.ui:293
+msgid "Languages"
+msgstr "ਭਾਸ਼ਾਵਾਂ"
+
+#: data/org.gnome.epiphany.gschema.xml:157
+msgid ""
+"Preferred languages. Array of locale codes or “system” to use current locale."
+msgstr "ਤਰਜੀਹੀ ਭਾਸ਼ਾਵਾਂ। ਲੋਕਲ ਕੋਡ ਦੀ ਲੜ ਜਾਂ ਮੌਜੂਦਾ ਲੋਕੇਲ ਲਈ \"system\" ਵਰਤੋਂ।"
+
+#: data/org.gnome.epiphany.gschema.xml:161
+msgid "Allow popups"
+msgstr "ਪਾਪਅੱਪ ਸਵੀਕਾਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:162
+msgid ""
+"Allow sites to open new windows using JavaScript (if JavaScript is enabled)."
+msgstr ""
+"ਸਾਇਟਾਂ ਜਾਵਾ-ਸਕਰਿਪਟ ਵਰਤਕੇ ਨਵੇਂ ਝਰੋਖਿਆਂ ਵਿੱਚ ਖੁੱਲਣ ਦੀ ਇਜ਼ਾਜਤ ਦਿੱਤੀ (ਜੇ"
+" ਜਾਵਾ-ਸਕਰਿਪਟ ਯੋਗ ਹੈ ਤਾਂ)"
+
+#: data/org.gnome.epiphany.gschema.xml:166
+msgid "User agent"
+msgstr "ਵਰਤੋਂਕਾਰ ਏਜੰਟ"
+
+#: data/org.gnome.epiphany.gschema.xml:167
+msgid ""
+"String that will be used as user agent, to identify the browser to the web "
+"servers."
+msgstr ""
+"ਲਾਈਨ, ਜਿਸ ਨੂੰ ਵਰਤੋਂਕਾਰ ਏਜੰਟ ਵਰਤੇਗਾ, ਜੋ ਕਿ ਵੈੱਬ ਸਰਵਰ ਵਲੋਂ ਬਰਾਊਜ਼ਰ ਦੀ ਪਛਾਣ ਲਈ"
+" ਵਰਤੀ ਜਾਵੇਗੀ।"
+
+#: data/org.gnome.epiphany.gschema.xml:171
+#| msgid "Enable Adblock"
+msgid "Enable adblock"
+msgstr "ਇਸ਼ਤਿਹਾਰ-ਰੋਕੂ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:172
+msgid ""
+"Whether to block the embedded advertisements that web pages might want to "
+"show."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:176
+msgid "Remember passwords"
+msgstr "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:177
+msgid "Whether to store and prefill passwords in websites."
+msgstr "ਕੀ ਵੈੱਬ-ਸਾਇਟਾਂ ਲਈ ਪਾਸਵਰਡ ਸੰਭਾਲਣੇ ਅਤੇ ਮੁੜ-ਭਰਨੇ ਹਨ।"
+
+#: data/org.gnome.epiphany.gschema.xml:181
+msgid "Enable site-specific quirks"
+msgstr "ਸਾਈਟ ਲਈ ਖਾਸ ਕੁਇਰਕਸ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:182
+msgid ""
+"Enable quirks to make specific websites work better. You might want to "
+"disable this setting if debugging a specific issue."
+msgstr ""
+"ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵਧੀਆ ਕੰਮ ਕਰਨ ਲਈ ਕੁਇਰਕਸ ਸਮਰੱਥ ਕਰੋ। ਜੇ ਖਾਸ ਮਸਲੇ ਨੂੰ ਡੀਬੱਗ"
+" ਕਰਨਾ ਹੋਵੇ ਤਾਂ ਤੁਸੀਂ ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਅਸਮਰੱਥ ਕਰਨਾ ਚਾਹੋਗੇ।"
+
+#: data/org.gnome.epiphany.gschema.xml:186
+#| msgid "Enable caret browsing mode?"
+msgid "Enable safe browsing"
+msgstr "ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਿੰਗ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:187
+msgid ""
+"Whether to enable safe browsing. Safe browsing operates via Google Safe "
+"Browsing API v4."
+msgstr ""
+"ਕੀ ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਿੰਗ ਸਮਰੱਥ ਕਰਨਾ ਹੈ। ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਗੂਗਲ ਸੇਫ ਬਰਾਊਜ਼ਿੰਗ API v4"
+" ਰਾਹੀਂ ਕੰਮ ਕਰਦੀ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:191
+msgid "Enable Intelligent Tracking Prevention (ITP)"
+msgstr "ਸੂਝਵਾਨ ਟਰੈਕਿੰਗ ਰੋਕ ਸਮਰੱਥ ਕਰੋ(ITP)"
+
+#: data/org.gnome.epiphany.gschema.xml:192
+msgid "Whether to enable Intelligent Tracking Prevention."
+msgstr "ਕੀ ਸੂਝਵਾਨ ਟਰੈਕਿੰਗ ਰੋਕ ਸਮਰੱਥ ਕਰਨੀ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:196
+msgid "Allow websites to store local website data"
+msgstr "ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਲੋਕਲ ਵੈੱਬਸਾਈਟ ਡਾਟਾ ਸੰਭਾਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ"
+
+#: data/org.gnome.epiphany.gschema.xml:197
+msgid ""
+"Whether to allow websites to store cookies, local storage data, and "
+"IndexedDB databases. Disabling this will break many websites."
+msgstr ""
+"ਕੀ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਕੂਕੀਜ਼, ਲੋਕਲ ਸਟੋਰੇਜ਼ ਡਾਟਾ ਅਤੇ IndexedDB ਡਾਟਾਬੇਸ ਸੰਭਾਲਣ ਦੀ"
+" ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ। ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕਰਨ ਨਾਲ ਕਈ ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ"
+" ਕਰਨਗੀਆਂ।"
+
+#: data/org.gnome.epiphany.gschema.xml:201
+msgid "Default zoom level for new pages"
+msgstr "ਨਵੇਂ ਸਫ਼ਿਆਂ ਲਈ ਮੂਲ ਜ਼ੂਮ ਪੱਧਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:205
+#| msgid "Enable _Java"
+msgid "Enable autosearch"
+msgstr "ਆਟੋ-ਖੋਜ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:206
+msgid ""
+"Whether to automatically search the web when something that does not look "
+"like a URL is entered in the address bar. If this setting is disabled, "
+"everything will be loaded as a URL unless a search engine is explicitly "
+"selected from the dropdown menu."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:210
+msgid "Enable mouse gestures"
+msgstr "ਮਾਊਸ ਸੰਕੇਤ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:211
+msgid ""
+"Whether to enable mouse gestures. Mouse gestures are based on Opera’s "
+"behaviour and are activated using the middle mouse button + gesture."
+msgstr ""
+"ਕੀ ਮਾਊਸ ਸੰਕੇਤ ਸਮਰੱਥ ਕਰਨੇ ਹਨ। ਮਾਊਸ ਸੰਕੇਤ ਓਪੇਰਾ ਦੇ ਰਵੱਈਏ ਮੁਤਾਬਕ ਹੁੰਦੇ ਹਨ ਅਤੇ"
+" ਮੱਧ ਮਾਊਸ ਬਟਨ + ਸੰਕੇਤ ਵਰਤ ਕੇ ਸਰਗਰਮ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।"
+
+#: data/org.gnome.epiphany.gschema.xml:215
+#| msgid "Select a Directory"
+msgid "Last upload directory"
+msgstr "ਪਿਛਲੀ ਅੱਪਲੋਡ ਡਾਇਰੈਕਟਰੀ"
+
+#: data/org.gnome.epiphany.gschema.xml:216
+msgid "Keep track of last upload directory"
+msgstr "ਆਖਰੀ ਅੱਪਲੋਡ ਡਾਇਰੈਕਟਰੀ ਦਾ ਟਰੈਕ ਰੱਖੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:220
+#| msgid "The downloads folder"
+msgid "Last download directory"
+msgstr "ਪਿਛਲੀ ਡਾਊਨਲੋਡ ਡਾਇਰੈਕਟਰੀ"
+
+#: data/org.gnome.epiphany.gschema.xml:221
+msgid "Keep track of last download directory"
+msgstr "ਪਿਛਲੀ ਡਾਊਨਲੋਡ ਕੀਤੀ ਡਾਇਰੈਕਟਰੀ ਦਾ ਟਰੈਕ ਰੱਖੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:225
+msgid "Hardware acceleration policy"
+msgstr "ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਪਾਲਸੀ"
+
+#: data/org.gnome.epiphany.gschema.xml:226
+msgid ""
+"Whether to enable hardware acceleration. Possible values are “on-demand”, "
+"“always”, and “never”. Hardware acceleration may be required to achieve "
+"acceptable performance on embedded devices, but increases memory usage "
+"requirements and could expose severe hardware-specific graphics driver bugs. "
+"When the policy is “on-demand”, hardware acceleration will be used only when "
+"required to display 3D transforms."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:230
+msgid "Always ask for download directory"
+msgstr "ਹਮੇਸ਼ਾਂ ਡਾਊਨਲੋਡ ਡਾਇਰੈਕਟਰੀ ਲਈ ਪੁੱਛੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:231
+msgid "Whether to present a directory chooser dialog for every download."
+msgstr "ਕੀ ਹਰ ਡਾਊਨਲੋਡ ਲਈ ਡਾਇਰੈਕਟਰੀ ਚੁਣਨ ਵਾਲਾ ਡਾਈਲਾਗ ਦਿਖਾਉਣਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:235
+msgid "Enable immediately switch to new open tab"
+msgstr "ਫ਼ੌਰੀ ਨਵੀਂ ਖੋਲ੍ਹੀ ਟੈਬ ਲਈ ਬਦਲਣਾ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:236
+#| msgid "Whether to automatically restore the last session"
+msgid "Whether to automatically switch to a new open tab."
+msgstr "ਕੀ ਆਪਣੇ-ਆਪ ਹੀ ਨਵੀਂ ਖੋਲੀ ਟੈਬ ਉੱਤੇ ਜਾਣਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:240
+#| msgid "Enable WebAudio"
+msgid "Enable WebExtensions"
+msgstr "ਵੈੱਬ-ਇਕਸਟੈਨਸ਼ਨ ਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:241
+msgid ""
+"Whether to enable WebExtensions. WebExtensions is a cross-browser system for "
+"extensions."
+msgstr ""
+"ਕੀ ਵੈੱਬ-ਇਕਸਟੈਨਸ਼ਨ ਸਮਰੱਥ ਕਰਨੀ ਹੈ। ਵੈਬ-ਇਕਸਟੈਨਸ਼ ਇਕਸਟੈਨਸਨਾਂ ਲਈ ਬਰਾਊਜ਼ਰ-ਸਾਂਝਾ ਸਿਸਟਮ"
+" ਹੈ। "
+
+#: data/org.gnome.epiphany.gschema.xml:245
+#| msgid "Lists the active extensions."
+msgid "Active WebExtensions"
+msgstr "ਵੈੱਬ-ਇਕਸਟੈਨਸ਼ਨ ਸਰਗਰਮ"
+
+#: data/org.gnome.epiphany.gschema.xml:246
+msgid "Indicates which WebExtensions are set to active."
+msgstr "ਦਰਸਾਉਂਦਾ ਹੈ ਕਿ ਵੈੱਬ-ਇਕਸਟੈਨਸ਼ਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਸੈਟ ਕੀਤੀ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:252
+msgid "Web application additional URLs"
+msgstr "ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਵਧੀਕ URL"
+
+#: data/org.gnome.epiphany.gschema.xml:253
+#| msgid "List of installed web applications"
+msgid "The list of URLs that should be opened by the web application"
+msgstr "URL ਦੀ ਸੂਚੀ, ਜੋ ਕਿ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ"
+
+#: data/org.gnome.epiphany.gschema.xml:257
+msgid "Show navigation buttons in WebApp"
+msgstr "WebApp ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਬਟਨ ਵੇਖਾਓ"
+
+#: data/org.gnome.epiphany.gschema.xml:258
+msgid "Whether to show buttons for navigation in WebApp."
+msgstr "ਕੀ WebApp ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਬਟਨ ਵੇਖਾਉਣੇ ਹਨ।"
+
+#: data/org.gnome.epiphany.gschema.xml:262
+#| msgid "Background"
+msgid "Run in background"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਚਲਾਓ"
+
+#: data/org.gnome.epiphany.gschema.xml:263
+msgid ""
+"If enabled, application continues running in the background after closing "
+"the window."
+msgstr ""
+"ਜੇ ਸਮਰੱਥ ਹੈ ਤਾਂ ਵਿੰਡੋ ਬੰਦ ਕਰਨ ਦੇ ਬਾਵਜੂਦ ਐਪਲੀਕੇਸ਼ਨ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਚੱਲਦੀ ਰਹਿੰਦੀ"
+" ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:267
+msgid "WebApp is system-wide"
+msgstr "WebApp ਪੂਰੇ ਸਿਸਟਮ ਲਈ ਹੈ"
+
+#: data/org.gnome.epiphany.gschema.xml:268
+msgid "If enabled, application cannot be edited or removed."
+msgstr "ਜੇ ਸਮਰੱਥ ਹੈ ਤਾਂ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਸੋਧਿਆ ਜਾਂ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:274
+msgid "The downloads folder"
+msgstr "ਡਾਊਨਲੋਡ ਫੋਲਡਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:275
+#| msgid ""
+#| "The path of the folder where to download files to; or \"Downloads\" to "
+#| "use the default downloads folder, or \"Desktop\" to use the desktop "
+#| "folder."
+msgid ""
+"The path of the folder where to download files to; or “Downloads” to use the "
+"default downloads folder, or “Desktop” to use the desktop folder."
+msgstr ""
+"ਫੋਲਡਰ ਲਈ ਮਾਰਗ ਹੈ, ਜਿੱਥੇ ਕਿ ਫਾਇਲਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ, ਜਾਂ “Downloads"
+" (ਡਾਊਨਲੋਡ)“ ਨੂੰ ਮੂਲ "
+"ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਲਈ ਵਰਤੋਂ ਜਾਂ “Desktop (ਡੈਸਕਟਾਪ)“ ਨੂੰ ਡੈਸਕਟਾਪ 'ਚ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ"
+" ਵਰਤੋਂ।"
+
+#: data/org.gnome.epiphany.gschema.xml:282
+msgid "Window position"
+msgstr "ਵਿੰਡੋ ਦੀ ਸਥਿਤੀ"
+
+#: data/org.gnome.epiphany.gschema.xml:283
+msgid ""
+"The position to use for a new window that is not restored from a previous "
+"session."
+msgstr ""
+"ਨਵੀਂ ਵਿੰਡੋ ਲਈ ਵਰਤਣ ਦੀ ਥਾਂ ਹੈ, ਜਿਸ ਨੂੰ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਤੋਂ ਬਹਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:287
+msgid "Window size"
+msgstr "ਵਿੰਡੋ ਦਾ ਆਕਾਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:288
+msgid ""
+"The size to use for a new window that is not restored from a previous "
+"session."
+msgstr ""
+"ਨਵੀਂ ਵਿੰਡੋ ਲਈ ਵਰਤਣ ਦਾ ਆਕਾਰ ਹੈ, ਜਿਸ ਨੂੰ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਤੋਂ ਬਹਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:292
+msgid "Is maximized"
+msgstr "ਵੱਧ ਤੋਂ ਵੱਧ ਹੈ"
+
+#: data/org.gnome.epiphany.gschema.xml:293
+msgid ""
+"Whether a new window that is not restored from a previous session should be "
+"initially maximized."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:308
+msgid "Disable forward and back buttons"
+msgstr "ਅੱਗੇ ਅਤੇ ਪਿੱਛੇ ਬਟਨ ਅਸਮਰ਼ਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:309
+msgid ""
+"If set to “true”, forward and back buttons are disabled, preventing users "
+"from accessing immediate browser history"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:327
+msgid "Firefox Sync Token Server URL"
+msgstr "ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਟੋਕਨ ਸਰਵਰ URL"
+
+#: data/org.gnome.epiphany.gschema.xml:328
+msgid "URL to a custom Firefox Sync token server."
+msgstr "ਪਸੰਦੀਦਾ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਟੋਕਨ ਸਰਵਰ ਲਈ URL ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:332
+msgid "Firefox Sync Accounts Server URL"
+msgstr "ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਖਾਤਾ ਸਰਵਰ URL"
+
+#: data/org.gnome.epiphany.gschema.xml:333
+msgid "URL to a custom Firefox Sync accounts server."
+msgstr "ਪਸੰਦੀਦਾ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਖਾਤਾ ਸਰਵਰ ਲਈ URL ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:337
+msgid "Currently signed in sync user"
+msgstr "ਇਸ ਵੇਲੇ ਸਿੰਕ ਵਰਤੋਂਕਾਰ ਵਜੋਂ ਸਾਇਨ ਕੀਤਾ ਹੈ"
+
+#: data/org.gnome.epiphany.gschema.xml:338
+msgid ""
+"The email linked to the Firefox Account used to sync data with Mozilla’s "
+"servers."
+msgstr ""
+"ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਨਾਲ ਲਿੰਕ ਕੀਤੀ ਈਮੇਲ ਨੂੰ ਮੌਜ਼ੀਲਾ ਦੇ ਸਰਵਰ ਨਾਲ ਡਾਟਾ ਸਿੰਕ ਕਰਨ ਲਈ"
+" ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:342
+msgid "Last sync timestamp"
+msgstr "ਆਖਰੀ ਸਿੰਕ ਲਈ ਸਮਾਂ-ਮੋਹਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:343
+msgid "The UNIX time at which last sync was made in seconds."
+msgstr "ਸਕਿੰਟਾਂ ਵਿੱਚ ਯੂਨੈਕਸ ਸਮਾਂ, ਜਿਸ ਵੇੇਲੇ ਆਖਰੀ ਵਾਰ ਸਿੰਕ ਕੀਤਾ ਗਿਆ ਸੀ।"
+
+#: data/org.gnome.epiphany.gschema.xml:347
+msgid "Sync device ID"
+msgstr "ਸਿੰਕ ਡਿਵਾਈਸ ID"
+
+#: data/org.gnome.epiphany.gschema.xml:348
+msgid "The sync device ID of the current device."
+msgstr "ਮੌਜੂਦਾ ਡਿਵਾਈਸ ਦਾ ਸਿੰਕ ਡਿਵਾਈਸ ID ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:352
+msgid "Sync device name"
+msgstr "ਸਿੰਕ ਡਿਵਾਈਸ ਦਾ ਨਾਂ"
+
+#: data/org.gnome.epiphany.gschema.xml:353
+msgid "The sync device name of the current device."
+msgstr "ਮੌਜੂਦਾ ਡਿਵਾਈਸ ਦਾ ਸਿੰਕ ਡਿਵਾਈਸ ਨਾਂ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:357
+msgid "The sync frequency in minutes"
+msgstr "ਸਿੰਕ ਆਵਰਤੀ ਮਿੰਟਾਂ ਵਿੱਚ"
+
+#: data/org.gnome.epiphany.gschema.xml:358
+msgid "The number of minutes between two consecutive syncs."
+msgstr "ਦੋ ਲੜੀਵਾਰ ਸਿੰਕਾਂ ਦੇ ਵਿਚਾਲੇ ਮਿੰਟਾਂ ਦਾ ਵਕਫ਼ਾ ਹੈ।"
+
+#: data/org.gnome.epiphany.gschema.xml:362
+msgid "Sync data with Firefox"
+msgstr "ਫਾਇਰਫਾਕਸ ਨਾਲ ਡਾਟਾ ਸਿੰਕ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:363
+msgid ""
+"TRUE if Ephy collections should be synced with Firefox collections, FALSE "
+"otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:367
+#| msgid "Disable bookmark editing"
+msgid "Enable bookmarks sync"
+msgstr "ਬੁੱਕਮਾਰਕ ਸਿੰਕ ਕਰਨਾ ਅਸਮਰੱਥ ਹੈ"
+
+#: data/org.gnome.epiphany.gschema.xml:368
+msgid "TRUE if bookmarks collection should be synced, FALSE otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:372
+msgid "Bookmarks sync timestamp"
+msgstr "ਬੁੱਕਮਾਰਕ ਸਿੰਕ ਸਮਾਂ-ਮੋਹਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:373
+msgid "The timestamp at which last bookmarks sync was made."
+msgstr "ਸਮਾਂ-ਮੋਹਰ, ਜਿਸ ਵੇੇਲੇ ਆਖਰੀ ਵਾਰ ਬੁੱਕਮਾਰਕ ਸਿੰਕ ਕੀਤੇ ਗਏ ਸਨ।"
+
+#: data/org.gnome.epiphany.gschema.xml:377
+#: data/org.gnome.epiphany.gschema.xml:392
+#: data/org.gnome.epiphany.gschema.xml:407
+msgid "Initial sync or normal sync"
+msgstr "ਸ਼ੁਰੂਆਤੀ ਸਿੰਖ ਜਾਂ ਸਧਾਰਨ ਸਿੰਕ"
+
+#: data/org.gnome.epiphany.gschema.xml:378
+msgid ""
+"TRUE if bookmarks collection needs to be synced for the first time, FALSE "
+"otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:382
+#| msgid "Filter passwords"
+msgid "Enable passwords sync"
+msgstr "ਪਾਸਵਰਡ ਸਿੰਕ ਕਰਨਾ ਅਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:383
+msgid "TRUE if passwords collection should be synced, FALSE otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:387
+msgid "Passwords sync timestamp"
+msgstr "ਪਾਸਵਰਡ ਸਿੰਕ ਸਮਾਂ-ਮੋਹਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:388
+msgid "The timestamp at which last passwords sync was made."
+msgstr "ਸਮਾਂ-ਮੋਹਰ, ਜਿਸ ਵੇਲੇ ਆਖਰੀ ਪਾਸਵਰਡ ਸਿੰਕ ਕੀਤਾ ਗਿਆ ਸੀ।"
+
+#: data/org.gnome.epiphany.gschema.xml:393
+msgid ""
+"TRUE if passwords collection needs to be synced for the first time, FALSE "
+"otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:397
+#| msgid "Disable history"
+msgid "Enable history sync"
+msgstr "ਅਤੀਤ ਸਿੰਕ ਕਰਨਾ ਅਸਮਰੱਥ ਕਰੋ"
+
+#: data/org.gnome.epiphany.gschema.xml:398
+msgid "TRUE if history collection should be synced, FALSE otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:402
+#| msgid "History pages time range"
+msgid "History sync timestamp"
+msgstr "ਅਤੀਤ ਸਿੰਕ ਸਮਾਂ-ਮੋਹਰ"
+
+#: data/org.gnome.epiphany.gschema.xml:403
+msgid "The timestamp at which last history sync was made."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:408
+msgid ""
+"TRUE if history collection needs to be synced for the first time, FALSE "
+"otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:412
+msgid "Enable open tabs sync"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:413
+msgid "TRUE if open tabs collection should be synced, FALSE otherwise."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:417
+msgid "Open tabs sync timestamp"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:418
+msgid "The timestamp at which last open tabs sync was made."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:429
+msgid "Decision to apply when microphone permission is requested for this host"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:430
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to access the user’s microphone. The “undecided” default means the browser "
+"needs to ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:434
+msgid ""
+"Decision to apply when geolocation permission is requested for this host"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:435
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to access the user’s location. The “undecided” default means the browser "
+"needs to ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:439
+msgid ""
+"Decision to apply when notification permission is requested for this host"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:440
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to show notifications. The “undecided” default means the browser needs to "
+"ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:444
+msgid ""
+"Decision to apply when save password permission is requested for this host"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:445
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to save passwords. The “undecided” default means the browser needs to ask "
+"the user for permission, while “allow” and “deny” tell it to automatically "
+"make the decision upon request."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:449
+msgid "Decision to apply when webcam permission is requested for this host"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:450
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to access the user’s webcam. The “undecided” default means the browser needs "
+"to ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:454
+msgid ""
+"Decision to apply when advertisement permission is requested for this host"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:455
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to allow advertisements. The “undecided” default means the browser global "
+"setting is used, while “allow” and “deny” tell it to automatically make the "
+"decision upon request."
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:459
+msgid "Decision to apply when an autoplay policy is requested for this host"
+msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:460
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to autoplay. The “undecided” default means to allow autoplay of muted media, "
+"while “allow” and “deny” tell it to allow / deny all requests to autoplay "
+"media respectively."
+msgstr ""
+
+#: embed/ephy-about-handler.c:116 embed/ephy-about-handler.c:118
+msgid "Memory usage"
+msgstr "ਮੈਮੋਰੀ ਵਰਤੋਂ"
+
+#: embed/ephy-about-handler.c:168
+#, c-format
+msgid "Version %s"
+msgstr "ਵਰਜ਼ਨ %s"
+
+#: embed/ephy-about-handler.c:189
+msgid "About Web"
+msgstr "ਵੈੱਬ ਬਾਰੇ"
+
+#: embed/ephy-about-handler.c:194 src/window-commands.c:1011
+msgid "Epiphany Technology Preview"
+msgstr ""
+
+#: embed/ephy-about-handler.c:197
+msgid "A simple, clean, beautiful view of the web"
+msgstr "ਸਧਾਰਨ, ਸਾਫ਼, ਖੂਬਸੂਰਤ ਵੈੱਬ"
+
+#. Displayed when opening applications without any installed web apps.
+#: embed/ephy-about-handler.c:258 embed/ephy-about-handler.c:259
+#: embed/ephy-about-handler.c:290 embed/ephy-about-handler.c:305
+msgid "Applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ"
+
+#: embed/ephy-about-handler.c:260
+msgid "List of installed web applications"
+msgstr "ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਲਿਸਟ"
+
+#: embed/ephy-about-handler.c:276
+msgid "Delete"
+msgstr "ਹਟਾਓ"
+
+#. Note for translators: this refers to the installation date.
+#: embed/ephy-about-handler.c:278
+msgid "Installed on:"
+msgstr "ਇੰਸਟਾਲ ਕੀਤੀ:"
+
+#: embed/ephy-about-handler.c:305
+msgid ""
+"You can add your favorite website by clicking <b>Install Site as Web "
+"Application…</b> within the page menu."
+msgstr ""
+
+#. Displayed when opening the browser for the first time.
+#: embed/ephy-about-handler.c:397
+msgid "Welcome to Web"
+msgstr "ਵੈੱਬ ਉੱਤੇ ਜੀ ਆਇਆਂ ਨੂੰ"
+
+#: embed/ephy-about-handler.c:397
+msgid "Start browsing and your most-visited sites will appear here."
+msgstr ""
+
+#: embed/ephy-about-handler.c:428
+#: embed/web-process-extension/resources/js/overview.js:148
+msgid "Remove from overview"
+msgstr "ਸਾਰ ਤੋਂ ਹਟਾਓ"
+
+#: embed/ephy-about-handler.c:500 embed/ephy-about-handler.c:501
+msgid "Private Browsing"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
+
+#: embed/ephy-about-handler.c:502
+msgid ""
+"You are currently browsing incognito. Pages viewed in this mode will not "
+"show up in your browsing history and all stored information will be cleared "
+"when you close the window. Files you download will be kept."
+msgstr ""
+
+#: embed/ephy-about-handler.c:506
+msgid ""
+"Incognito mode hides your activity only from people using this computer."
+msgstr ""
+
+#: embed/ephy-about-handler.c:508
+msgid ""
+"It will not hide your activity from your employer if you are at work. Your "
+"internet service provider, your government, other governments, the websites "
+"that you visit, and advertisers on these websites may still be tracking you."
+msgstr ""
+
+#. Translators: a desktop notification when a download finishes.
+#: embed/ephy-download.c:725
+#, fuzzy, c-format
+#| msgid "Error downloading: %s"
+msgid "Finished downloading %s"
+msgstr "ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ: %s"
+
+#. Translators: the title of the notification.
+#: embed/ephy-download.c:727
+msgid "Download finished"
+msgstr "ਡਾਊਨਲੋਡ ਮੁਕੰਮਲ"
+
+#: embed/ephy-download.c:818
+#, fuzzy
+#| msgid "Download started"
+msgid "Download requested"
+msgstr "ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ"
+
+#: embed/ephy-download.c:819 lib/widgets/ephy-file-chooser.c:164
+#: src/ephy-web-extension-dialog.c:75 src/ephy-web-extension-dialog.c:242
+#: src/resources/gtk/firefox-sync-dialog.ui:173
+#: src/resources/gtk/history-dialog.ui:96
+#: src/resources/gtk/prefs-lang-dialog.ui:16 src/window-commands.c:276
+#: src/window-commands.c:334 src/window-commands.c:378
+#: src/window-commands.c:562 src/window-commands.c:647
+#: src/window-commands.c:809 src/window-commands.c:1888
+msgid "_Cancel"
+msgstr "ਰੱਦ ਕਰੋ(_C)"
+
+#: embed/ephy-download.c:819
+#| msgid "Downloads"
+msgid "_Download"
+msgstr "ਡਾਊਨਲੋਡ(_D)"
+
+#: embed/ephy-download.c:832
+#, c-format
+#| msgctxt "language"
+#| msgid "%s (%s)"
+msgid "Type: %s (%s)"
+msgstr "ਕਿਸਮ: %s (%s)"
+
+#. From
+#: embed/ephy-download.c:838
+#, c-format
+msgid "From: %s"
+msgstr "ਤੋਂ: %s"
+
+#. Question
+#: embed/ephy-download.c:843
+msgid "Where do you want to save the file?"
+msgstr ""
+
+#. File Chooser Button
+#: embed/ephy-download.c:848
+#| msgctxt "shortcut window"
+#| msgid "Open file"
+msgid "Save file"
+msgstr "ਫਾਇਲ ਨੂੰ ਸੰਭਾਲੋ"
+
+#. Translators: 'ESC' and 'F11' are keyboard keys.
+#: embed/ephy-embed.c:533
+#, c-format
+msgid "Press %s to exit fullscreen"
+msgstr "ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾਣ ਲਈ %s ਨੂੰ ਦਬਾਓ"
+
+#: embed/ephy-embed.c:533
+msgid "ESC"
+msgstr "ESC"
+
+#: embed/ephy-embed.c:533
+msgid "F11"
+msgstr "F11"
+
+#. Translators: this means WebDriver control.
+#: embed/ephy-embed.c:807
+msgid "Web is being controlled by automation."
+msgstr ""
+
+#: embed/ephy-embed-utils.c:66
+#, c-format
+msgid "Send an email message to “%s”"
+msgstr "“%s” ਨੂੰ ਈ-ਮੇਲ ਸੁਨੇਹਾ ਭੇਜੋ"
+
+#: embed/ephy-embed-utils.h:31
+msgid "Blank page"
+msgstr "ਖਾਲੀ ਸਫ਼ਾ"
+
+#. Title for the blank page
+#: embed/ephy-embed-utils.h:32
+msgid "Most Visited"
+msgstr "ਅਕਸਰ ਖੋਲ੍ਹੀਆਂ"
+
+#: embed/ephy-encodings.c:58
+msgid "Arabic (_IBM-864)"
+msgstr "ਅਰਬੀ (IBM-864)"
+
+#: embed/ephy-encodings.c:59
+msgid "Arabic (ISO-_8859-6)"
+msgstr "ਅਰਬੀ (ISO-8859-6)"
+
+#: embed/ephy-encodings.c:60
+msgid "Arabic (_MacArabic)"
+msgstr "ਅਰਬੀ (ਮੈਕਅਰਬੀ)"
+
+#: embed/ephy-encodings.c:61
+msgid "Arabic (_Windows-1256)"
+msgstr "ਅਰਬੀ (ਵਿੰਡੋ-1256)"
+
+#: embed/ephy-encodings.c:62
+msgid "Baltic (_ISO-8859-13)"
+msgstr "ਬਾਲਟਿਕ (ISO-8859-13)"
+
+#: embed/ephy-encodings.c:63
+msgid "Baltic (I_SO-8859-4)"
+msgstr "ਬਾਲਟਿਕ (ISO-8859-4)"
+
+#: embed/ephy-encodings.c:64
+msgid "Baltic (_Windows-1257)"
+msgstr "ਬਾਲਟਿਕ (ਵਿੰਡੋ-1257)"
+
+#: embed/ephy-encodings.c:65
+msgid "_Armenian (ARMSCII-8)"
+msgstr "ਅਰਮੀਨੀਆ (ARMSCII-8)"
+
+#: embed/ephy-encodings.c:66
+msgid "_Georgian (GEOSTD8)"
+msgstr "ਜਾਰਜੀਅਨ (GEOSTD8)"
+
+#: embed/ephy-encodings.c:67
+msgid "Central European (_IBM-852)"
+msgstr "ਮੱਧ-ਯੂਰਪੀ (IBM-852)"
+
+#: embed/ephy-encodings.c:68
+msgid "Central European (I_SO-8859-2)"
+msgstr "ਮੱਧ-ਯੂਰਪੀ (ISO-8859-2)"
+
+#: embed/ephy-encodings.c:69
+msgid "Central European (_MacCE)"
+msgstr "ਮੱਧ-ਯੂਰਪੀ (ਮੈਕCE)"
+
+#: embed/ephy-encodings.c:70
+msgid "Central European (_Windows-1250)"
+msgstr "ਮੱਧ-ਯੂਰਪੀ (ਵਿੰਡੋ-1250)"
+
+#: embed/ephy-encodings.c:71
+msgid "Chinese Simplified (_GB18030)"
+msgstr "ਚੀਨੀ ਸਧਾਰਨ (GB18030)"
+
+#: embed/ephy-encodings.c:72
+msgid "Chinese Simplified (G_B2312)"
+msgstr "ਚੀਨੀ ਸਧਾਰਨ (GB2312)"
+
+#: embed/ephy-encodings.c:73
+msgid "Chinese Simplified (GB_K)"
+msgstr "ਚੀਨੀ ਸਧਾਰਨ (GBK)"
+
+#: embed/ephy-encodings.c:74
+msgid "Chinese Simplified (_HZ)"
+msgstr "ਚੀਨੀ ਸਧਾਰਨ (HZ)"
+
+#: embed/ephy-encodings.c:75
+msgid "Chinese Simplified (_ISO-2022-CN)"
+msgstr "ਚੀਨੀ ਸਧਾਰਨ (ISO-2022-CN)"
+
+#: embed/ephy-encodings.c:76
+msgid "Chinese Traditional (Big_5)"
+msgstr "ਚੀਨੀ ਮੂਲ (Big5)"
+
+#: embed/ephy-encodings.c:77
+msgid "Chinese Traditional (Big5-HK_SCS)"
+msgstr "ਚੀਨੀ ਮੂਲ (Big5-HKSCS)"
+
+#: embed/ephy-encodings.c:78
+msgid "Chinese Traditional (_EUC-TW)"
+msgstr "ਚੀਨੀ ਮੂਲ (EUC-TW)"
+
+#: embed/ephy-encodings.c:79
+msgid "Cyrillic (_IBM-855)"
+msgstr "ਸਿਰਲਿਕ (IBM-855)"
+
+#: embed/ephy-encodings.c:80
+msgid "Cyrillic (I_SO-8859-5)"
+msgstr "ਸਿਰਲਿਕ (ISO-8859-5)"
+
+#: embed/ephy-encodings.c:81
+msgid "Cyrillic (IS_O-IR-111)"
+msgstr "ਸਿਰਲਿਕ (ISO-IR-111)"
+
+#: embed/ephy-encodings.c:82
+msgid "Cyrillic (_KOI8-R)"
+msgstr "ਸਿਰਲਿਕ (KOI8-R)"
+
+#: embed/ephy-encodings.c:83
+msgid "Cyrillic (_MacCyrillic)"
+msgstr "ਸਿਰਲਿਕ (ਮੈਕਸਿਰਲਿਕ)"
+
+#: embed/ephy-encodings.c:84
+msgid "Cyrillic (_Windows-1251)"
+msgstr "ਸਿਰਲਿਕ(ਵਿੰਡੋ-1251)"
+
+#: embed/ephy-encodings.c:85
+msgid "Cyrillic/_Russian (IBM-866)"
+msgstr "ਸਿਰਲਿਕ/ਰੂਸੀ (IBM-866)(_R)"
+
+#: embed/ephy-encodings.c:86
+msgid "Greek (_ISO-8859-7)"
+msgstr "ਗਰੀਕ (_ISO-8859-7)"
+
+#: embed/ephy-encodings.c:87
+msgid "Greek (_MacGreek)"
+msgstr "ਗਰੀਕ (ਮੈਕਗਰੀਕ)(_M)"
+
+#: embed/ephy-encodings.c:88
+msgid "Greek (_Windows-1253)"
+msgstr "ਗਰੀਕ (ਵਿੰਡੋ-1253)(_W)"
+
+#: embed/ephy-encodings.c:89
+msgid "Gujarati (_MacGujarati)"
+msgstr "ਗੁਜਰਾਤੀ (ਮੈਕ-ਗੁਜਰਾਤੀ)(_M)"
+
+#: embed/ephy-encodings.c:90
+msgid "Gurmukhi (Mac_Gurmukhi)"
+msgstr "ਗੁਰਮੁਖੀ (ਮੈਕ ਗੁਰਮੁਖੀ)(_G)"
+
+#: embed/ephy-encodings.c:91
+msgid "Hindi (Mac_Devanagari)"
+msgstr "ਹਿੰਦੀ (ਮੈਕ-ਦੇਵਨਾਗਰੀ)(_D)"
+
+#: embed/ephy-encodings.c:92
+msgid "Hebrew (_IBM-862)"
+msgstr "ਹੇਬਰਿਊ (_IBM-862)"
+
+#: embed/ephy-encodings.c:93
+msgid "Hebrew (IS_O-8859-8-I)"
+msgstr "ਹੇਬਰਿਊ (IS_O-8859-8-I)"
+
+#: embed/ephy-encodings.c:94
+msgid "Hebrew (_MacHebrew)"
+msgstr "ਹੇਬਰਿਊ (ਮੈਕ ਹੇਬਰਿਊ)(_M)"
+
+#: embed/ephy-encodings.c:95
+msgid "Hebrew (_Windows-1255)"
+msgstr "ਹੇਬਰਿਊ (ਵਿੰਡੋ-1255)(_W)"
+
+#: embed/ephy-encodings.c:96
+msgid "_Visual Hebrew (ISO-8859-8)"
+msgstr "ਦਿੱਖ ਹੇਬਰਿਊ (ISO-8859-8)(_V)"
+
+#: embed/ephy-encodings.c:97
+msgid "Japanese (_EUC-JP)"
+msgstr "ਜਪਾਨੀ (_EUC-JP)"
+
+#: embed/ephy-encodings.c:98
+msgid "Japanese (_ISO-2022-JP)"
+msgstr "ਜਪਾਨੀ (_ISO-2022-JP)"
+
+#: embed/ephy-encodings.c:99
+msgid "Japanese (_Shift-JIS)"
+msgstr "ਜਪਾਨੀ (_Shift-JIS)"
+
+#: embed/ephy-encodings.c:100
+msgid "Korean (_EUC-KR)"
+msgstr "ਕੋਰੀਅਨ (_EUC-KR)"
+
+#: embed/ephy-encodings.c:101
+msgid "Korean (_ISO-2022-KR)"
+msgstr "ਕੋਰੀਅਨ (_ISO-2022-KR)"
+
+#: embed/ephy-encodings.c:102
+msgid "Korean (_JOHAB)"
+msgstr "ਕੋਰੀਅਨ (_JOHAB)"
+
+#: embed/ephy-encodings.c:103
+msgid "Korean (_UHC)"
+msgstr "ਕੋਰੀਅਨ (_UHC)"
+
+#: embed/ephy-encodings.c:104
+msgid "_Celtic (ISO-8859-14)"
+msgstr "ਕੀਲਟਿਕ (ISO-8859-14)(_C)"
+
+#: embed/ephy-encodings.c:105
+msgid "_Icelandic (MacIcelandic)"
+msgstr "ਆਈਸਲੈਡ (ਮੈਕ ਆਈਸਲੈਡ)(_I)"
+
+#: embed/ephy-encodings.c:106
+msgid "_Nordic (ISO-8859-10)"
+msgstr "ਨੁਰਡਿਕ(ISO-8859-10)(_N)"
+
+#: embed/ephy-encodings.c:107
+msgid "_Persian (MacFarsi)"
+msgstr "ਫਾਰਸੀ (ਮੈਕ ਫਾਰਸੀ)(_P)"
+
+#: embed/ephy-encodings.c:108
+msgid "Croatian (Mac_Croatian)"
+msgstr "ਕਰੋਟੀਨੀਆ(ਮੈਕ ਕਰੋਟੀਨੀਆ)(_C)"
+
+#: embed/ephy-encodings.c:109
+msgid "_Romanian (MacRomanian)"
+msgstr "ਰੋਮਾਨੀਆ (ਮੈਕ-ਰੋਮਾਨੀਆ)(_R)"
+
+#: embed/ephy-encodings.c:110
+msgid "R_omanian (ISO-8859-16)"
+msgstr "ਰੋਮਾਨੀਆ(IS_0-8859-16)"
+
+#: embed/ephy-encodings.c:111
+msgid "South _European (ISO-8859-3)"
+msgstr "ਦੱਖਣੀ ਯੂਰਪ (ISO-8859-3)(_E)"
+
+#: embed/ephy-encodings.c:112
+msgid "Thai (TIS-_620)"
+msgstr "ਥਾਈ (TIS-_620)"
+
+#: embed/ephy-encodings.c:113
+msgid "Thai (IS_O-8859-11)"
+msgstr "ਥਾਈ (IS_0-8859-11)"
+
+#: embed/ephy-encodings.c:114
+msgid "_Thai (Windows-874)"
+msgstr "ਥਾਈ(ਵਿੰਡੋ-874)(_T)"
+
+#: embed/ephy-encodings.c:115
+msgid "Turkish (_IBM-857)"
+msgstr "ਤੁਰਕੀ (_IBM-857)"
+
+#: embed/ephy-encodings.c:116
+msgid "Turkish (I_SO-8859-9)"
+msgstr "ਤੁਰਕੀ (ISO-8859-9)"
+
+#: embed/ephy-encodings.c:117
+msgid "Turkish (_MacTurkish)"
+msgstr "ਤੁਰਕੀ(ਮੈਕ ਤੁਰਕੀ)"
+
+#: embed/ephy-encodings.c:118
+msgid "Turkish (_Windows-1254)"
+msgstr "ਤੁਰਕੀ (ਵਿੰਡੋ-1254)"
+
+#: embed/ephy-encodings.c:119
+msgid "Unicode (UTF-_8)"
+msgstr "ਯੂਨੀ-ਕੋਡ (UTF-8)"
+
+#: embed/ephy-encodings.c:120
+msgid "Cyrillic/Ukrainian (_KOI8-U)"
+msgstr "ਸਿਰਲਿਕ/ਯੂਕਰੇਨੀ (KOI8-U)"
+
+#: embed/ephy-encodings.c:121
+msgid "Cyrillic/Ukrainian (Mac_Ukrainian)"
+msgstr "ਸਿਰਲਿਕ/ਯੂਕਰੇਨੀ (ਮੈਕ ਯੂਕਰੇਨੀ)"
+
+#: embed/ephy-encodings.c:122
+msgid "Vietnamese (_TCVN)"
+msgstr "ਵੀਅਤਨਾਮੀ(TCVN)"
+
+#: embed/ephy-encodings.c:123
+msgid "Vietnamese (_VISCII)"
+msgstr "ਵੀਅਤਨਾਮੀ(VISCII)"
+
+#: embed/ephy-encodings.c:124
+msgid "Vietnamese (V_PS)"
+msgstr "ਵੀਅਤਨਾਮੀ(V_PS)"
+
+#: embed/ephy-encodings.c:125
+msgid "Vietnamese (_Windows-1258)"
+msgstr "ਵੀਅਤਨਾਮੀ(ਵਿੰਡੋ-1258)"
+
+#: embed/ephy-encodings.c:126
+msgid "Western (_IBM-850)"
+msgstr "ਪੱਛਮੀ(_IBM-850)"
+
+#: embed/ephy-encodings.c:127
+msgid "Western (_ISO-8859-1)"
+msgstr "ਪੱਛਮੀ(ISO-8859-1)"
+
+#: embed/ephy-encodings.c:128
+msgid "Western (IS_O-8859-15)"
+msgstr "ਪੱਛਮੀ(ISO-8859-15)"
+
+#: embed/ephy-encodings.c:129
+msgid "Western (_MacRoman)"
+msgstr "ਪੱਛਮੀ( ਮੈਕ ਰੋਮਨ)"
+
+#: embed/ephy-encodings.c:130
+msgid "Western (_Windows-1252)"
+msgstr "ਪੱਛਮੀ (_Windows-1252)"
+
+#  the following encodings are so rarely used that we don't want to pollute the "related"
+#  * part of the encodings menu with them, so we set the language group to 0 here
+#. The following encodings are so rarely used that we don't want to
+#. * pollute the "related" part of the encodings menu with them, so we
+#. * set the language group to 0 here.
+#.
+#: embed/ephy-encodings.c:136
+msgid "English (_US-ASCII)"
+msgstr "ਅੰਗਰੇਜ਼ੀ (_US-ASCII)"
+
+#: embed/ephy-encodings.c:137
+msgid "Unicode (UTF-_16 BE)"
+msgstr "ਯੂਨੀਕੋਡ (UTF-_16 BE)"
+
+#: embed/ephy-encodings.c:138
+msgid "Unicode (UTF-1_6 LE)"
+msgstr "ਯੂਨੀਕੋਡ (UTF-1_6 LE)"
+
+#: embed/ephy-encodings.c:139
+msgid "Unicode (UTF-_32 BE)"
+msgstr "ਯੂਨੀਕੋਡ (UTF-32 BE)"
+
+#: embed/ephy-encodings.c:140
+msgid "Unicode (UTF-3_2 LE)"
+msgstr "ਯੂਨੀਕੋਡ (UTF-32 LE)"
+
+#  translators: this is the title that an unknown encoding will
+#  * be displayed as.
+#. Translators: this is the title that an unknown encoding will
+#. * be displayed as.
+#.
+#: embed/ephy-encodings.c:219
+#, c-format
+msgid "Unknown (%s)"
+msgstr "ਅਣਜਾਣੀ (%s)"
+
+#: embed/ephy-find-toolbar.c:112
+msgid "Text not found"
+msgstr "ਟੈਕਸਟ ਨਹੀਂ ਲੱਭਿਆ"
+
+#: embed/ephy-find-toolbar.c:118
+msgid "Search wrapped back to the top"
+msgstr ""
+
+#: embed/ephy-find-toolbar.c:398
+msgid "Type to search…"
+msgstr "…ਲੱਭਣ ਲਈ ਲਿਖੋ"
+
+#: embed/ephy-find-toolbar.c:404
+msgid "Find previous occurrence of the search string"
+msgstr "ਖੋਜ ਸਤਰ ਦੀ ਪਿਛਲੀ ਮੌਜੂਦਗੀ ਦੀ ਖੋਜ"
+
+#: embed/ephy-find-toolbar.c:412
+msgid "Find next occurrence of the search string"
+msgstr "ਖੋਜ ਸਤਰ ਦੀ ਅਗਲੀ ਮੌਜੂਦਗੀ ਦੀ ਖੋਜ"
+
+#: embed/ephy-reader-handler.c:267 embed/ephy-view-source-handler.c:261
+#, c-format
+msgid "%s is not a valid URI"
+msgstr ""
+
+#: embed/ephy-web-view.c:189 src/window-commands.c:1350
+msgid "Open"
+msgstr "ਖੋਲ੍ਹੋ"
+
+#: embed/ephy-web-view.c:368
+#| msgid "_Not now"
+msgid "Not No_w"
+msgstr "ਹੁਣ ਨਹੀਂ(_w)"
+
+#: embed/ephy-web-view.c:369
+#| msgid "_Never accept"
+msgid "_Never Save"
+msgstr "ਕਦੇ ਨਾ ਸੰਭਾਲੋ(_N)"
+
+#: embed/ephy-web-view.c:370 lib/widgets/ephy-file-chooser.c:175
+#: src/resources/gtk/firefox-sync-dialog.ui:182 src/window-commands.c:646
+msgid "_Save"
+msgstr "ਸੰਭਾਲੋ(_S)"
+
+#. Translators: The %s the hostname where this is happening.
+#. * Example: mail.google.com.
+#.
+#: embed/ephy-web-view.c:377
+#, c-format
+msgid "Do you want to save your password for “%s”?"
+msgstr "ਕੀ ਤੁਸੀਂ “%s” ਲਈ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#. Translators: Message appears when insecure password form is focused.
+#: embed/ephy-web-view.c:616
+msgid ""
+"Heads-up: this form is not secure. If you type your password, it will not be "
+"kept private."
+msgstr ""
+
+#: embed/ephy-web-view.c:824
+msgid "Web process crashed"
+msgstr ""
+
+#: embed/ephy-web-view.c:827
+msgid "Web process terminated due to exceeding memory limit"
+msgstr ""
+
+#: embed/ephy-web-view.c:1027 embed/ephy-web-view.c:1148
+#: lib/widgets/ephy-security-popover.c:515
+msgid "Deny"
+msgstr "ਇਨਕਾਰ"
+
+#: embed/ephy-web-view.c:1028 embed/ephy-web-view.c:1149
+#: lib/widgets/ephy-security-popover.c:514
+msgid "Allow"
+msgstr "ਮਨਜ਼ੂਰ"
+
+#. Translators: Notification policy for a specific site.
+#: embed/ephy-web-view.c:1041
+#, c-format
+#| msgid "The page at <b>%s</b> wants to show desktop notifications."
+msgid "The page at %s wants to show desktop notifications."
+msgstr "%s ਤੋਂ ਸਫ਼ਾ ਡੈਸਕਟਾਪ ਸੂਚਨਾਵਾਂ ਵਿਖਾਉਣੀਆਂ ਚਾਹੁੰਦਾ ਹੈ।"
+
+#. Translators: Geolocation policy for a specific site.
+#: embed/ephy-web-view.c:1046
+#, fuzzy, c-format
+#| msgid "The page at <b>%s</b> wants to know your location."
+msgid "The page at %s wants to know your location."
+msgstr "<b>%s</b> ਤੋਂ ਪੇਜ਼ ਤੁਹਾਡਾ ਟਿਕਾਣਾ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹੈ।"
+
+#. Translators: Microphone policy for a specific site.
+#: embed/ephy-web-view.c:1051
+#, fuzzy, c-format
+#| msgid "The page at <b>%s</b> wants to know your location."
+msgid "The page at %s wants to use your microphone."
+msgstr "<b>%s</b> ਤੋਂ ਪੇਜ਼ ਤੁਹਾਡਾ ਟਿਕਾਣਾ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹੈ।"
+
+#. Translators: Webcam policy for a specific site.
+#: embed/ephy-web-view.c:1056
+#, fuzzy, c-format
+#| msgid "The page at <b>%s</b> wants to know your location."
+msgid "The page at %s wants to use your webcam."
+msgstr "<b>%s</b> ਤੋਂ ਪੇਜ਼ ਤੁਹਾਡਾ ਟਿਕਾਣਾ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹੈ।"
+
+#. Translators: Webcam and microphone policy for a specific site.
+#: embed/ephy-web-view.c:1061
+#, fuzzy, c-format
+#| msgid "The page at <b>%s</b> wants to know your location."
+msgid "The page at %s wants to use your webcam and microphone."
+msgstr "<b>%s</b> ਤੋਂ ਪੇਜ਼ ਤੁਹਾਡਾ ਟਿਕਾਣਾ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹੈ।"
+
+#: embed/ephy-web-view.c:1156
+#, c-format
+msgid "Do you want to allow “%s” to use cookies while browsing “%s”?"
+msgstr ""
+
+#: embed/ephy-web-view.c:1165
+#, c-format
+msgid "This will allow “%s” to track your activity."
+msgstr ""
+
+#. translators: %s here is the address of the web page
+#: embed/ephy-web-view.c:1343
+#, c-format
+msgid "Loading “%s”…"
+msgstr "“%s” ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
+
+#: embed/ephy-web-view.c:1345 embed/ephy-web-view.c:1351
+msgid "Loading…"
+msgstr "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
+
+#. Possible error message when a site presents a bad certificate.
+#: embed/ephy-web-view.c:1694
+msgid ""
+"This website presented identification that belongs to a different website."
+msgstr ""
+
+#. Possible error message when a site presents a bad certificate.
+#: embed/ephy-web-view.c:1699
+msgid ""
+"This website’s identification is too old to trust. Check the date on your "
+"computer’s calendar."
+msgstr ""
+
+#. Possible error message when a site presents a bad certificate.
+#: embed/ephy-web-view.c:1704
+msgid "This website’s identification was not issued by a trusted organization."
+msgstr ""
+
+#. Possible error message when a site presents a bad certificate.
+#: embed/ephy-web-view.c:1709
+msgid ""
+"This website’s identification could not be processed. It may be corrupted."
+msgstr ""
+
+#. Possible error message when a site presents a bad certificate.
+#: embed/ephy-web-view.c:1714
+msgid ""
+"This website’s identification has been revoked by the trusted organization "
+"that issued it."
+msgstr ""
+
+#. Possible error message when a site presents a bad certificate.
+#: embed/ephy-web-view.c:1719
+msgid ""
+"This website’s identification cannot be trusted because it uses very weak "
+"encryption."
+msgstr ""
+
+#. Possible error message when a site presents a bad certificate.
+#: embed/ephy-web-view.c:1724
+msgid ""
+"This website’s identification is only valid for future dates. Check the date "
+"on your computer’s calendar."
+msgstr ""
+
+#. Page title when a site cannot be loaded due to a network error.
+#. Page title when a site cannot be loaded due to a page crash error.
+#: embed/ephy-web-view.c:1787 embed/ephy-web-view.c:1843
+#, c-format
+msgid "Problem Loading Page"
+msgstr "ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ"
+
+#. Message title when a site cannot be loaded due to a network error.
+#: embed/ephy-web-view.c:1790
+#, fuzzy
+#| msgid "Oops! Unable to display this website"
+msgid "Unable to display this website"
+msgstr "ਓਹ ਹੋ! ਇਹ ਵੈੱਬਸਾਈਟ ਨੂੰ ਵੇਖਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+#. Error details when a site cannot be loaded due to a network error.
+#: embed/ephy-web-view.c:1794
+#, c-format
+msgid "The site at %s seems to be unavailable."
+msgstr ""
+
+#. Further error details when a site cannot be loaded due to a network error.
+#: embed/ephy-web-view.c:1798
+#, fuzzy
+#| msgid ""
+#| "<p>The website at <strong>%s</strong> seems to be unavailable. The "
+#| "precise error was:</p><p><em>%s</em></p><p>It could be temporarily "
+#| "switched off or moved to a new address. Don't forget to check that your "
+#| "internet connection is working correctly.</p>"
+msgid ""
+"It may be temporarily inaccessible or moved to a new address. You may wish "
+"to verify that your internet connection is working correctly."
+msgstr ""
+"<p><strong>%s</strong> ਵੈੱਬਸਾਈਟ ਸ਼ਾਇਦ ਚੱਲ ਨਹੀਂ ਹੈ, ਪੂਰੀ ਗਲਤੀ ਹੈ</p><p><em>%s<"
+"/em>। </"
+"p><p>ਇਹ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਸਵਿੱਚ ਬੰਦ ਹੋਣ ਕਰਕੇ ਜਾਂ ਨਵੇਂ ਐਡਰੈਸ ਕਰਕੇ ਹੋ ਸਕਦਾ ਹੈ।"
+" ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੇ ਠੀਕ "
+"ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਦੇ ਹੋਣ ਨੂੰ ਨਾ ਭੁੱਲੋ।</p>"
+
+#. Technical details when a site cannot be loaded due to a network error.
+#: embed/ephy-web-view.c:1808
+#, c-format
+msgid "The precise error was: %s"
+msgstr ""
+
+#. The button on the network error page. DO NOT ADD MNEMONICS HERE.
+#. The button on the page crash error page. DO NOT ADD MNEMONICS HERE.
+#. The button on the process crash error page. DO NOT ADD MNEMONICS HERE.
+#: embed/ephy-web-view.c:1813 embed/ephy-web-view.c:1866
+#: embed/ephy-web-view.c:1905 src/resources/gtk/page-menu-popover.ui:134
+msgid "Reload"
+msgstr "ਮੁੜ-ਲੋਡ"
+
+#. Mnemonic for the Reload button on browser error pages.
+#: embed/ephy-web-view.c:1816 embed/ephy-web-view.c:1869
+#: embed/ephy-web-view.c:1908
+msgctxt "reload-access-key"
+msgid "R"
+msgstr "R"
+
+#. Message title when a site cannot be loaded due to a page crash error.
+#: embed/ephy-web-view.c:1846
+msgid "Oops! There may be a problem"
+msgstr "ਓਹ ਹੋ! ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ"
+
+#. Error details when a site cannot be loaded due to a page crash error.
+#: embed/ephy-web-view.c:1850
+#, fuzzy, c-format
+#| msgid ""
+#| "Oops! This site might have caused the web browser to close unexpectedly"
+msgid "The page %s may have caused Web to close unexpectedly."
+msgstr "ਓਹ ਹੋ! ਇਹ ਸਾਈਟ ਨੇ ਸ਼ਾਇਦ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਨੂੰ ਅਚਾਨਕ ਬੰਦ ਹੋਣ ਲਈ ਮਜ਼ਬੂਰ ਕੀਤਾ"
+
+#. Further error details when a site cannot be loaded due to a page crash error.
+#: embed/ephy-web-view.c:1857
+#, c-format
+msgid "If this happens again, please report the problem to the %s developers."
+msgstr ""
+
+#. Page title when a site cannot be loaded due to a process crash error.
+#: embed/ephy-web-view.c:1894
+#, c-format
+msgid "Problem Displaying Page"
+msgstr ""
+
+#. Message title when a site cannot be loaded due to a process crash error.
+#: embed/ephy-web-view.c:1897
+msgid "Oops!"
+msgstr "ਓਹ ਹੋ!"
+
+#. Error details when a site cannot be loaded due to a process crash error.
+#: embed/ephy-web-view.c:1900
+msgid ""
+"Something went wrong while displaying this page. Please reload or visit a "
+"different page to continue."
+msgstr ""
+
+#. Page title when a site is not loaded due to an invalid TLS certificate.
+#: embed/ephy-web-view.c:1934
+#, c-format
+msgid "Security Violation"
+msgstr "ਸੁਰੱਖਿਆ ਉਲੰਘਣ"
+
+#. Message title when a site is not loaded due to an invalid TLS certificate.
+#: embed/ephy-web-view.c:1937
+msgid "This Connection is Not Secure"
+msgstr "ਇਹ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ"
+
+#. Error details when a site is not loaded due to an invalid TLS certificate.
+#: embed/ephy-web-view.c:1941
+#, c-format
+msgid ""
+"This does not look like the real %s. Attackers might be trying to steal or "
+"alter information going to or from this site."
+msgstr ""
+
+#  Go menu
+#. The button on the invalid TLS certificate error page. DO NOT ADD MNEMONICS HERE.
+#. The button on unsafe browsing error page. DO NOT ADD MNEMONICS HERE.
+#. The button on no such file error page. DO NOT ADD MNEMONICS HERE.
+#: embed/ephy-web-view.c:1951 embed/ephy-web-view.c:2040
+#: embed/ephy-web-view.c:2091
+msgid "Go Back"
+msgstr "ਪਿੱਛੇ ਜਾਓ"
+
+#. Mnemonic for the Go Back button on the invalid TLS certificate error page.
+#. Mnemonic for the Go Back button on the unsafe browsing error page.
+#. Mnemonic for the Go Back button on the no such file error page.
+#: embed/ephy-web-view.c:1954 embed/ephy-web-view.c:2043
+#: embed/ephy-web-view.c:2094
+msgctxt "back-access-key"
+msgid "B"
+msgstr "B"
+
+#. The hidden button on the invalid TLS certificate error page. Do not add mnemonics here.
+#. The hidden button on the unsafe browsing error page. Do not add mnemonics here.
+#: embed/ephy-web-view.c:1957 embed/ephy-web-view.c:2046
+msgid "Accept Risk and Proceed"
+msgstr "ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਕਰਕੇ ਜਾਰੀ ਰੱਖੋ"
+
+#. Mnemonic for the Accept Risk and Proceed button on the invalid TLS certificate error page.
+#. Mnemonic for the Accept Risk and Proceed button on the unsafe browsing error page.
+#: embed/ephy-web-view.c:1961 embed/ephy-web-view.c:2050
+msgctxt "proceed-anyway-access-key"
+msgid "P"
+msgstr "P"
+
+#. Page title when a site is flagged by Google Safe Browsing verification.
+#: embed/ephy-web-view.c:1991
+#, c-format
+msgid "Security Warning"
+msgstr "ਸੁਰੱਖਿਆ ਚੇਤਾਵਨੀ"
+
+#. Message title on the unsafe browsing error page.
+#: embed/ephy-web-view.c:1994
+msgid "Unsafe website detected!"
+msgstr ""
+
+#: embed/ephy-web-view.c:2001
+#, c-format
+msgid ""
+"Visiting %s may harm your computer. This page appears to contain malicious "
+"code that could be downloaded to your computer without your consent."
+msgstr ""
+
+#: embed/ephy-web-view.c:2005
+#, c-format
+msgid ""
+"You can learn more about harmful web content including viruses and other "
+"malicious code and how to protect your computer at %s."
+msgstr ""
+
+#: embed/ephy-web-view.c:2012
+#, c-format
+msgid ""
+"Attackers on %s may trick you into doing something dangerous like installing "
+"software or revealing your personal information (for example, passwords, "
+"phone numbers, or credit cards)."
+msgstr ""
+
+#: embed/ephy-web-view.c:2017
+#, c-format
+msgid ""
+"You can find out more about social engineering (phishing) at %s or from %s."
+msgstr ""
+
+#: embed/ephy-web-view.c:2026
+#, c-format
+msgid ""
+"%s may contain harmful programs. Attackers might attempt to trick you into "
+"installing programs that harm your browsing experience (for example, by "
+"changing your homepage or showing extra ads on sites you visit)."
+msgstr ""
+
+#: embed/ephy-web-view.c:2031
+#, c-format
+msgid "You can learn more about unwanted software at %s."
+msgstr ""
+
+#. Page title on no such file error page
+#. Message title on the no such file error page.
+#: embed/ephy-web-view.c:2075 embed/ephy-web-view.c:2078
+#, c-format
+#| msgid "Text not found"
+msgid "File not found"
+msgstr "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ"
+
+#: embed/ephy-web-view.c:2082
+#, fuzzy, c-format
+#| msgid "“%s” could not be found."
+msgid "%s could not be found."
+msgstr "“%s” ਮਿਲਿਆ ਨਹੀਂ ਹੈ।"
+
+#: embed/ephy-web-view.c:2084
+#, c-format
+msgid ""
+"Please check the file name for capitalization or other typing errors. Also "
+"check if it has been moved, renamed, or deleted."
+msgstr ""
+
+#: embed/ephy-web-view.c:2147
+msgid "None specified"
+msgstr "ਦਿੱਤਾ ਨਹੀਂ ਹੈ"
+
+#: embed/ephy-web-view.c:2263
+msgid "Technical information"
+msgstr "ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ"
+
+#: embed/ephy-web-view.c:3420
+msgid "_OK"
+msgstr "ਠੀਕ ਹੈ(_O)"
+
+#: lib/contrib/gnome-languages.c:719
+#| msgid "None specified"
+msgid "Unspecified"
+msgstr "ਦਿੱਤਾ ਨਹੀਂ ਹੈ"
+
+#. If we don't have XDG user dirs info, return an educated guess.
+#: lib/ephy-file-helpers.c:118 src/resources/gtk/prefs-general-page.ui:185
+msgid "Downloads"
+msgstr "ਡਾਊਨਲੋਡ"
+
+#. If we don't have XDG user dirs info, return an educated guess.
+#: lib/ephy-file-helpers.c:175
+msgid "Desktop"
+msgstr "ਡੈਸਕਟਾਪ"
+
+#: lib/ephy-file-helpers.c:392
+#, c-format
+msgid "Could not create a temporary directory in “%s”."
+msgstr "“%s” ਵਿੱਚ ਆਰਜ਼ੀ ਡਾਇਰੈਕਟਰੀ ਬਣਾਈ ਨਹੀਂ ਜਾ ਸਕੀ ਹੈ।"
+
+#: lib/ephy-file-helpers.c:514
+#, c-format
+msgid "The file “%s” exists. Please move it out of the way."
+msgstr "ਫਾਇਲ “%s” ਮੌਜੂਦ ਨਹੀਂ ਹੈ। ਇਹ ਨੂੰ ਕਿਤੇ ਭੇਜ ਦਿਓ ਜੀ।"
+
+#: lib/ephy-file-helpers.c:533
+#, c-format
+msgid "Failed to create directory “%s”."
+msgstr "ਡਾਇਰੈਕਟਰੀ “%s” ਬਣਾਉਣ ਲਈ ਅਸਫ਼ਲ ਹੈ।"
+
+#: lib/ephy-gui.c:73
+#, c-format
+msgid "Could not display help: %s"
+msgstr "ਮੱਦਦ ਉਪਲੱਬਧ ਨਹੀ ਹੈ: %s"
+
+#. TRANSLATORS: Please modify the main address of duckduckgo in order to match
+#. * the version used in your country. For example for the french version :
+#. * replace the ".com" with ".fr" :  "https://duckduckgo.fr/?q=%s&amp;t=epiphany"
+#.
+#: lib/ephy-search-engine-manager.h:33
+#, c-format
+msgid "https://duckduckgo.com/?q=%s&amp;t=epiphany"
+msgstr "https://duckduckgo.com/?q=%s&amp;t=epiphany"
+
+#. Translators: First %s is the name of the user currently logged in on the
+#. * machine. The second %s is the machine's name. You can use the variables
+#. * in a different order by changing them to %2$s and %1$s.
+#: lib/ephy-sync-utils.c:342
+#, c-format
+msgid "%s’s GNOME Web on %s"
+msgstr ""
+
+#. Translators: "friendly time" string for the current day, strftime format. like "Today 12∶34 am"
+#: lib/ephy-time-helpers.c:236
+#| msgid "Today %I:%M %p"
+msgid "Today %I∶%M %p"
+msgstr "ਅੱਜ %I∶%M %p"
+
+#. Translators: "friendly time" string for the current day, strftime format. like "Today 15∶34"
+#: lib/ephy-time-helpers.c:239
+#| msgid "Today %I:%M %p"
+msgid "Today %H∶%M"
+msgstr "ਅੱਜ %H∶%M"
+
+#. Translators: "friendly time" string for the previous day,
+#. * strftime format. e.g. "Yesterday 12∶34 am"
+#.
+#: lib/ephy-time-helpers.c:254
+#| msgid "Yesterday %I:%M %p"
+msgid "Yesterday %I∶%M %p"
+msgstr "ਕੱਲ੍ਹ %I∶%M %p"
+
+#. Translators: "friendly time" string for the previous day,
+#. * strftime format. e.g. "Yesterday 15∶34"
+#.
+#: lib/ephy-time-helpers.c:259
+#| msgid "Yesterday %I:%M %p"
+msgid "Yesterday %H∶%M"
+msgstr "ਕੱਲ੍ਹ %H∶%M"
+
+#  To translators: this a time format that is used while displaying the
+#  * expiry or start date of an SSL certificate, for the format see
+#  * strftime(3)
+#. Translators: "friendly time" string for a day in the current week,
+#. * strftime format. e.g. "Wed 12∶34 am"
+#.
+#: lib/ephy-time-helpers.c:277
+#| msgid "%a %I:%M %p"
+msgid "%a %I∶%M %p"
+msgstr "%a %I∶%M %p"
+
+#. Translators: "friendly time" string for a day in the current week,
+#. * strftime format. e.g. "Wed 15∶34"
+#.
+#: lib/ephy-time-helpers.c:282
+msgid "%a %H∶%M"
+msgstr "%a %H∶%M"
+
+#  To translators: this a time format that is used while displaying the
+#  * expiry or start date of an SSL certificate, for the format see
+#  * strftime(3)
+#. Translators: "friendly time" string for a day in the current year,
+#. * strftime format. e.g. "Feb 12 12∶34 am"
+#.
+#: lib/ephy-time-helpers.c:296
+#| msgid "%b %d %I:%M %p"
+msgid "%b %d %I∶%M %p"
+msgstr "%d %b %I∶%M %p"
+
+#  To translators: this a time format that is used while displaying the
+#  * expiry or start date of an SSL certificate, for the format see
+#  * strftime(3)
+#. Translators: "friendly time" string for a day in the current year,
+#. * strftime format. e.g. "Feb 12 15∶34"
+#.
+#: lib/ephy-time-helpers.c:301
+#| msgid "%b %d %I:%M %p"
+msgid "%b %d %H∶%M"
+msgstr "%d %b %H∶%M"
+
+#  To translators: this a time format that is used while displaying the
+#  * expiry or start date of an SSL certificate, for the format see
+#  * strftime(3)
+#. Translators: "friendly time" string for a day in a different year,
+#. * strftime format. e.g. "Feb 12 1997"
+#.
+#: lib/ephy-time-helpers.c:307
+msgid "%b %d %Y"
+msgstr "%d %b %Y"
+
+#. impossible time or broken locale settings
+#: lib/ephy-time-helpers.c:317
+msgid "Unknown"
+msgstr "ਅਣਪਛਾਤਾ"
+
+#: lib/sync/ephy-password-import.c:132
+#, fuzzy, c-format
+#| msgid "Check the location of the file and try again."
+msgid "Cannot create SQLite connection. Close browser and try again."
+msgstr "ਆਪਣੀ ਫਾਇਲ ਦੇ ਟਿਕਾਣੇ ਦੀ ਜਾਂਚ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ ਕਰੋ।"
+
+#: lib/sync/ephy-password-import.c:141 lib/sync/ephy-password-import.c:151
+#, c-format
+msgid ""
+"Browser password database could not be opened. Close browser and try again."
+msgstr ""
+
+#. Translators: The first %s is the username and the second one is the
+#. * security origin where this is happening. Example: gnome@gmail.com and
+#. * https://mail.google.com.
+#: lib/sync/ephy-password-manager.c:433
+#, c-format
+msgid "Password for %s in a form in %s"
+msgstr ""
+
+#. Translators: The %s is the security origin where this is happening.
+#. * Example: https://mail.google.com.
+#: lib/sync/ephy-password-manager.c:437
+#, c-format
+msgid "Password in a form in %s"
+msgstr "%s ਵਿੱਚ ਫਾਰਮ ਵਿੱਚ ਪਾਸਵਰਡ"
+
+#: lib/sync/ephy-sync-service.c:862
+msgid "Failed to obtain storage credentials."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:863 lib/sync/ephy-sync-service.c:980
+#: lib/sync/ephy-sync-service.c:1758
+msgid "Please visit Firefox Sync and sign in again to continue syncing."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:970
+msgid "The password of your Firefox account seems to have been changed."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:971
+msgid ""
+"Please visit Firefox Sync and sign in with the new password to continue "
+"syncing."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:979
+msgid "Failed to obtain signed certificate."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:1724 lib/sync/ephy-sync-service.c:1729
+msgid "Could not find the sync secrets for the current sync user."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:1736 lib/sync/ephy-sync-service.c:1744
+msgid "The sync secrets for the current sync user are invalid."
+msgstr ""
+
+#. Translators: %s is the email of the user.
+#: lib/sync/ephy-sync-service.c:1852
+#, c-format
+msgid "The sync secrets of %s"
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:1877
+msgid "Failed to upload client record."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:2076
+msgid "Failed to upload crypto/keys record."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:2183
+#, fuzzy
+#| msgid "Failed to create directory “%s”."
+msgid "Failed to retrieve crypto keys."
+msgstr "ਡਾਇਰੈਕਟਰੀ “%s” ਬਣਾਉਣ ਲਈ ਅਸਫ਼ਲ ਹੈ।"
+
+#: lib/sync/ephy-sync-service.c:2234
+msgid "Failed to upload meta/global record."
+msgstr ""
+
+#. Translators: the %d is the storage version, the \n is a newline character.
+#: lib/sync/ephy-sync-service.c:2351
+#, c-format
+msgid ""
+"Your Firefox Account uses storage version %d. Web only supports version %d."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:2362
+msgid "Failed to verify storage version."
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:2418
+msgid "Failed to upload device info"
+msgstr ""
+
+#: lib/sync/ephy-sync-service.c:2494 lib/sync/ephy-sync-service.c:2572
+msgid "Failed to retrieve the Sync Key"
+msgstr ""
+
+#: lib/widgets/ephy-certificate-dialog.c:102
+msgid "The certificate does not match this website"
+msgstr ""
+
+#: lib/widgets/ephy-certificate-dialog.c:105
+msgid "The certificate has expired"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਦੀ ਮਿਆਦ ਪੁੱਗੀ"
+
+#: lib/widgets/ephy-certificate-dialog.c:108
+msgid "The signing certificate authority is not known"
+msgstr ""
+
+#: lib/widgets/ephy-certificate-dialog.c:111
+msgid "The certificate contains errors"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਗਲਤੀਆਂ ਹਨ"
+
+#: lib/widgets/ephy-certificate-dialog.c:114
+msgid "The certificate has been revoked"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਮਨਸੂਖ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ"
+
+#: lib/widgets/ephy-certificate-dialog.c:117
+msgid "The certificate is signed using a weak signature algorithm"
+msgstr ""
+
+#: lib/widgets/ephy-certificate-dialog.c:120
+msgid "The certificate activation time is still in the future"
+msgstr ""
+
+#: lib/widgets/ephy-certificate-dialog.c:162
+msgid "The identity of this website has been verified."
+msgstr "ਇਸ ਵੈੱਬਸਾਈਟ ਦੀ ਪਛਾਣ ਨੂੰ ਤਸਦੀਕ ਕੀਤਾ ਗਿਆ ਹੈ।"
+
+#: lib/widgets/ephy-certificate-dialog.c:163
+msgid "The identity of this website has not been verified."
+msgstr "ਇਸ ਵੈੱਬਸਾਈਟ ਦੀ ਪਛਾਣ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ।"
+
+#. Message on certificte dialog ertificate dialog
+#: lib/widgets/ephy-certificate-dialog.c:175
+msgid "No problems have been detected with your connection."
+msgstr "ਤੁਹਾਡੇ ਕਨੈਕਸ਼ਨ ਵਿੱਚ ਕੋਈ ਵੀ ਸਮੱਸਿਆ ਨਹੀਂ ਖੋਜੀ ਗਈ ਹੈ।"
+
+#: lib/widgets/ephy-certificate-dialog.c:178
+msgid ""
+"This certificate is valid. However, resources on this page were sent "
+"insecurely."
+msgstr ""
+
+#: lib/widgets/ephy-downloads-popover.c:235
+#: src/resources/gtk/history-dialog.ui:346
+#: src/resources/gtk/passwords-view.ui:27
+msgid "_Clear All"
+msgstr "ਸਭ ਨੂੰ ਸਾਫ਼ ਕਰੋ(_C)"
+
+#: lib/widgets/ephy-download-widget.c:78
+#, c-format
+msgid "%d second left"
+msgid_plural "%d seconds left"
+msgstr[0] "%d ਸਕਿੰਟ ਬਾਕੀ"
+msgstr[1] "%d ਸਕਿੰਟ ਬਾਕੀ"
+
+#: lib/widgets/ephy-download-widget.c:82
+#, c-format
+msgid "%d minute left"
+msgid_plural "%d minutes left"
+msgstr[0] "%d ਮਿੰਟ ਬਾਕੀ"
+msgstr[1] "%d ਮਿੰਟ ਬਾਕੀ"
+
+#: lib/widgets/ephy-download-widget.c:86
+#, c-format
+msgid "%d hour left"
+msgid_plural "%d hours left"
+msgstr[0] "%d ਘੰਟਾ ਬਾਕੀ"
+msgstr[1] "%d ਘੰਟੇ ਬਾਕੀ"
+
+#: lib/widgets/ephy-download-widget.c:90
+#, c-format
+msgid "%d day left"
+msgid_plural "%d days left"
+msgstr[0] "%d ਦਿਨ ਬਾਕੀ"
+msgstr[1] "%d ਦਿਨ ਬਾਕੀ"
+
+#: lib/widgets/ephy-download-widget.c:94
+#, c-format
+msgid "%d week left"
+msgid_plural "%d weeks left"
+msgstr[0] "%d ਹਫ਼ਤਾ ਬਾਕੀ"
+msgstr[1] "%d ਹਫ਼ਤੇ ਬਾਕੀ"
+
+#: lib/widgets/ephy-download-widget.c:98
+#, c-format
+msgid "%d month left"
+msgid_plural "%d months left"
+msgstr[0] "%d ਮਹੀਨਾ ਬਾਕੀ"
+msgstr[1] "%d ਮਹੀਨੇ ਬਾਕੀ"
+
+#: lib/widgets/ephy-download-widget.c:213
+#: lib/widgets/ephy-download-widget.c:431
+msgid "Finished"
+msgstr "ਮੁਕੰਮਲ"
+
+#: lib/widgets/ephy-download-widget.c:223
+msgid "Moved or deleted"
+msgstr ""
+
+#: lib/widgets/ephy-download-widget.c:238
+#: lib/widgets/ephy-download-widget.c:428
+#, c-format
+msgid "Error downloading: %s"
+msgstr "ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ: %s"
+
+#: lib/widgets/ephy-download-widget.c:264
+msgid "Cancelling…"
+msgstr "ਰੱਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+
+#: lib/widgets/ephy-download-widget.c:433
+msgid "Starting…"
+msgstr "…ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: lib/widgets/ephy-file-chooser.c:173 src/ephy-web-extension-dialog.c:243
+#: src/resources/gtk/history-dialog.ui:387
+msgid "_Open"
+msgstr "ਖੋਲ੍ਹੋ(_O)"
+
+#: lib/widgets/ephy-file-chooser.c:188
+msgid "All supported types"
+msgstr "ਸਭ ਸਹਾਇਕ ਕਿਸਮਾਂ"
+
+#: lib/widgets/ephy-file-chooser.c:204
+msgid "Web pages"
+msgstr "ਵੈਬ ਸਫ਼ੇ"
+
+#: lib/widgets/ephy-file-chooser.c:215
+msgid "Images"
+msgstr "ਚਿੱਤਰ"
+
+#: lib/widgets/ephy-file-chooser.c:224
+msgid "All files"
+msgstr "ਸਭ ਫਾਇਲਾਂ"
+
+#. Translators: the mnemonic shouldn't conflict with any of the
+#. * standard items in the GtkEntry context menu (Cut, Copy, Paste, Delete,
+#. * Select All, Input Methods and Insert Unicode control character.)
+#.
+#: lib/widgets/ephy-location-entry.c:670 src/ephy-history-dialog.c:563
+msgid "Cl_ear"
+msgstr "ਸਾਫ਼(_e)"
+
+#: lib/widgets/ephy-location-entry.c:690
+msgid "Paste and _Go"
+msgstr "ਚੇਪੋ ਅਤੇ ਜਾਓ(_G)"
+
+#  Edit menu
+#. Undo, redo.
+#: lib/widgets/ephy-location-entry.c:711 src/ephy-window.c:964
+msgid "_Undo"
+msgstr "ਵਾਪਸ(_U)"
+
+#: lib/widgets/ephy-location-entry.c:718
+msgid "_Redo"
+msgstr "ਪਰਤਾਓ(_R)"
+
+#: lib/widgets/ephy-location-entry.c:1004
+msgid "Show website security status and permissions"
+msgstr ""
+
+#: lib/widgets/ephy-location-entry.c:1006
+msgid "Search for websites, bookmarks, and open tabs"
+msgstr ""
+
+#: lib/widgets/ephy-location-entry.c:1050
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Bookmark current page"
+msgid "Bookmark this page"
+msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ"
+
+#: lib/widgets/ephy-location-entry.c:1069
+msgid "Toggle reader mode"
+msgstr ""
+
+#. Label in certificate popover when site is untrusted. %s is a URL.
+#: lib/widgets/ephy-security-popover.c:186
+#, c-format
+msgid ""
+"This web site’s digital identification is not trusted. You may have "
+"connected to an attacker pretending to be %s."
+msgstr ""
+
+#. Label in certificate popover when site uses HTTP. %s is a URL.
+#: lib/widgets/ephy-security-popover.c:193
+#, c-format
+msgid ""
+"This site has no security. An attacker could see any information you send, "
+"or control the content that you see."
+msgstr ""
+
+#. Label in certificate popover when site sends mixed content.
+#: lib/widgets/ephy-security-popover.c:200
+msgid "This web site did not properly secure your connection."
+msgstr "ਇਹ ਵੈੱਬ ਸਾਈਟ ਤੁਹਾਡੇ ਕਨੈਕਸ਼ਨ ਨੂੰ ਠੀਕ ਤਰ੍ਹਾਂ ਸੁਰੱਖਿਆ ਨਹੀਂ ਕਰਦੀ ਹੈ।"
+
+#. Label in certificate popover on secure sites.
+#: lib/widgets/ephy-security-popover.c:205
+msgid "Your connection seems to be secure."
+msgstr "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਜਾਪਦਾ ਹੈ।"
+
+#  Add the buttons
+#: lib/widgets/ephy-security-popover.c:251
+msgid "_View Certificate…"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ(_V)..."
+
+#: lib/widgets/ephy-security-popover.c:518
+msgid "Ask"
+msgstr ""
+
+#: lib/widgets/ephy-security-popover.c:535
+#| msgid "Session"
+msgid "Permissions"
+msgstr "ਇਜਾਜ਼ਤਾਂ"
+
+#: lib/widgets/ephy-security-popover.c:573
+#| msgid "Allow _advertisements"
+msgid "Advertisements"
+msgstr "ਇਸ਼ਤਿਹਾਰ"
+
+#: lib/widgets/ephy-security-popover.c:574
+#| msgid "Location"
+msgid "Notifications"
+msgstr "ਨੋਟੀਫਿਕੇਸ਼ਨ"
+
+#: lib/widgets/ephy-security-popover.c:575
+#| msgid "Passwords"
+msgid "Password saving"
+msgstr "ਪਾਸਵਰਡ ਸੰਭਾਲਣਾ"
+
+#: lib/widgets/ephy-security-popover.c:576
+#| msgid "Location"
+msgid "Location access"
+msgstr "ਟਿਕਾਣਾ ਪਹੁੰਚ"
+
+#: lib/widgets/ephy-security-popover.c:577
+msgid "Microphone access"
+msgstr "ਮਾਈਕਰੋਫੋਨ ਪੁਹੰਚ"
+
+#: lib/widgets/ephy-security-popover.c:578
+msgid "Webcam access"
+msgstr "ਵੈੱਬਕੈਮ ਪਹੁੰਚ"
+
+#: lib/widgets/ephy-security-popover.c:579
+msgid "Media autoplay"
+msgstr ""
+
+#: src/bookmarks/ephy-bookmark-row.c:62
+#| msgid "Cookie properties"
+msgid "Bookmark Properties"
+msgstr "ਬੁੱਕਮਾਰਕ ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: src/bookmarks/ephy-bookmarks-import.c:127
+#, c-format
+msgid "File is not a valid Epiphany bookmarks file: missing tags table"
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-import.c:145
+#, c-format
+msgid "File is not a valid Epiphany bookmarks file: missing bookmarks table"
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-import.c:247
+#, c-format
+msgid ""
+"Firefox bookmarks database could not be opened. Close Firefox and try again."
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-import.c:260
+#: src/bookmarks/ephy-bookmarks-import.c:292
+#, c-format
+msgid "Firefox bookmarks could not be retrieved!"
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-import.c:458
+#, c-format
+msgid "HTML bookmarks database could not be opened: %s"
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-import.c:469
+msgid "HTML bookmarks database could not be read."
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-import.c:490
+#, c-format
+msgid "HTML bookmarks database could not be parsed: %s"
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-import.c:643
+#, fuzzy, c-format
+#| msgctxt "shortcut window"
+#| msgid "Bookmark current page"
+msgid "Bookmarks file could not be parsed:"
+msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ"
+
+#: src/bookmarks/ephy-bookmarks-manager.h:34
+msgid "Favorites"
+msgstr ""
+
+#: src/bookmarks/ephy-bookmarks-manager.h:35
+msgid "Mobile"
+msgstr ""
+
+#. Translators: tooltip for the refresh button
+#: src/ephy-action-bar-start.c:37 src/ephy-header-bar.c:50
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Reload current page"
+msgid "Reload the current page"
+msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ"
+
+#: src/ephy-action-bar-start.c:646 src/ephy-header-bar.c:443
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Stop loading current page"
+msgid "Stop loading the current page"
+msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਹੋਣ ਨੂੰ ਰੋਕੋ"
+
+#. Translators: the %s refers to the time at which the last sync was made.
+#. * For example: Today 04:34 PM, Sun 11:25 AM, May 31 06:41 PM.
+#.
+#: src/ephy-firefox-sync-dialog.c:108
+#, c-format
+msgid "Last synchronized: %s"
+msgstr ""
+
+#: src/ephy-firefox-sync-dialog.c:396
+msgid "Something went wrong, please try again later."
+msgstr ""
+
+#: src/ephy-history-dialog.c:139 src/ephy-history-dialog.c:964
+msgid "It is not possible to modify history when in incognito mode."
+msgstr ""
+
+#: src/ephy-history-dialog.c:456
+msgid "Remove the selected pages from history"
+msgstr "ਅਤੀਤ ਵਿੱਚੋਂ ਚੁਣੇ ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ"
+
+#: src/ephy-history-dialog.c:463
+#| msgctxt "shortcut window"
+#| msgid "Copy"
+msgid "Copy URL"
+msgstr "URL ਕਾਪੀ ਕਰੋ"
+
+#: src/ephy-history-dialog.c:553
+msgid "Clear browsing history?"
+msgstr "ਕੀ ਝਲਕੀ ਅਤੀਤ ਸਾਫ ਕਰਨਾ ਹੈ?"
+
+#: src/ephy-history-dialog.c:557
+msgid ""
+"Clearing the browsing history will cause all history links to be permanently "
+"deleted."
+msgstr "ਝਲਕਾਰਾ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਹਮੇਸ਼ਾ ਲਈ ਅਤੀਤ ਸਬੰਧਾਂ ਨੂੰ ਖਤਮ ਕਰ ਦੇਵੇਗਾ।"
+
+#: src/ephy-history-dialog.c:967
+#| msgid "All history"
+msgid "Remove all history"
+msgstr "ਸਾਰਾ ਅਤੀਤ ਹਟਾਓ"
+
+#: src/ephy-main.c:111
+#, fuzzy
+#| msgid "Open a new browser window"
+msgid "Open a new browser window instead of a new tab"
+msgstr "ਇੱਕ ਨਵੀਂ ਝਲਕਾਰਾ ਵਿੰਡੋ ਖੋਲ੍ਹੋ"
+
+#: src/ephy-main.c:113
+#, fuzzy
+#| msgid "Load the given session file"
+msgid "Load the given session state file"
+msgstr "ਦਿੱਤੀ ਸ਼ੈਸ਼ਨ ਫਾਇਲ ਲੋਡ ਕਰੋ"
+
+#: src/ephy-main.c:113
+msgid "FILE"
+msgstr "ਫਾਇਲ"
+
+#: src/ephy-main.c:115
+#, fuzzy
+#| msgid "Start an instance in netbank mode"
+msgid "Start an instance with user data read-only"
+msgstr "ਨੈਟਬੈਂਕ ਮੋਡ ਵਿੱਚ ਮੌਕਾ ਚਲਾਓ"
+
+#: src/ephy-main.c:117
+#, fuzzy
+#| msgid "Start a private instance"
+msgid "Start a private instance with separate user data"
+msgstr "ਇੱਕ ਪ੍ਰਾਈਵੇਟ ਮੌਕਾ ਸ਼ੁਰੂ"
+
+#: src/ephy-main.c:120
+#, fuzzy
+#| msgid "Start the browser in application mode"
+msgid "Start a private instance in web application mode"
+msgstr "ਬਰਾਊਜ਼ਰ ਨੂੰ ਐਪਲੀਕੇਸ਼ਨ ਮੋਡ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ"
+
+#: src/ephy-main.c:122
+#, fuzzy
+#| msgid "Start a private instance"
+msgid "Start a private instance for WebDriver control"
+msgstr "ਇੱਕ ਪ੍ਰਾਈਵੇਟ ਮੌਕਾ ਸ਼ੁਰੂ"
+
+#: src/ephy-main.c:124
+#, fuzzy
+#| msgid "Profile directory to use in the private instance"
+msgid "Custom profile directory for private instance"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਮੌਕੇ ਵਿੱਚ ਵਰਤੋਂ ਲਈ ਪਰੋਫਾਇਲ ਡਾਇਰੈਕਟਰੀ"
+
+#: src/ephy-main.c:124
+msgid "DIR"
+msgstr "ਡਾਇ"
+
+#: src/ephy-main.c:126
+msgid "URL …"
+msgstr "URL …"
+
+#: src/ephy-main.c:255
+msgid "Web options"
+msgstr "ਵੈੱਬ ਚੋਣਾਂ"
+
+#. Translators: tooltip for the new tab button
+#: src/ephy-tab-view.c:628 src/resources/gtk/action-bar-start.ui:95
+msgid "Open a new tab"
+msgstr "ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੋ"
+
+#: src/ephy-web-extension-dialog.c:73
+msgid "Do you really want to remove this extension?"
+msgstr ""
+
+#: src/ephy-web-extension-dialog.c:77 src/ephy-web-extension-dialog.c:196
+#: src/resources/gtk/bookmark-properties-grid.ui:176
+msgid "_Remove"
+msgstr "ਹਟਾਓ(_R)"
+
+#: src/ephy-web-extension-dialog.c:165
+msgid "Author"
+msgstr ""
+
+#: src/ephy-web-extension-dialog.c:174
+#, fuzzy
+#| msgid "Version %s"
+msgid "Version"
+msgstr "ਵਰਜ਼ਨ %s"
+
+#: src/ephy-web-extension-dialog.c:183
+#: src/resources/gtk/prefs-general-page.ui:127
+#, fuzzy
+#| msgid "Home page"
+msgid "Homepage"
+msgstr "ਮੁੱਖ ਸਫ਼ਾ"
+
+#: src/ephy-web-extension-dialog.c:200
+#, fuzzy
+#| msgid "Remove the selected pages from history"
+msgid "Remove selected WebExtension"
+msgstr "ਅਤੀਤ ਵਿੱਚੋਂ ਚੁਣੇ ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ"
+
+#. Translators: this is the title of a file chooser dialog.
+#: src/ephy-web-extension-dialog.c:239
+msgid "Open File (manifest.json/xpi)"
+msgstr ""
+
+#: src/ephy-window.c:282
+#, fuzzy
+#| msgid "Oops! Unable to display this website"
+msgid "Do you want to leave this website?"
+msgstr "ਓਹ ਹੋ! ਇਹ ਵੈੱਬਸਾਈਟ ਨੂੰ ਵੇਖਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+#: src/ephy-window.c:283 src/window-commands.c:1199
+msgid "A form you modified has not been submitted."
+msgstr ""
+
+#: src/ephy-window.c:284 src/window-commands.c:1201
+msgid "_Discard form"
+msgstr ""
+
+#: src/ephy-window.c:299
+msgid "There are multiple tabs open."
+msgstr ""
+
+#: src/ephy-window.c:300
+msgid "If you close this window, all open tabs will be lost"
+msgstr ""
+
+#: src/ephy-window.c:301
+#, fuzzy
+#| msgid "Close tab"
+msgid "C_lose tabs"
+msgstr "ਟੈਬ ਬੰਦ"
+
+#: src/ephy-window.c:965
+msgid "Re_do"
+msgstr "ਪਰਤਾਓ(_d)"
+
+#  Edit Menu
+#. Edit.
+#: src/ephy-window.c:968
+msgid "Cu_t"
+msgstr "ਕੱਟੋ(_t)"
+
+#: src/ephy-window.c:969
+msgid "_Copy"
+msgstr "ਕਾਪੀ ਕਰੋ(_C)"
+
+#: src/ephy-window.c:970
+msgid "_Paste"
+msgstr "ਚੇਪੋ(_P)"
+
+#: src/ephy-window.c:971
+#, fuzzy
+#| msgctxt "toolbar style"
+#| msgid "Text only"
+msgid "_Paste Text Only"
+msgstr "ਕੇਵਲ ਸ਼ਬਦ"
+
+#: src/ephy-window.c:972
+msgid "Select _All"
+msgstr "ਸਭ ਚੁਣੋ(_A)"
+
+#: src/ephy-window.c:974
+msgid "S_end Link by Email…"
+msgstr "ਲਿੰਕ ਈ-ਮੇਲ ਰਾਹੀਂ ਭੇਜੋ(_e)..."
+
+#: src/ephy-window.c:976
+msgid "_Reload"
+msgstr "ਮੁਡ਼ ਲੋਡ(_R)"
+
+#  Go menu
+#: src/ephy-window.c:977
+#, fuzzy
+#| msgid "Back"
+msgid "_Back"
+msgstr "ਪਿੱਛੇ"
+
+#: src/ephy-window.c:978
+#, fuzzy
+#| msgid "Forward"
+msgid "_Forward"
+msgstr "ਅੱਗੇ"
+
+#. Bookmarks
+#: src/ephy-window.c:981
+msgid "Add Boo_kmark…"
+msgstr "ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ(_k)…"
+
+#. Links.
+#: src/ephy-window.c:985
+msgid "Open Link in New _Window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਖੋਲ੍ਹੋ(_W)"
+
+#: src/ephy-window.c:986
+msgid "Open Link in New _Tab"
+msgstr "ਲਿੰਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+
+#: src/ephy-window.c:987
+msgid "Open Link in I_ncognito Window"
+msgstr "ਲੁਕਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਖੋਲ੍ਹੋ(_n)"
+
+#: src/ephy-window.c:988
+msgid "_Save Link As…"
+msgstr "ਲਿੰਕ … ਵਜੋਂ ਸੰਭਾਲੋ(_S)"
+
+#: src/ephy-window.c:989
+msgid "_Copy Link Address"
+msgstr "ਲਿੰਕ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ(_C)"
+
+#: src/ephy-window.c:990
+msgid "_Copy E-mail Address"
+msgstr "ਈਮੇਲ ਐਡਰੈੱਸ ਨੂੰ ਕਾਪੀ ਕਰੋ(_C)"
+
+#. Images.
+#: src/ephy-window.c:994
+msgid "View _Image in New Tab"
+msgstr "ਚਿੱਤਰ ਨੂੰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਵੇਖੋ(_I)"
+
+#: src/ephy-window.c:995
+msgid "Copy I_mage Address"
+msgstr "ਚਿੱਤਰ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ(_m)"
+
+#: src/ephy-window.c:996
+msgid "_Save Image As…"
+msgstr "ਚਿੱਤਰ… ਵਜੋਂ ਸੰਭਾਲੋ(_S)"
+
+#: src/ephy-window.c:997
+msgid "Set as _Wallpaper"
+msgstr "ਵਾਲਪੇਪਰ ਵਜੋਂ ਲਗਾਓ(_W)"
+
+#. Video.
+#: src/ephy-window.c:1001
+msgid "Open Video in New _Window"
+msgstr "ਵੀਡੀਓ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ(_W)"
+
+#: src/ephy-window.c:1002
+msgid "Open Video in New _Tab"
+msgstr "ਵੀਡੀਓ ਨੂੰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+
+#: src/ephy-window.c:1003
+msgid "_Save Video As…"
+msgstr "ਵਿਡੀਓ ਨੂੰ … ਵਜੋਂ ਸੰਭਾਲੋ(_S)"
+
+#: src/ephy-window.c:1004
+msgid "_Copy Video Address"
+msgstr "ਵਿਡੀਓ ਐਡਰੈੱਸ ਨੂੰ ਕਾਪੀ ਕਰੋ(_C)"
+
+#. Audio.
+#: src/ephy-window.c:1008
+msgid "Open Audio in New _Window"
+msgstr "ਆਡੀਓ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ(_W)"
+
+#: src/ephy-window.c:1009
+msgid "Open Audio in New _Tab"
+msgstr "ਆਡੀਓ ਨੂੰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+
+#: src/ephy-window.c:1010
+msgid "_Save Audio As…"
+msgstr "ਆਡੀਓ ਨੂੰ … ਵਜੋਂ ਸੰਭਾਲੋ(_S)"
+
+#: src/ephy-window.c:1011
+msgid "_Copy Audio Address"
+msgstr "ਆਡੀਓ ਐਡਰੈੱਸ ਨੂੰ ਕਾਪੀ ਕਰੋ(_C)"
+
+#: src/ephy-window.c:1017
+#, fuzzy
+#| msgid "_Save Image As…"
+msgid "Save Pa_ge As…"
+msgstr "ਚਿੱਤਰ… ਵਜੋਂ ਸੰਭਾਲੋ(_S)"
+
+#: src/ephy-window.c:1018
+msgid "_Page Source"
+msgstr "ਸਫ਼ੇ ਸਰੋਤ(_P)"
+
+#  Translators you should change these links to respect your locale.
+#  * For instance in .nl these should be
+#  * "http://www.google.nl" and "http://www.google.nl/search?q=%s"
+#: src/ephy-window.c:1388
+#, fuzzy, c-format
+#| msgid "Search the Web for %s"
+msgid "Search the Web for “%s”"
+msgstr "%s ਲਈ ਵੈੱਬ ਨੂੰ ਖੋਜੋ"
+
+#  Links
+#: src/ephy-window.c:1417
+#, fuzzy
+#| msgid "_Open Link"
+msgid "Open Link"
+msgstr "ਲਿੰਕ ਖੋਲ੍ਹੋ(_O)"
+
+#: src/ephy-window.c:1419
+#, fuzzy
+#| msgid "Open Link in New _Tab"
+msgid "Open Link In New Tab"
+msgstr "ਲਿੰਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+
+#: src/ephy-window.c:1421
+#, fuzzy
+#| msgid "Open Link in New _Window"
+msgid "Open Link In New Window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਖੋਲ੍ਹੋ(_W)"
+
+#: src/ephy-window.c:1423
+#, fuzzy
+#| msgid "Open Link in I_ncognito Window"
+msgid "Open Link In Incognito Window"
+msgstr "ਲੁਕਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਖੋਲ੍ਹੋ(_n)"
+
+#: src/ephy-window.c:2927
+#, fuzzy
+#| msgid "Download completed"
+msgid "Download operation"
+msgstr "ਡਾਊਨਲੋਡ ਮੁਕੰਮਲ"
+
+#: src/ephy-window.c:2929
+#, fuzzy
+#| msgid "Details"
+msgid "Show details"
+msgstr "ਵੇਰਵਾ"
+
+#: src/ephy-window.c:2931
+#, c-format
+msgid "%d download operation active"
+msgid_plural "%d download operations active"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Translators: tooltip for the tab switcher menu button
+#: src/ephy-window.c:3450
+msgid "View open tabs"
+msgstr ""
+
+#: src/ephy-window.c:3581
+msgid "Set Web as your default browser?"
+msgstr ""
+
+#: src/ephy-window.c:3583
+msgid "Set Epiphany Technology Preview as your default browser?"
+msgstr ""
+
+#: src/ephy-window.c:3595
+msgid "_Yes"
+msgstr ""
+
+#: src/ephy-window.c:3596
+#, fuzzy
+#| msgid "No"
+msgid "_No"
+msgstr "ਨਹੀਂ"
+
+#: src/popup-commands.c:235
+msgid "Save Link As"
+msgstr "ਲਿੰਕ ਇੰਞ ਸੰਭਾਲੋ"
+
+#: src/popup-commands.c:243
+msgid "Save Image As"
+msgstr "ਚਿੱਤਰ ਇੰਞ ਸੰਭਾਲੋ"
+
+#: src/popup-commands.c:251
+msgid "Save Media As"
+msgstr "ਮੀਡਿਏ ਵਜੋਂ ਸੰਭਾਲੋ"
+
+#: src/preferences/clear-data-view.c:70
+msgid "Cookies"
+msgstr "ਕੂਕੀਜ਼"
+
+#: src/preferences/clear-data-view.c:71
+#, fuzzy
+#| msgid "Size of disk cache"
+msgid "HTTP disk cache"
+msgstr "ਡਿਸਕ ਕੈਚੇ ਦਾ ਅਕਾਰ"
+
+#: src/preferences/clear-data-view.c:72
+msgid "Local storage data"
+msgstr ""
+
+#: src/preferences/clear-data-view.c:73
+#, fuzzy
+#| msgid "List of installed web applications"
+msgid "Offline web application cache"
+msgstr "ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਲਿਸਟ"
+
+#: src/preferences/clear-data-view.c:74
+msgid "IndexedDB databases"
+msgstr ""
+
+#: src/preferences/clear-data-view.c:75
+msgid "WebSQL databases"
+msgstr ""
+
+#: src/preferences/clear-data-view.c:76
+#, fuzzy
+#| msgid "Plugins"
+msgid "Plugins data"
+msgstr "ਪਲੱਗਇਨ"
+
+#: src/preferences/clear-data-view.c:77
+msgid "HSTS policies cache"
+msgstr ""
+
+#: src/preferences/clear-data-view.c:78
+msgid "Intelligent Tracking Prevention data"
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:197
+msgid "This field is required"
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:202
+msgid "Address must start with either http:// or https://"
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:208
+#, fuzzy
+#| msgid "The address you entered is not valid."
+msgid "Address is not a valid URI"
+msgstr "ਤੁਹਾਡੇ ਰਾਹੀਂ ਦਿੱਤਾ ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ।"
+
+#: src/preferences/ephy-search-engine-row.c:215
+#, c-format
+msgid ""
+"Address is not a valid URL. The address should look like https://www.example."
+"com/search?q=%s"
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:221
+#, c-format
+msgid "Address must contain the search term represented by %s"
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:227
+msgid "Address should not contain the search term several times"
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:272
+msgid "This shortcut is already used."
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:417
+msgid "A name is required"
+msgstr ""
+
+#: src/preferences/ephy-search-engine-row.c:419
+#, fuzzy
+#| msgid "Certificate already exists."
+msgid "This search engine already exists"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦਾ ਹੈ।"
+
+#: src/preferences/passwords-view.c:192
+#, fuzzy
+#| msgid "Select Password"
+msgid "Delete All Passwords?"
+msgstr "ਪਾਸਵਰਡ ਚੁਣੋ"
+
+#: src/preferences/passwords-view.c:195
+msgid "This will clear all locally stored passwords, and can not be undone."
+msgstr ""
+
+#: src/preferences/passwords-view.c:200 src/resources/gtk/history-dialog.ui:370
+msgid "_Delete"
+msgstr "ਹਟਾਓ(_D)"
+
+#: src/preferences/passwords-view.c:258
+#, fuzzy
+#| msgid "_Copy Password"
+msgid "Copy password"
+msgstr "ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰੋ(_C)"
+
+#: src/preferences/passwords-view.c:264
+#, fuzzy
+#| msgid "User Name"
+msgid "Username"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+#: src/preferences/passwords-view.c:287
+#, fuzzy
+#| msgid "C_opy Username"
+msgid "Copy username"
+msgstr "ਵਰਤੋਂਕਾਰ ਨੂੰ ਕਾਪੀ ਕਰੋ(_o)"
+
+#: src/preferences/passwords-view.c:293
+msgid "Password"
+msgstr "ਪਾਸਵਰਡ"
+
+#: src/preferences/passwords-view.c:318
+#, fuzzy
+#| msgid "Reveal all the passwords"
+msgid "Reveal password"
+msgstr "ਸਾਰੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਦਿਖਾਓ"
+
+#: src/preferences/passwords-view.c:328
+#, fuzzy
+#| msgid "Select Password"
+msgid "Remove Password"
+msgstr "ਪਾਸਵਰਡ ਚੁਣੋ"
+
+#: src/preferences/prefs-appearance-page.c:66
+msgid "Sans"
+msgstr ""
+
+#: src/preferences/prefs-appearance-page.c:68
+#, fuzzy
+#| msgid "Serif font:"
+msgid "Serif"
+msgstr "Serif ਫੋਂਟ"
+
+#: src/preferences/prefs-appearance-page.c:112
+msgid "Light"
+msgstr ""
+
+#: src/preferences/prefs-appearance-page.c:114
+msgid "Dark"
+msgstr ""
+
+#: src/preferences/prefs-general-page.c:297
+#: src/resources/gtk/prefs-lang-dialog.ui:13
+msgid "Add Language"
+msgstr "ਭਾਸ਼ਾ ਸ਼ਾਮਲ"
+
+#  *
+#  * please translate like this: "<your language> (System setting)"
+#  * Examples:
+#  * "de"    translation: "Deutsch (Systemeinstellung)"
+#  * "en_AU" translation: "English, Australia (System setting)" or
+#  *                      "Australian English (System setting)"
+#: src/preferences/prefs-general-page.c:525
+#: src/preferences/prefs-general-page.c:684
+#, c-format
+msgid "System language (%s)"
+msgid_plural "System languages (%s)"
+msgstr[0] "Punjabi (%s)"
+msgstr[1] "Punjabi (%s)"
+
+#: src/preferences/prefs-general-page.c:712
+#, fuzzy
+#| msgid "Select a Directory"
+msgid "Select a directory"
+msgstr "ਇੱਕ ਡਾਇਕਰੈਕਟਰੀ ਚੁਣੋ"
+
+#: src/preferences/prefs-general-page.c:858
+#, fuzzy
+#| msgid "Create Web Application"
+msgid "Web Application Icon"
+msgstr "ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਬਣਾਓ"
+
+#: src/preferences/prefs-general-page.c:863
+msgid "Supported Image Files"
+msgstr ""
+
+#: src/profile-migrator/ephy-profile-migrator.c:1540
+msgid "Executes only the n-th migration step"
+msgstr ""
+
+#: src/profile-migrator/ephy-profile-migrator.c:1542
+msgid "Specifies the required version for the migrator"
+msgstr ""
+
+#: src/profile-migrator/ephy-profile-migrator.c:1544
+msgid "Specifies the profile where the migrator should run"
+msgstr ""
+
+#: src/profile-migrator/ephy-profile-migrator.c:1565
+msgid "Web profile migrator"
+msgstr "ਵੈੱਬ ਪਰੋਫਾਈਲ ਮਾਈਗਰੇਟਰ"
+
+#: src/profile-migrator/ephy-profile-migrator.c:1566
+msgid "Web profile migrator options"
+msgstr "ਵੈੱਬ ਪਰੋਫਾਈਲ ਮਾਈਗਰੇਟਰ ਚੋਣਾਂ"
+
+#. Translators: tooltip for the bookmarks popover button
+#: src/resources/gtk/action-bar-end.ui:22
+#, fuzzy
+#| msgid "Browse and organize your bookmarks"
+msgid "View and manage your bookmarks"
+msgstr "ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਦੀ ਝਲਕ ਵੇਖੋ ਅਤੇ ਸੰਭਾਲੋ"
+
+#  The name of the default downloads folder
+#. Translators: tooltip for the downloads button
+#: src/resources/gtk/action-bar-end.ui:46
+#, fuzzy
+#| msgid "%d download"
+#| msgid_plural "%d downloads"
+msgid "View downloads"
+msgstr "%d ਡਾਊਨਲੋਡ"
+
+#. Translators: tooltip for the back button
+#: src/resources/gtk/action-bar-start.ui:19
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Go back to the previous page"
+msgid "Go back to the previous page"
+msgstr "ਪਿਛਲੇ ਸਫ਼ੇ ਉੱਤੇ ਵਾਪਸ ਜਾਓ"
+
+#. Translators: tooltip for the forward button
+#: src/resources/gtk/action-bar-start.ui:38
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Go forward to the next page"
+msgid "Go forward to the next page"
+msgstr "ਅਗਲੇ ਸਫ਼ੇ ਉੱਤੇ ਅੱਗੇ ਜਾਓ"
+
+#. Translators: tooltip for the secret homepage button
+#: src/resources/gtk/action-bar-start.ui:76
+#, fuzzy
+#| msgid "Go to the home page"
+msgid "Go to your homepage"
+msgstr "ਮੁੱਖ ਸਫ਼ੇ 'ਤੇ ਜਾਓ"
+
+#. Translators: tooltip for the page switcher button
+#: src/resources/gtk/action-bar.ui:21
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "View page source"
+msgid "View open pages"
+msgstr "ਸਫ਼ੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ"
+
+#: src/resources/gtk/bookmark-properties-grid.ui:16
+msgid "Bookmark"
+msgstr "ਬੁੱਕਮਾਰਕ"
+
+#: src/resources/gtk/bookmark-properties-grid.ui:31
+#: src/resources/gtk/search-engine-row.ui:32
+msgid "Name"
+msgstr "ਨਾਂ"
+
+#: src/resources/gtk/bookmark-properties-grid.ui:59
+#: src/resources/gtk/search-engine-row.ui:54
+msgid "Address"
+msgstr "ਐਡਰੈੱਸ"
+
+#: src/resources/gtk/bookmark-properties-grid.ui:86
+#: src/resources/gtk/bookmarks-popover.ui:75
+msgid "Tags"
+msgstr ""
+
+#  Bookmarks menu
+#: src/resources/gtk/bookmark-properties-grid.ui:106
+#, fuzzy
+#| msgid "_Add Bookmark…"
+msgid "Add Tag…"
+msgstr "ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ(_A)..."
+
+#: src/resources/gtk/bookmark-properties-grid.ui:116
+#: src/resources/gtk/prefs-lang-dialog.ui:27
+msgid "_Add"
+msgstr "ਜੋੜੋ(_A)"
+
+#: src/resources/gtk/bookmarks-popover.ui:54
+msgid "All"
+msgstr "ਸਭ"
+
+#: src/resources/gtk/bookmarks-popover.ui:167
+#, fuzzy
+#| msgid "Web bookmarks"
+msgid "No bookmarks yet?"
+msgstr "ਵੈਬ ਬੁੱਕਮਾਰਕ"
+
+#: src/resources/gtk/bookmarks-popover.ui:183
+msgid "Bookmark some webpages to view them here."
+msgstr ""
+
+#: src/resources/gtk/clear-data-view.ui:22
+#: src/resources/gtk/prefs-privacy-page.ui:86
+msgid "Personal Data"
+msgstr "ਨਿੱਜੀ ਡਾਟਾ"
+
+#: src/resources/gtk/clear-data-view.ui:23
+#, fuzzy
+#| msgid "Clear Personal Data"
+msgid "_Clear Data"
+msgstr "ਨਿੱਜੀ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
+
+#: src/resources/gtk/clear-data-view.ui:24
+#, fuzzy
+#| msgid "Remove the selected pages from history"
+msgid "Remove selected personal data"
+msgstr "ਅਤੀਤ ਵਿੱਚੋਂ ਚੁਣੇ ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ"
+
+#: src/resources/gtk/clear-data-view.ui:25
+#, fuzzy
+#| msgid "Clear Personal Data"
+msgid "Search personal data"
+msgstr "ਨਿੱਜੀ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
+
+#: src/resources/gtk/clear-data-view.ui:26
+#, fuzzy
+#| msgid "Clear Personal Data"
+msgid "There is no Personal Data"
+msgstr "ਨਿੱਜੀ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
+
+#: src/resources/gtk/clear-data-view.ui:27
+msgid "Personal data will be listed here"
+msgstr ""
+
+#: src/resources/gtk/clear-data-view.ui:64
+#, fuzzy
+#| msgid "You can clear stored personal data."
+msgid "Clear selected personal data:"
+msgstr "ਤੁਸੀਂ ਸੰਭਾਲੇ ਹੋਏ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#: src/resources/gtk/clear-data-view.ui:125
+msgid ""
+"You cannot undo this action. The data you are choosing to clear will be "
+"removed forever."
+msgstr ""
+" ਤੁਸੀਂ ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ। ਡਾਟਾ, ਜੋ ਤੁਸੀਂ ਸਾਫ਼ ਕਰਨ ਲਈ ਚੁਣਿਆ ਹੈ,"
+" ਹਮੇਸ਼ਾ ਲਈ "
+"ਹਟਾਇਆ ਜਾਵੇਗਾ।"
+
+#: src/resources/gtk/data-view.ui:50 src/resources/gtk/history-dialog.ui:74
+#: src/resources/gtk/history-dialog.ui:120
+msgid "Search"
+msgstr "ਖੋਜੋ"
+
+#: src/resources/gtk/data-view.ui:215 src/resources/gtk/history-dialog.ui:300
+#, fuzzy
+#| msgid "No address found."
+msgid "No Results Found"
+msgstr "ਕੋਈ ਐਡਰੈੱਸ ਨਹੀਂ ਮਿਲਿਆ ਹੈ।"
+
+#: src/resources/gtk/data-view.ui:230 src/resources/gtk/history-dialog.ui:315
+msgid "Try a different search"
+msgstr ""
+
+#: src/resources/gtk/encoding-dialog.ui:8
+msgid "Text Encoding"
+msgstr "ਪਾਠ ਇੰਕੋਡਿੰਗ"
+
+#: src/resources/gtk/encoding-dialog.ui:46
+msgid "Use the encoding specified by the document"
+msgstr "ਦਸਤਾਵੇਜ਼ ਰਾਹੀਂ ਦਿੱਤੀ ਇੰਕੋਡਿੰਗ ਵਰਤੋਂ"
+
+#: src/resources/gtk/encoding-dialog.ui:99
+#, fuzzy
+#| msgid "Other encodings"
+msgid "Recent encodings"
+msgstr "ਹੋਰ ਇੰਕੋਡਿੰਗ"
+
+#: src/resources/gtk/encoding-dialog.ui:151
+#, fuzzy
+#| msgid "Other encodings"
+msgid "Related encodings"
+msgstr "ਹੋਰ ਇੰਕੋਡਿੰਗ"
+
+#: src/resources/gtk/encoding-dialog.ui:193
+msgid "Show all…"
+msgstr "ਸਾਰੇ ਵੇਖਾਓ…"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:21
+#, fuzzy
+#| msgid "Firefox"
+msgid "Firefox Sync"
+msgstr "ਫਾਇਰਫਾਕਸ"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:35
+msgid ""
+"Sign in with your Firefox account to sync your data with Web and Firefox on "
+"other computers. Web is not Firefox and is not produced or endorsed by "
+"Mozilla."
+msgstr ""
+
+#: src/resources/gtk/firefox-sync-dialog.ui:54
+#, fuzzy
+#| msgid "Firefox"
+msgid "Firefox Account"
+msgstr "ਫਾਇਰਫਾਕਸ"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:58
+msgid "Logged in"
+msgstr ""
+
+#: src/resources/gtk/firefox-sync-dialog.ui:63
+#, fuzzy
+#| msgid "Sign Text"
+msgid "Sign _out"
+msgstr "ਸਾਇਨ ਪਾਠ"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:76
+#, fuzzy
+#| msgid "Web options"
+msgid "Sync Options"
+msgstr "ਵੈੱਬ ਚੋਣਾਂ"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:81
+#, fuzzy
+#| msgid "_Bookmarks"
+msgid "Sync _Bookmarks"
+msgstr "ਬੁੱਕਮਾਰਕ(_B)"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:95
+#, fuzzy
+#| msgid "Passwords"
+msgid "Sync _Passwords"
+msgstr "ਪਾਸਵਰਡ"
+
+#  keep this in sync with embed/ephy-history.c's HISTORY_PAGE_OBSOLETE_DAYS
+#: src/resources/gtk/firefox-sync-dialog.ui:109
+#, fuzzy
+#| msgid "_History"
+msgid "Sync _History"
+msgstr "ਅਤੀਤ(_H)"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:123
+#, fuzzy
+#| msgid "Open in New _Tabs"
+msgid "Sync Open _Tabs"
+msgstr "ਨਵੀਆਂ ਟੈਬਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+
+#: src/resources/gtk/firefox-sync-dialog.ui:134
+msgid "S_ynced tabs"
+msgstr ""
+
+#: src/resources/gtk/firefox-sync-dialog.ui:145
+msgid "Frequency"
+msgstr ""
+
+#: src/resources/gtk/firefox-sync-dialog.ui:156
+msgid "Sync _now"
+msgstr ""
+
+#: src/resources/gtk/firefox-sync-dialog.ui:168
+msgid "Device name"
+msgstr ""
+
+#: src/resources/gtk/firefox-sync-dialog.ui:191
+msgid "_Change"
+msgstr ""
+
+#  keep this in sync with embed/ephy-history.c's HISTORY_PAGE_OBSOLETE_DAYS
+#: src/resources/gtk/history-dialog.ui:30
+#: src/resources/gtk/history-dialog.ui:87
+msgid "History"
+msgstr "ਅਤੀਤ"
+
+#: src/resources/gtk/history-dialog.ui:42
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Select all"
+msgid "Select Items"
+msgstr "ਸਭ ਚੁਣੋ"
+
+#: src/resources/gtk/history-dialog.ui:150
+msgid "Search history"
+msgstr "ਖੋਜ ਦਾ ਅਤੀਤ"
+
+#: src/resources/gtk/history-dialog.ui:243
+msgid "The History is Empty"
+msgstr ""
+
+#: src/resources/gtk/history-dialog.ui:259
+msgid "Visited pages will be listed here"
+msgstr ""
+
+#  *
+#  * please translate like this: "<your language> (System setting)"
+#  * Examples:
+#  * "de"    translation: "Deutsch (Systemeinstellung)"
+#  * "en_AU" translation: "English, Australia (System setting)" or
+#  *                      "Australian English (System setting)"
+#: src/resources/gtk/lang-row.ui:39
+#, fuzzy
+#| msgid "System language (%s)"
+#| msgid_plural "System languages (%s)"
+msgid "Delete language"
+msgstr "Punjabi (%s)"
+
+#: src/resources/gtk/notebook-context-menu.ui:7
+#, fuzzy
+#| msgid "Reload"
+msgid "R_eload"
+msgstr "ਮੁੜ-ਲੋਡ"
+
+#: src/resources/gtk/notebook-context-menu.ui:11
+msgid "Reload _All Tabs"
+msgstr ""
+
+#: src/resources/gtk/notebook-context-menu.ui:15
+#, fuzzy
+#| msgid "Du_plicate"
+msgid "_Duplicate"
+msgstr "ਡੁਪਲੀਕੇਟ(_p)"
+
+#: src/resources/gtk/notebook-context-menu.ui:21
+msgid "P_in Tab"
+msgstr ""
+
+#: src/resources/gtk/notebook-context-menu.ui:26
+msgid "Unp_in Tab"
+msgstr ""
+
+#: src/resources/gtk/notebook-context-menu.ui:31
+#, fuzzy
+#| msgid "_Next Tab"
+msgid "_Mute Tab"
+msgstr "ਅੱਗੇ ਟੈਬ(_N)"
+
+#: src/resources/gtk/notebook-context-menu.ui:38
+#, fuzzy
+#| msgid "Move Tab _Left"
+msgid "Close Tabs to the _Left"
+msgstr "ਖੱਬੀ ਟੈਬ ਤੇ ਜਾਓ(_L)"
+
+#: src/resources/gtk/notebook-context-menu.ui:42
+#, fuzzy
+#| msgid "Move Tab _Right"
+msgid "Close Tabs to the _Right"
+msgstr "ਸੱਜੀ ਟੈਬ ਤੇ ਜਾਓ(_R)"
+
+#: src/resources/gtk/notebook-context-menu.ui:46
+#, fuzzy
+#| msgid "Close this tab"
+msgid "Close _Other Tabs"
+msgstr "ਇਹ ਟੈਬ ਬੰਦ ਕਰੋ"
+
+#: src/resources/gtk/notebook-context-menu.ui:50
+msgid "_Close"
+msgstr "ਬੰਦ ਕਰੋ(_C)"
+
+#: src/resources/gtk/page-menu-popover.ui:24
+#, fuzzy
+#| msgid "Zoom O_ut"
+msgctxt "tooltip"
+msgid "Zoom Out"
+msgstr "ਜ਼ੂਮ ਆਉਟ(_u)"
+
+#: src/resources/gtk/page-menu-popover.ui:42
+msgid "Restore Zoom"
+msgstr ""
+
+#: src/resources/gtk/page-menu-popover.ui:61
+#, fuzzy
+#| msgid "Zoom _In"
+msgctxt "tooltip"
+msgid "Zoom In"
+msgstr "ਜ਼ੂਮ ਇਨ(_I)"
+
+#: src/resources/gtk/page-menu-popover.ui:89
+#, fuzzy
+#| msgid "_Print…"
+msgid "Print…"
+msgstr "ਪਰਿੰਟ ਕਰੋ(_P)..."
+
+#: src/resources/gtk/page-menu-popover.ui:104
+#, fuzzy
+#| msgid "_Find…"
+msgid "Find…"
+msgstr "ਖੋਜ(_F)..."
+
+#: src/resources/gtk/page-menu-popover.ui:119
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Fullscreen"
+msgid "Fullscreen"
+msgstr "ਪੂਰੀ ਸਕਰੀਨ"
+
+#: src/resources/gtk/page-menu-popover.ui:177
+#, fuzzy
+#| msgid "Background"
+msgid "_Run in Background"
+msgstr "ਬੈਕਗਰਾਊਂਡ"
+
+#  File menu
+#: src/resources/gtk/page-menu-popover.ui:195
+msgid "_New Window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ(_N)"
+
+#  File menu
+#: src/resources/gtk/page-menu-popover.ui:203
+msgid "New _Incognito Window"
+msgstr "ਨਵੀਂ ਲੁਕਵੀਂ ਵਿੰਡੋ(_N)"
+
+#: src/resources/gtk/page-menu-popover.ui:220
+msgid "Reopen Closed _Tab"
+msgstr "ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ(_T)"
+
+#  keep this in sync with embed/ephy-history.c's HISTORY_PAGE_OBSOLETE_DAYS
+#: src/resources/gtk/page-menu-popover.ui:228
+msgid "_History"
+msgstr "ਅਤੀਤ(_H)"
+
+#: src/resources/gtk/page-menu-popover.ui:244
+msgid "I_mport and Export"
+msgstr ""
+
+#: src/resources/gtk/page-menu-popover.ui:261
+#, fuzzy
+#| msgid "Save As _Web Application…"
+msgid "Install Site as Web _Application…"
+msgstr "ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਵਜੋਂ ਸੰਭਾਲੋ(_W)…"
+
+#: src/resources/gtk/page-menu-popover.ui:269
+msgid "Open Appli_cation Manager"
+msgstr ""
+
+#: src/resources/gtk/page-menu-popover.ui:277
+#, fuzzy
+#| msgid "_Extensions"
+msgid "E_xtensions"
+msgstr "ਇਕਸਟੈਨਸ਼ਨ(_E)"
+
+#: src/resources/gtk/page-menu-popover.ui:294
+#, fuzzy
+#| msgid "Text Encoding"
+msgid "_Override Text Encoding…"
+msgstr "ਪਾਠ ਇੰਕੋਡਿੰਗ"
+
+#: src/resources/gtk/page-menu-popover.ui:310
+msgid "Pr_eferences"
+msgstr "ਮੇਰੀ ਪਸੰਦ(_e)"
+
+#: src/resources/gtk/page-menu-popover.ui:319
+msgid "_Keyboard Shortcuts"
+msgstr "ਕੀ-ਬੋਰਡ ਸ਼ਾਰਟਕੱਟ(_K)"
+
+#: src/resources/gtk/page-menu-popover.ui:328
+msgid "_Help"
+msgstr "ਮੱਦਦ(_H)"
+
+#: src/resources/gtk/page-menu-popover.ui:337
+#, fuzzy
+#| msgid "About Web"
+msgid "_About Web"
+msgstr "ਵੈੱਬ ਬਾਰੇ"
+
+#: src/resources/gtk/page-menu-popover.ui:362
+#, fuzzy
+#| msgid "Import failed"
+msgid "Import and Export"
+msgstr "ਆਯਾਤ ਅਸਫ਼ਲ"
+
+#: src/resources/gtk/page-menu-popover.ui:373
+#, fuzzy
+#| msgid "_Import Bookmarks…"
+msgid "I_mport Bookmarks…"
+msgstr "ਬੁੱਕਮਾਰਕ ਲਿਆਓ(_I)..."
+
+#: src/resources/gtk/page-menu-popover.ui:381
+#, fuzzy
+#| msgid "_Export Bookmarks…"
+msgid "E_xport Bookmarks…"
+msgstr "ਬੁੱਕਮਾਰਕ ਭੇਜੋ(_E)..."
+
+#: src/resources/gtk/page-menu-popover.ui:397
+#, fuzzy
+#| msgid "Manage _Passwords…"
+msgid "Import _Passwords…"
+msgstr "ਪਾਸਵਰਡਾਂ ਦਾ ਪਰਬੰਧ(_P)…"
+
+#: src/resources/gtk/page-menu-popover.ui:413
+#, fuzzy
+#| msgid "Firefox"
+msgid "Firefox _Sync"
+msgstr "ਫਾਇਰਫਾਕਸ"
+
+#: src/resources/gtk/page-row.ui:88
+#, fuzzy
+#| msgid "Close tab"
+msgid "Close page"
+msgstr "ਟੈਬ ਬੰਦ"
+
+#: src/resources/gtk/pages-view.ui:11
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Tabs"
+msgid "Tabs"
+msgstr "ਟੈਬਾਂ"
+
+#: src/resources/gtk/passwords-view.ui:25
+#: src/resources/gtk/prefs-privacy-page.ui:108
+msgid "Passwords"
+msgstr "ਪਾਸਵਰਡ"
+
+#: src/resources/gtk/passwords-view.ui:28
+#, fuzzy
+#| msgid "Reveal all the passwords"
+msgid "Remove all passwords"
+msgstr "ਸਾਰੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਦਿਖਾਓ"
+
+#: src/resources/gtk/passwords-view.ui:29
+msgid "Search passwords"
+msgstr "ਪਾਸਵਰਡਾਂ ਨੂੰ ਖੋਜੋ"
+
+#: src/resources/gtk/passwords-view.ui:30
+#, fuzzy
+#| msgid "There are ongoing downloads"
+msgid "There are no Passwords"
+msgstr "ਡਾਊਨਲੋਡ ਜਾਰੀ ਹਨ"
+
+#: src/resources/gtk/passwords-view.ui:31
+#, fuzzy
+#| msgid "Save password in _keyring"
+msgid "Saved passwords will be listed here"
+msgstr "ਪਾਸਵਰਡ ਕੀ-ਰਿੰਗ 'ਚ ਸੰਭਾਲੋ(_k)"
+
+#: src/resources/gtk/passwords-view.ui:75
+msgid "_Copy Password"
+msgstr "ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰੋ(_C)"
+
+#: src/resources/gtk/passwords-view.ui:79
+msgid "C_opy Username"
+msgstr "ਵਰਤੋਂਕਾਰ ਨੂੰ ਕਾਪੀ ਕਰੋ(_o)"
+
+#: src/resources/gtk/prefs-appearance-page.ui:6
+msgid "Appearance"
+msgstr ""
+
+#: src/resources/gtk/prefs-appearance-page.ui:10
+msgid "Fonts"
+msgstr "ਫੋਂਟ"
+
+#: src/resources/gtk/prefs-appearance-page.ui:15
+#, fuzzy
+#| msgid "_Use system fonts"
+msgid "Use Custom Fonts"
+msgstr "ਸਿਸਟਮ ਫੋਂਟ ਵਰਤੋਂ(_U)"
+
+#: src/resources/gtk/prefs-appearance-page.ui:20
+#, fuzzy
+#| msgid "Sans serif font:"
+msgid "Sans serif font"
+msgstr "Sans serif ਫੋਂਟ:"
+
+#: src/resources/gtk/prefs-appearance-page.ui:35
+#, fuzzy
+#| msgid "Serif font:"
+msgid "Serif font"
+msgstr "Serif ਫੋਂਟ"
+
+#: src/resources/gtk/prefs-appearance-page.ui:50
+#, fuzzy
+#| msgid "Monospace font:"
+msgid "Monospace font"
+msgstr "ਮੋਨੋਸਪੇਸ ਫੋਂਟ:"
+
+#: src/resources/gtk/prefs-appearance-page.ui:68
+msgid "Reader Mode"
+msgstr ""
+
+#: src/resources/gtk/prefs-appearance-page.ui:72
+#, fuzzy
+#| msgid "Fonts & Style"
+msgid "Font Style"
+msgstr "ਫੋਂਟ ਅਤੇ ਸ਼ੈਲੀ"
+
+#: src/resources/gtk/prefs-appearance-page.ui:78
+msgid "Color Scheme"
+msgstr ""
+
+#: src/resources/gtk/prefs-appearance-page.ui:91
+msgid "Style"
+msgstr "ਸਟਾਇਲ"
+
+#: src/resources/gtk/prefs-appearance-page.ui:96
+#, fuzzy
+#| msgid "Use custom _stylesheet"
+msgid "Use Custom Stylesheet"
+msgstr "ਕਸਟਮ ਸਟਾਇਲਸ਼ੀਟ ਵਰਤੋਂ(_s)"
+
+#: src/resources/gtk/prefs-appearance-page.ui:131
+#, fuzzy
+#| msgid "Enable JavaScript"
+msgid "Use Custom JavaScript"
+msgstr "ਜਾਵਾ-ਸਕਰਿਪਟ ਯੋਗ"
+
+#: src/resources/gtk/prefs-appearance-page.ui:166
+#, fuzzy
+#| msgid "Default font type"
+msgid "Default zoom level"
+msgstr "ਮੂਲ ਫੋਂਟ ਕਿਸਮ"
+
+#: src/resources/gtk/prefs-general-page.ui:6
+msgid "General"
+msgstr "ਸਧਾਰਨ"
+
+#: src/resources/gtk/prefs-general-page.ui:10
+#, fuzzy
+#| msgid "Applications"
+msgid "Web Application"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ"
+
+#: src/resources/gtk/prefs-general-page.ui:15
+msgid "_Icon"
+msgstr ""
+
+#: src/resources/gtk/prefs-general-page.ui:38
+#, fuzzy
+#| msgid "Home page"
+msgid "_Homepage"
+msgstr "ਮੁੱਖ ਸਫ਼ਾ"
+
+#  View Menu
+#: src/resources/gtk/prefs-general-page.ui:53
+msgid "_Title"
+msgstr "ਸਿਰਲੇਖ(_T)"
+
+#: src/resources/gtk/prefs-general-page.ui:68
+msgid "_Manage Additional URLs"
+msgstr ""
+
+#: src/resources/gtk/prefs-general-page.ui:93
+msgid "Web Content"
+msgstr "ਵੈੱਬ ਸਮੱਗਰੀ"
+
+#: src/resources/gtk/prefs-general-page.ui:98
+#, fuzzy
+#| msgid "Allow _advertisements"
+msgid "Block _Advertisements"
+msgstr "ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ(_a)"
+
+#: src/resources/gtk/prefs-general-page.ui:112
+#, fuzzy
+#| msgid "Popup Windows"
+msgid "Block _Popup Windows"
+msgstr "ਪੋਪਅੱਪ ਵਿੰਡੋ"
+
+#: src/resources/gtk/prefs-general-page.ui:132
+#, fuzzy
+#| msgid "Most Visited"
+msgid "Most _visited pages"
+msgstr "ਅਕਸਰ ਖੋਲ੍ਹੀਆਂ"
+
+#: src/resources/gtk/prefs-general-page.ui:146
+#, fuzzy
+#| msgid "Blank page"
+msgid "_Blank page"
+msgstr "ਖਾਲੀ ਸਫ਼ਾ"
+
+#: src/resources/gtk/prefs-general-page.ui:161
+msgid "_Custom"
+msgstr ""
+
+#  The name of the default downloads folder
+#: src/resources/gtk/prefs-general-page.ui:190
+#, fuzzy
+#| msgid "%d download"
+#| msgid_plural "%d downloads"
+msgid "Ask o_n download"
+msgstr "%d ਡਾਊਨਲੋਡ"
+
+#: src/resources/gtk/prefs-general-page.ui:205
+#, fuzzy
+#| msgid "_Download folder:"
+msgid "_Download folder"
+msgstr "ਡਾਊਨਲੋਡ ਫੋਲਡਰ(_D):"
+
+#: src/resources/gtk/prefs-general-page.ui:214
+#, fuzzy
+#| msgid "Search cookies"
+msgid "Search Engines"
+msgstr "ਕੂਕੀਜ਼ ਨੂੰ ਖੋਜੋ"
+
+#: src/resources/gtk/prefs-general-page.ui:225
+msgid "Session"
+msgstr "ਸ਼ੈਸ਼ਨ"
+
+#: src/resources/gtk/prefs-general-page.ui:230
+#, fuzzy
+#| msgid "Start an instance in incognito mode"
+msgid "Start in _Incognito Mode"
+msgstr "ਲੁਕਵੇਂ ਮੋਡ ਵਿੱਚ ਨਵਾਂ ਮੌਕਾ ਚਲਾਓ"
+
+#: src/resources/gtk/prefs-general-page.ui:244
+msgid "_Restore Tabs on Startup"
+msgstr ""
+
+#: src/resources/gtk/prefs-general-page.ui:259
+#, fuzzy
+#| msgid "Private Browsing"
+msgid "Browsing"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ"
+
+#: src/resources/gtk/prefs-general-page.ui:264
+msgid "Mouse _Gestures"
+msgstr ""
+
+#: src/resources/gtk/prefs-general-page.ui:278
+msgid "S_witch Immediately to New Tabs"
+msgstr ""
+
+#: src/resources/gtk/prefs-general-page.ui:313
+#, fuzzy
+#| msgid "Spell checking"
+msgid "_Spell Checking"
+msgstr "ਸ਼ਬਦਜੋੜ ਜਾਂਚ"
+
+#: src/resources/gtk/prefs-lang-dialog.ui:67
+#, fuzzy
+#| msgid "Choose a l_anguage:"
+msgid "Choose a language:"
+msgstr "ਭਾਸ਼ਾ ਚੁਣੋ(_a):"
+
+#: src/resources/gtk/prefs-privacy-page.ui:6
+msgid "Privacy"
+msgstr "ਪਰਦੇਦਾਰੀ"
+
+#: src/resources/gtk/prefs-privacy-page.ui:10
+#, fuzzy
+#| msgid "Web pages"
+msgid "Web Safety"
+msgstr "ਵੈਬ ਸਫ਼ੇ"
+
+#: src/resources/gtk/prefs-privacy-page.ui:15
+msgid "Block Dangerous Web_sites"
+msgstr ""
+
+#: src/resources/gtk/prefs-privacy-page.ui:30
+#, fuzzy
+#| msgid "Tracking"
+msgid "Web Tracking"
+msgstr "ਟਰੈਕਿੰਗ"
+
+#: src/resources/gtk/prefs-privacy-page.ui:35
+msgid "Intelligent _Tracking Prevention"
+msgstr ""
+
+#: src/resources/gtk/prefs-privacy-page.ui:49
+msgid "Allow websites to store cookies, databases, and local storage data."
+msgstr ""
+
+#: src/resources/gtk/prefs-privacy-page.ui:50
+msgid "_Website Data Storage"
+msgstr ""
+
+#: src/resources/gtk/prefs-privacy-page.ui:65
+#, fuzzy
+#| msgid "Search history"
+msgid "Search Suggestions"
+msgstr "ਖੋਜ ਦਾ ਅਤੀਤ"
+
+#: src/resources/gtk/prefs-privacy-page.ui:70
+msgid "Enable search suggestions in the URL entry."
+msgstr ""
+
+#: src/resources/gtk/prefs-privacy-page.ui:71
+msgid "_Google Search Suggestions"
+msgstr ""
+
+#: src/resources/gtk/prefs-privacy-page.ui:91
+msgid "You can clear stored personal data."
+msgstr "ਤੁਸੀਂ ਸੰਭਾਲੇ ਹੋਏ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#: src/resources/gtk/prefs-privacy-page.ui:92
+#, fuzzy
+#| msgid "Clear Personal Data"
+msgid "Clear Personal _Data"
+msgstr "ਨਿੱਜੀ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
+
+#: src/resources/gtk/prefs-privacy-page.ui:113
+#, fuzzy
+#| msgid "Passwords"
+msgid "_Passwords"
+msgstr "ਪਾਸਵਰਡ"
+
+#: src/resources/gtk/prefs-privacy-page.ui:128
+#, fuzzy
+#| msgid "_Remember passwords"
+msgid "_Remember Passwords"
+msgstr "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ(_R)"
+
+#: src/resources/gtk/search-engine-listbox.ui:18
+msgid "A_dd Search Engine…"
+msgstr ""
+
+#: src/resources/gtk/search-engine-row.ui:11
+#, fuzzy
+#| msgid "Select the entire page"
+msgid "Selects the default search engine"
+msgstr "ਸਾਰਾ ਸਫ਼ਾ ਚੁਣੋ"
+
+#: src/resources/gtk/search-engine-row.ui:80
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Shortcuts"
+msgid "Shortcut"
+msgstr "ਸ਼ਾਰਟਕੱਟ"
+
+#: src/resources/gtk/search-engine-row.ui:107
+#, c-format
+msgid ""
+"To determine the search address, perform a search using the search engine "
+"that you want to add and replace the search term with %s."
+msgstr ""
+
+#: src/resources/gtk/search-engine-row.ui:128
+msgid "R_emove Search Engine"
+msgstr ""
+
+#: src/resources/gtk/shortcuts-dialog.ui:15
+msgctxt "shortcut window"
+msgid "General"
+msgstr "ਸਧਾਰਨ"
+
+#  File menu
+#: src/resources/gtk/shortcuts-dialog.ui:19
+msgctxt "shortcut window"
+msgid "New window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:26
+msgctxt "shortcut window"
+msgid "New incognito window"
+msgstr "ਨਵੀਂ ਲੁਕਵੀਂ ਵਿੰਡੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:33
+msgctxt "shortcut window"
+msgid "Open file"
+msgstr "ਫਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:40
+msgctxt "shortcut window"
+msgid "Save page"
+msgstr "ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:47
+msgctxt "shortcut window"
+msgid "Print page"
+msgstr "ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:54
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "ਬਾਹਰ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:61
+msgctxt "shortcut window"
+msgid "Help"
+msgstr "ਮਦਦ"
+
+#  Images
+#: src/resources/gtk/shortcuts-dialog.ui:68
+#, fuzzy
+#| msgid "Open _Image"
+msgctxt "shortcut window"
+msgid "Open menu"
+msgstr "ਚਿੱਤਰ ਖੋਲ੍ਹੋ(_I)"
+
+#: src/resources/gtk/shortcuts-dialog.ui:75
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr "ਸ਼ਾਰਟਕੱਟ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:86
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr "ਨੇਵੀਗੇਸ਼ਨ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:90
+#, fuzzy
+#| msgid "Go to the home page"
+msgctxt "shortcut window"
+msgid "Go to homepage"
+msgstr "ਮੁੱਖ ਸਫ਼ੇ 'ਤੇ ਜਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:97
+msgctxt "shortcut window"
+msgid "Reload current page"
+msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:104
+msgctxt "shortcut window"
+msgid "Reload bypassing cache"
+msgstr ""
+
+#: src/resources/gtk/shortcuts-dialog.ui:111
+msgctxt "shortcut window"
+msgid "Stop loading current page"
+msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਹੋਣ ਨੂੰ ਰੋਕੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:118
+#: src/resources/gtk/shortcuts-dialog.ui:133
+msgctxt "shortcut window"
+msgid "Go back to the previous page"
+msgstr "ਪਿਛਲੇ ਸਫ਼ੇ ਉੱਤੇ ਵਾਪਸ ਜਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:125
+#: src/resources/gtk/shortcuts-dialog.ui:140
+msgctxt "shortcut window"
+msgid "Go forward to the next page"
+msgstr "ਅਗਲੇ ਸਫ਼ੇ ਉੱਤੇ ਅੱਗੇ ਜਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:150
+msgctxt "shortcut window"
+msgid "Tabs"
+msgstr "ਟੈਬਾਂ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:154
+msgctxt "shortcut window"
+msgid "New tab"
+msgstr "ਨਵੀਂ ਟੈਬ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:161
+msgctxt "shortcut window"
+msgid "Close current tab"
+msgstr "ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:168
+msgctxt "shortcut window"
+msgid "Reopen closed tab"
+msgstr "ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:175
+msgctxt "shortcut window"
+msgid "Go to the next tab"
+msgstr "ਅਗਲੀ ਟੈਬ ਉੱਤੇ ਜਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:182
+msgctxt "shortcut window"
+msgid "Go to the previous tab"
+msgstr "ਪਿਛਲੀ ਟੈਬ ਉੱਤੇ ਜਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:189
+msgctxt "shortcut window"
+msgid "Move current tab to the left"
+msgstr "ਮੌਜੂਦਾ ਟੈਬ ਦੇ ਖੱਬੇ ਪਾਸੇ ਭੇਜੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:196
+msgctxt "shortcut window"
+msgid "Move current tab to the right"
+msgstr "ਮੌਜੂਦਾ ਟੈਬ ਦੇ ਸੱਜੇ ਭੇਜੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:203
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Close current tab"
+msgctxt "shortcut window"
+msgid "Duplicate current tab"
+msgstr "ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:214
+msgctxt "shortcut window"
+msgid "Miscellaneous"
+msgstr "ਫੁਟਕਲ"
+
+#  keep this in sync with embed/ephy-history.c's HISTORY_PAGE_OBSOLETE_DAYS
+#: src/resources/gtk/shortcuts-dialog.ui:218
+msgctxt "shortcut window"
+msgid "History"
+msgstr "ਅਤੀਤ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:225
+msgctxt "shortcut window"
+msgid "Preferences"
+msgstr "ਮੇਰੀ ਪਸੰਦ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:232
+msgctxt "shortcut window"
+msgid "Bookmark current page"
+msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:239
+#, fuzzy
+#| msgid "Import Bookmarks"
+msgctxt "shortcut window"
+msgid "Import bookmarks"
+msgstr "ਬੁੱਕਮਾਰਕ ਲਿਆਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:246
+#, fuzzy
+#| msgid "Export Bookmarks"
+msgctxt "shortcut window"
+msgid "Export bookmarks"
+msgstr "ਬੁੱਕਮਾਰਕ ਨਿਰਯਾਤ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:253
+msgctxt "shortcut window"
+msgid "Toggle caret browsing"
+msgstr "ਕਰੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਬਦਲੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:264
+#, fuzzy
+#| msgid "Create Web Application"
+msgctxt "shortcut window"
+msgid "Web application"
+msgstr "ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਬਣਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:268
+#, fuzzy
+#| msgid "List of installed web applications"
+msgctxt "shortcut window"
+msgid "Install site as web application"
+msgstr "ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਲਿਸਟ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:275
+#, fuzzy
+#| msgid "Create Web Application"
+msgctxt "shortcut window"
+msgid "Open web application manager"
+msgstr "ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਬਣਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:286
+msgctxt "shortcut window"
+msgid "View"
+msgstr "ਵੇਖੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:290
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr "ਜ਼ੂਮ ਇਨ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:297
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr "ਜ਼ੂਮ ਆਉਟ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:304
+msgctxt "shortcut window"
+msgid "Reset zoom"
+msgstr "ਜ਼ੂਮ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:311
+msgctxt "shortcut window"
+msgid "Fullscreen"
+msgstr "ਪੂਰੀ ਸਕਰੀਨ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:318
+msgctxt "shortcut window"
+msgid "View page source"
+msgstr "ਸਫ਼ੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:325
+msgctxt "shortcut window"
+msgid "Toggle inspector"
+msgstr "ਇੰਸਪੈਕਟਰ ਨੂੰ ਬਦਲੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:332
+msgctxt "shortcut window"
+msgid "Toggle reader mode"
+msgstr ""
+
+#: src/resources/gtk/shortcuts-dialog.ui:343
+msgctxt "shortcut window"
+msgid "Editing"
+msgstr "ਸੋਧਣਾ"
+
+#  Edit Menu
+#: src/resources/gtk/shortcuts-dialog.ui:347
+msgctxt "shortcut window"
+msgid "Cut"
+msgstr "ਕੱਟੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:354
+msgctxt "shortcut window"
+msgid "Copy"
+msgstr "ਕਾਪੀ ਕਰੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:361
+msgctxt "shortcut window"
+msgid "Paste"
+msgstr "ਚੇਪੋ"
+
+#  Edit menu
+#: src/resources/gtk/shortcuts-dialog.ui:368
+msgctxt "shortcut window"
+msgid "Undo"
+msgstr "ਵਾਪਿਸ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:375
+msgctxt "shortcut window"
+msgid "Redo"
+msgstr "ਪਰਤਾਓ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:382
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr "ਸਭ ਚੁਣੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:389
+msgctxt "shortcut window"
+msgid "Select page URL"
+msgstr "ਸਫ਼ਾ URL ਨੂੰ ਚੁਣੋ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:396
+msgctxt "shortcut window"
+msgid "Search with default search engine"
+msgstr ""
+
+#: src/resources/gtk/shortcuts-dialog.ui:403
+#, fuzzy
+#| msgid "Find"
+msgctxt "shortcut window"
+msgid "Find"
+msgstr "ਖੋਜ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:410
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Next search result"
+msgctxt "shortcut window"
+msgid "Next find result"
+msgstr "ਅਗਲੇ ਖੋਜ ਨਤੀਜੇ"
+
+#: src/resources/gtk/shortcuts-dialog.ui:417
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Previous search result"
+msgctxt "shortcut window"
+msgid "Previous find result"
+msgstr "ਪਿਛਲੇ ਖੋਜ ਨਤੀਜੇ"
+
+#: src/resources/gtk/synced-tabs-dialog.ui:22
+msgid "Synced Tabs"
+msgstr ""
+
+#: src/resources/gtk/synced-tabs-dialog.ui:38
+msgid ""
+"Below are the synced open tabs of your other devices that use Firefox Sync "
+"with this account. Open a tab by double clicking its name (tabs under Local "
+"Tabs cannot be opened)."
+msgstr ""
+
+#: src/resources/gtk/webapp-additional-urls-dialog.ui:17
+#, fuzzy
+#| msgid "Additional safe protocols"
+msgid "Additional URLs"
+msgstr "ਹੋਰ ਸੁਰੱਖਿਅਤ ਪਰੋਟੋਕਾਲ"
+
+#: src/resources/gtk/webapp-additional-urls-dialog.ui:25
+msgid ""
+"A URL that starts with any of the additional URLs will be opened by the web "
+"application. If you omit the URL scheme, the one from the currently loaded "
+"URL will be used."
+msgstr ""
+
+#: src/resources/gtk/webapp-additional-urls-dialog.ui:49
+#, fuzzy
+#| msgid "URL"
+msgctxt "Column header in the Additional URLs dialog"
+msgid "URL"
+msgstr "URL"
+
+#: src/resources/gtk/webapp-additional-urls-dialog.ui:74
+msgid "Add new URL"
+msgstr ""
+
+#: src/resources/gtk/webapp-additional-urls-dialog.ui:87
+#, fuzzy
+#| msgid "Remove the selected pages from history"
+msgid "Remove the selected URLs"
+msgstr "ਅਤੀਤ ਵਿੱਚੋਂ ਚੁਣੇ ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ"
+
+#: src/resources/gtk/webapp-additional-urls-dialog.ui:101
+msgid "C_lear All"
+msgstr "ਸਭ ਨੂੰ ਸਾਫ਼ ਕਰੋ(_l)"
+
+#: src/resources/gtk/web-extensions-dialog.ui:12
+#: src/resources/gtk/web-extensions-dialog.ui:21
+#, fuzzy
+#| msgid "_Extensions"
+msgid "Extensions"
+msgstr "ਇਕਸਟੈਨਸ਼ਨ(_E)"
+
+#: src/resources/gtk/web-extensions-dialog.ui:26
+#, fuzzy
+#| msgid "_Add"
+msgid "_Add…"
+msgstr "ਜੋੜੋ(_A)"
+
+#: src/resources/gtk/web-extensions-dialog.ui:40
+msgid "No Extensions Installed"
+msgstr ""
+
+#: src/resources/gtk/web-extensions-dialog.ui:41
+msgid "Add some extensions to display them here."
+msgstr ""
+
+#  Translators you should change these links to respect your locale.
+#  * For instance in .nl these should be
+#  * "http://www.google.nl" and "http://www.google.nl/search?q=%s"
+#: src/search-provider/ephy-search-provider.c:214
+#, fuzzy, c-format
+#| msgid "Search the Web for %s"
+msgid "Search the web for “%s”"
+msgstr "%s ਲਈ ਵੈੱਬ ਨੂੰ ਖੋਜੋ"
+
+#: src/search-provider/ephy-search-provider.c:224
+#, fuzzy, c-format
+#| msgid "Loading “%s”…"
+msgid "Load “%s”"
+msgstr "“%s” ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
+
+#: src/synced-tabs-dialog.c:184
+#, fuzzy
+#| msgid "Local files"
+msgid "Local Tabs"
+msgstr "ਲੋਕਲ ਫਾਇਲਾਂ"
+
+#: src/window-commands.c:114
+#, fuzzy
+#| msgid "File"
+msgid "GVDB File"
+msgstr "ਫਾਇਲ"
+
+#: src/window-commands.c:115
+#, fuzzy
+#| msgid "File"
+msgid "HTML File"
+msgstr "ਫਾਇਲ"
+
+#: src/window-commands.c:116
+msgid "Firefox"
+msgstr "ਫਾਇਰਫਾਕਸ"
+
+#: src/window-commands.c:117 src/window-commands.c:697
+msgid "Chrome"
+msgstr ""
+
+#: src/window-commands.c:118 src/window-commands.c:698
+msgid "Chromium"
+msgstr ""
+
+#: src/window-commands.c:132 src/window-commands.c:564
+#: src/window-commands.c:783
+#, fuzzy
+#| msgid "%s Files"
+msgid "Ch_oose File"
+msgstr "%s ਫਾਇਲਾਂ"
+
+#: src/window-commands.c:134 src/window-commands.c:333
+#: src/window-commands.c:377 src/window-commands.c:785
+#: src/window-commands.c:811
+msgid "I_mport"
+msgstr "ਆਯਾਤ(_m)"
+
+#: src/window-commands.c:273
+#, fuzzy
+#| msgid "_Select Certificate"
+msgid "Select Profile"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਚੁਣੋ(_S)"
+
+#: src/window-commands.c:278
+msgid "_Select"
+msgstr "ਚੁਣੋ(_S)"
+
+#: src/window-commands.c:330 src/window-commands.c:374
+#: src/window-commands.c:643
+#, fuzzy
+#| msgid "%s Files"
+msgid "Choose File"
+msgstr "%s ਫਾਇਲਾਂ"
+
+#: src/window-commands.c:355 src/window-commands.c:399
+#: src/window-commands.c:446 src/window-commands.c:471
+#: src/window-commands.c:496
+msgid "Bookmarks successfully imported!"
+msgstr ""
+
+#: src/window-commands.c:559
+msgid "Import Bookmarks"
+msgstr "ਬੁੱਕਮਾਰਕ ਲਿਆਓ"
+
+#: src/window-commands.c:577 src/window-commands.c:824
+msgid "From:"
+msgstr ""
+
+#: src/window-commands.c:623
+msgid "Bookmarks successfully exported!"
+msgstr ""
+
+#. Translators: Only translate the part before ".html" (e.g. "bookmarks")
+#: src/window-commands.c:651
+#, fuzzy
+#| msgid "bookmarks|All"
+msgid "bookmarks.html"
+msgstr "ਸਭ"
+
+#: src/window-commands.c:739
+msgid "Passwords successfully imported!"
+msgstr ""
+
+#: src/window-commands.c:806
+#, fuzzy
+#| msgid "Passwords"
+msgid "Import Passwords"
+msgstr "ਪਾਸਵਰਡ"
+
+#: src/window-commands.c:997
+#, fuzzy, c-format
+#| msgid ""
+#| "A simple, clean, beautiful view of the web.\n"
+#| "Powered by WebKit %d.%d.%d"
+msgid ""
+"A simple, clean, beautiful view of the web.\n"
+"Powered by WebKitGTK %d.%d.%d"
+msgstr ""
+"ਸਧਾਰਨ, ਸਾਫ਼, ਖੂਬਸੂਰਤ ਵੈੱਬ।\n"
+"WebKit %d.%d.%d ਨਾਲ ਤਿਆਰ ਕੀਤਾ"
+
+#: src/window-commands.c:1021
+#, fuzzy
+#| msgid "Web Website"
+msgid "Website"
+msgstr "ਵੈੱਬ ਵੈੱਬਸਾਇਟ"
+
+#  Translator credits
+#: src/window-commands.c:1054
+msgid "translator-credits"
+msgstr ""
+"ਜਸਵਿੰਦਰ ਸਿੰਘ ਫੂਲੇਵਾਲਾ ੨੦੦੪\n"
+"ਅਮਨਪਰੀਤ ਸਿੰਘ ਬਰਾੜ ਆਲਮਵਾਲੀਆ, ੨੦੦੪-੨੦੧੦\n"
+"ਪੰਜਾਬੀ ਓਪਨ ਸੋਰਸ ਟੀਮ\n"
+"http://www.satluj.com/"
+
+#: src/window-commands.c:1197
+#, fuzzy
+#| msgid "Download this file?"
+msgid "Do you want to reload this website?"
+msgstr "ਕੀ ਇਹ ਫਾਇਲ ਡਾਊਨਲੋਡ ਕਰਨੀ ਹੈ?"
+
+#: src/window-commands.c:1725
+#, fuzzy, c-format
+#| msgid ""
+#| "A web application named '%s' already exists. Do you want to replace it?"
+msgid "A web application named “%s” already exists. Do you want to replace it?"
+msgstr ""
+"'%s' ਨਾਂ ਨਾਲ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ"
+" ਹੋ?"
+
+#: src/window-commands.c:1728
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: src/window-commands.c:1730
+msgid "Replace"
+msgstr "ਬਦਲੋ"
+
+#: src/window-commands.c:1734
+msgid ""
+"An application with the same name already exists. Replacing it will "
+"overwrite it."
+msgstr ""
+"ਇਸੇ ਨਾਂ ਨਾਲ ਐਪਲੀਕੇਸ਼ਨ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਇਹ ਨੂੰ ਬਦਲਣ ਨਾਲ ਇਸ ਉੱਤੇ ਲਿਖਿਆ"
+" ਜਾਵੇਗਾ।"
+
+#: src/window-commands.c:1826
+#, fuzzy, c-format
+#| msgid "The application '%s' is ready to be used"
+msgid "The application “%s” is ready to be used"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ '%s' ਪਹਿਲਾਂ ਹੀ ਵਰਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+#: src/window-commands.c:1829
+#, fuzzy, c-format
+#| msgid "The application '%s' could not be created"
+msgid "The application “%s” could not be created"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ '%s' ਬਣਾਈ ਨਹੀਂ ਜਾ ਸਕੀ"
+
+#. Translators: Desktop notification when a new web app is created.
+#: src/window-commands.c:1844
+msgid "Launch"
+msgstr "ਚਲਾਓ"
+
+#. Show dialog with icon, title.
+#: src/window-commands.c:1885
+msgid "Create Web Application"
+msgstr "ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਬਣਾਓ"
+
+#: src/window-commands.c:1890
+msgid "C_reate"
+msgstr "ਬਣਾਓ(_r)"
+
+#: src/window-commands.c:2105
+msgid "Save"
+msgstr "ਸੰਭਾਲੋ"
+
+#: src/window-commands.c:2114
+msgid "HTML"
+msgstr ""
+
+#: src/window-commands.c:2119
+msgid "MHTML"
+msgstr ""
+
+#: src/window-commands.c:2124
+msgid "PNG"
+msgstr ""
+
+#: src/window-commands.c:2609
+msgid "Enable caret browsing mode?"
+msgstr "ਕਰੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਚਾਲੂ ਕਰਨਾ ਹੈ?"
+
+#: src/window-commands.c:2612
+msgid ""
+"Pressing F7 turns caret browsing on or off. This feature places a moveable "
+"cursor in web pages, allowing you to move around with your keyboard. Do you "
+"want to enable caret browsing?"
+msgstr ""
+"F7 ਨੂੰ ਦੱਬਣ ਨਾਲ ਕਰੇਟ ਬਰਾਊਜ਼ਿੰਗ ਚਾਲੂ ਜਾਂ ਬੰਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਫੀਚਰ ਵੈੱਬ ਪੇਜ਼ ਉੱਤੇ"
+" ਹਿਲਣਯੋਗ ਕਰਸਰ ਰੱਖਦੀ "
+"ਹੈ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਕੀਬੋਰਡ ਨਾਲ ਏਧਰ-ਓਧਰ ਜਾ ਸਕਦੇ ਹੋ। ਕੀ ਤੁਸੀਂ ਕਰੇਟ ਬਰਾਊਜ਼ਿੰਗ"
+" ਨੂੰ ਸਮਰੱਥ "
+"ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: src/window-commands.c:2615
+msgid "_Enable"
+msgstr "ਚਾਲੂ(_E)"
+
+#~ msgid "Epiphany Web Browser"
+#~ msgstr "ਏਪੀਫਾਨੀ ਵੈੱਬ ਝਲਕਾਰਾ"
+
+#~ msgid "'https://duckduckgo.com/?q=%s&amp;t=epiphany'"
+#~ msgstr "'https://duckduckgo.com/?q=%s&amp;t=epiphany'"
+
+#~ msgid "URL Search"
+#~ msgstr "URL ਖੋਜ"
+
+#~ msgid "Search string for keywords entered in the URL bar."
+#~ msgstr "URL ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਸ਼ਬਦ ਲਈ ਖੋਜ ਲਾਈਨ।"
+
+#~ msgid "Automatic downloads"
+#~ msgstr "ਆਟੋਮੈਟਿਕ ਡਾਊਨਲੋਡ"
+
+#~ msgid ""
+#~ "When files cannot be opened by the browser they are automatically "
+#~ "downloaded to the download folder and opened with the appropriate "
+#~ "application."
+#~ msgstr ""
+#~ "ਜਦੋ ਫਾਇਲ ਝਲਕਾਰੇ ਨਾਲ ਆਟੋਮੈਟਿਕ ਨਾਲ ਨਾ ਖੋਲ੍ਹਣ ਤਾਂ ਆਟੋਮੈਟਿਕ ਹੀ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਵਿੱਚ ਡਾਊਨਲੋਡ "
+#~ "ਹੋ ਜਾਣਗੀਆਂ ਅਤੇ ਜਾਇਜ਼ ਕਾਰਜ ਨਾਲ ਖੋਲੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ।"
+
+#~ msgid "Automatically manage offline status with NetworkManager"
+#~ msgstr "ਨੈੱਟਵਰਕ-ਮੈਨੇਜਰ ਨਾਲ ਆਟੋਮੈਟਿਕ ਹੀ ਆਫ਼ਲਾਇਨ ਹਾਲਤ ਦਾ ਪਰਬੰਧ ਕਰੋ"
+
+#~ msgid "Enable smooth scrolling"
+#~ msgstr "ਮੁਲਾਇਮ ਸਕਰੋਲਿੰਗ ਚਾਲੂ"
+
+#~ msgid "Process model"
+#~ msgstr "ਪਰੋਸੈਸ ਮਾਡਲ"
+
+#~ msgid "[Deprecated]"
+#~ msgstr "[ਬਰਤਰਫ਼]"
+
+#~ msgid "Visibility of the downloads window"
+#~ msgstr "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਦੀ ਦਿੱਖ"
+
+#~ msgid ""
+#~ "Hide or show the downloads window. When hidden, a notification will be "
+#~ "shown when new downloads are started."
+#~ msgstr ""
+#~ "ਡਾਊਨਲੋਡ ਵਿੰਡੋ ਓਹਲੇ ਕਰੋ ਜਾਂ ਵੇਖੋ। ਜਦੋਂ ਲੁਕਵਾਂ ਹੋਵੇ ਤਾਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵੇਖਾਇਆ ਜਾਵੇਗਾ, ਜਦੋਂ ਵੀ ਨਵੇਂ "
+#~ "ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ ਹੋਣਗੇ।"
+
+#~ msgid "The position of the tabs bar."
+#~ msgstr "ਟੈਬ ਪੱਟੀ ਦੀ ਸਥਿਤੀ।"
+
+#~ msgid "Use own colors"
+#~ msgstr "ਆਪਣੇ ਰੰਗ ਵਰਤੋਂ"
+
+#~ msgid "Use your own colors instead of the colors the page requests."
+#~ msgstr "ਸਫ਼ੇ ਦੇ ਰੰਗਾਂ ਦੀ ਬਜਾਏ ਆਪਣੇ ਰੰਗ ਵਰਤੋਂ।"
+
+#~| msgid "Use own colors"
+#~ msgid "Use own fonts"
+#~ msgstr "ਆਪਣੇ ਫੋਂਟ ਵਰਤੋਂ"
+
+#~ msgid "Use your own fonts instead of the fonts the page requests."
+#~ msgstr "ਸਫ਼ੇ ਦੇ ਫੋਟਾਂ ਦੀ ਬਜਾਏ ਆਪਣੇ ਫੋਂਟ ਵਰਤੋਂ।"
+
+#~ msgid "Preferred languages, two letter codes."
+#~ msgstr "ਪਸੰਦੀਦੀ ਭਾਸ਼ਾ, ਦੋ-ਅੱਖਰਾਂ ਦਾ ਕੋਡ"
+
+#~ msgid "Cookie accept"
+#~ msgstr "ਕੂਕੀ ਸਵੀਕਾਰ"
+
+#~| msgid ""
+#~| "Where to accept cookies from. Possible values are \"anywhere\", "
+#~| "\"current site\" and \"nowhere\"."
+#~ msgid ""
+#~ "Where to accept cookies from. Possible values are \"always\", \"no-third-"
+#~ "party\" and \"never\"."
+#~ msgstr ""
+#~ "ਕੂਕੀ ਕਿਥੋ ਸਵੀਕਾਰ ਕਰਨੇ ਹਨ। ਸੰਭਾਵਿਤ ਮੁੱਲ ਹਨ \"\"always (ਹਮੇਸ਼ਾ)\", \"no-third-party "
+#~ "(ਤੀਜੀ ਧਿਰ ਨਹੀਂ)\" and \"never (ਕਦੇ ਨਹੀਂ)\" ਹੈ।"
+
+#~ msgid "Image animation mode"
+#~ msgstr "ਚਿੱਤਰ ਸਜੀਵਤਾ ਢੰਗ"
+
+#~ msgid ""
+#~ "How to present animated images. Possible values are \"normal\", \"once\" "
+#~ "and \"disabled\"."
+#~ msgstr ""
+#~ "ਸਜੀਵਤਾ ਚਿੱਤਰਾਂ ਨੂੰ ਕਿਵੇਂ ਵੇਖਾਉਣਾ ਹੈ। ਸੰਭਵ ਮੁੱਲ ਹਨ \"normal (ਸਧਾਰਨ)\", \" once (ਇੱਕ "
+#~ "ਵਾਰ)\" ਅਤੇ \"disabled (ਆਯੋਗ)\""
+
+#~| msgid "Enable _plugins"
+#~ msgid "Enable Plugins"
+#~ msgstr "ਪਲੱਗਇਨ ਯੋਗ"
+
+#~| msgid "Enabled"
+#~ msgid "Enable WebGL"
+#~ msgstr "WebGL ਨੂੰ ਚਾਲੂ ਕਰੋ"
+
+#~ msgid "Whether to enable support for WebGL contexts."
+#~ msgstr "WebGL ਪਰਸੰਗਾਂ ਲਈ ਸਹਿਯੋਗ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਹੈ"
+
+#~ msgid "Whether to enable support for WebAudio."
+#~ msgstr "ਵੈੱਬ-ਆਡੀਓ ਲਈ ਸਹਿਯੋਗ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਹੈ"
+
+#~ msgid "Do Not Track"
+#~ msgstr "ਟਰੈਕ ਨਾ ਕਰੋ"
+
+#~| msgid "Whether to print the page title in the header"
+#~ msgid "Whether to show the title column in the bookmarks window."
+#~ msgstr "ਕੀ ਬੁੱਕਮਾਰਕ ਵਿੰਡੋ ਵਿੱਚ ਟਾਈਟਲ ਕਾਲਮ ਨੂੰ ਦਿਖਾਉਣਾ ਹੈ।"
+
+#~| msgid "Whether to print the page address in the header"
+#~ msgid "Whether to show the address column in the bookmarks window."
+#~ msgstr "ਕੀ ਬੁੱਕਮਾਰਕ ਵਿੰਡੋ ਵਿੱਚ ਸਿਰਨਾਵਾਂ ਕਾਲਮ ਨੂੰ ਦਿਖਾਉਣਾ ਹੈ।"
+
+#~ msgid "Installed plugins"
+#~ msgstr "ਇੰਸਟਾਲ ਹੋਈਆਂ ਪਲੱਗਇਨ"
+
+#~ msgid "Plugins are disabled in the preferences"
+#~ msgstr "ਮੇਰੀ ਪਸੰਦ ਵਿੱਚ ਪਲੱਗਇਨਾਂ ਅਸਮਰੱਥ ਹਨ"
+
+#~ msgid "Enabled"
+#~ msgstr "ਚਾਲੂ ਹੈ"
+
+#~ msgid "Yes"
+#~ msgstr "ਹਾਂ"
+
+#~ msgid "MIME type"
+#~ msgstr "MIME ਟਾਇਪ"
+
+#~ msgid "Description"
+#~ msgstr "ਵੇਰਵਾ"
+
+#~ msgid "Suffixes"
+#~ msgstr "ਸਿ-ਫਿਕਸ"
+
+#~| msgid "Don't Save"
+#~ msgid "_Don’t Save"
+#~ msgstr "ਨਾ ਸੰਭਾਲੋ(_D)"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>This page was loading when the web browser closed unexpectedly.</"
+#~| "p><p>This might happen again if you reload the page. If it does, please "
+#~| "report the problem to the <strong>%s</strong> developers.</p>"
+#~ msgid ""
+#~ "<p>The site at <strong>%s</strong> may have caused Web to close "
+#~ "unexpectedly.</p><p>If this happens again, please report the problem to "
+#~ "the <strong>%s</strong>  developers.</p>"
+#~ msgstr ""
+#~ "<p>ਜਦੋਂ ਇਹ ਪੇਜ਼ ਲੋਡ ਹੋ ਰਿਹਾ ਸੀ ਤਾਂ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਅਚਾਨਕ ਬੰਦ ਹੋ ਗਿਆ।</p><p>ਇਹ ਤਾਂ ਹੋ ਸਕਦਾ "
+#~ "ਹੈ, ਜੇ ਤੁਸੀਂ ਪੇਜ਼ ਮੁੜ-ਲੋਡ ਕਰ ਰਹੇ ਸੀ। ਜੇ ਇੰਝ ਹੋਇਆ ਹੈ ਤਾਂ ਸਮੱਸਿਆ ਬਾਰੇ <strong>%s</strong> "
+#~ "ਡਿਵੈਲਪਰਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦਿਉ।</p>"
+
+#~ msgid "Directory “%s” is not writable"
+#~ msgstr "ਡਾਇਰੈਕਟਰੀ “%s” ਲਿਖਣ ਨਹੀਂ ਹੈ"
+
+#~ msgid "You do not have permission to create files in this directory."
+#~ msgstr "ਤੁਹਾਨੂੰ ਇਸ ਡਾਇਰੈਕਟਰੀ 'ਚ ਫਾਇਲਾਂ ਬਣਾਉਣ ਲਈ ਅਧਿਕਾਰ ਨਹੀਂ ਹਨ।"
+
+#~ msgid "Directory not Writable"
+#~ msgstr "ਡਾਇਰੈਕਟਰੀ ਲਿਖਣਯੋਗ ਨਹੀਂ"
+
+#~ msgid "Cannot overwrite existing file “%s”"
+#~ msgstr "ਮੌਜੂਦਾ ਫਾਇਲ “%s” ਉੱਤੇ ਨਹੀਂ ਲਿਖਿਆ ਜਾ ਸਕਦਾ ਹੈ"
+
+#~ msgid ""
+#~ "A file with this name already exists and you don't have permission to "
+#~ "overwrite it."
+#~ msgstr "ਇਸ ਨਾਲ ਫਾਇਲ ਪਹਿਲਾਂ ਵੀ ਮੌਜੂਦ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਫਾਇਲ ਦੇ ਉੱਪਰ ਲਿਖ ਲਈ ਅਧਿਕਾਰ ਨਹੀਂ ਹਨ।"
+
+#~ msgid "Cannot Overwrite File"
+#~ msgstr "ਫਾਇਲ ਉੱਤੇ ਲਿਖਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ"
+
+#~ msgid "Failed to copy cookies file from Mozilla."
+#~ msgstr "ਮੌਜੀਲਾ ਤੋਂ ਕੂਕੀਜ਼ ਫਾਇਲ ਕਾਪੀ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ।"
+
+#~ msgid "50%"
+#~ msgstr "50%"
+
+#~ msgid "75%"
+#~ msgstr "75%"
+
+#~ msgid "100%"
+#~ msgstr "100%"
+
+#~ msgid "125%"
+#~ msgstr "125%"
+
+#~ msgid "150%"
+#~ msgstr "150%"
+
+#~ msgid "175%"
+#~ msgstr "175%"
+
+#~ msgid "200%"
+#~ msgstr "200%"
+
+#~ msgid "300%"
+#~ msgstr "300%"
+
+#~ msgid "400%"
+#~ msgstr "400%"
+
+#~ msgid "Others"
+#~ msgstr "ਹੋਰ"
+
+#~ msgid "Drag and drop this icon to create a link to this page"
+#~ msgstr "ਇਸ ਸਫੇ ਲਈ ਲਿੰਕਬਣਾਉਣ ਲ਼ਈ ਇਹ ਆਈਕਾਨ ਸੁੱਟੋ"
+
+#~ msgid "You are connected to %s"
+#~ msgstr "ਤੁਸੀਂ %s ਨਾਲ ਕਨੈਕਟ ਹੋ"
+
+#  Bookmarks menu
+#~| msgid "_Add Bookmark…"
+#~ msgid "Add Bookmark"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਜੋੜੋ"
+
+#~ msgid "“%s” Properties"
+#~ msgstr "“%s” ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#~ msgid "Entertainment"
+#~ msgstr "ਮਨੋਰੰਜਨ"
+
+#~ msgid "News"
+#~ msgstr "ਖਬਰਾਂ"
+
+#~ msgid "Shopping"
+#~ msgstr "ਖਰੀਦਦਾਰੀ"
+
+#~ msgid "Sports"
+#~ msgstr "ਖੇਡਾਂ"
+
+#~ msgid "Travel"
+#~ msgstr "ਯਾਤਰਾ"
+
+#~ msgid "Work"
+#~ msgstr "ਕੰਮ"
+
+#~ msgctxt "bookmarks"
+#~ msgid "All"
+#~ msgstr "ਸਭ"
+
+#~ msgctxt "bookmarks"
+#~ msgid "Not Categorized"
+#~ msgstr "ਬਿਨਾਂ ਕੈਟਾਗਰੀ"
+
+#~ msgctxt "bookmarks"
+#~ msgid "Nearby Sites"
+#~ msgstr "ਨੇੜਲੀਆਂ ਸਾਈਟਾਂ"
+
+#~ msgid "Untitled"
+#~ msgstr "ਬਿਨਾਂ ਨਾਂ"
+
+#~ msgid "Web (RDF)"
+#~ msgstr "ਵੈੱਬ (RDF)"
+
+#~ msgid "Mozilla (HTML)"
+#~ msgstr "ਮੋਜ਼ੀਲਾ (HTML)"
+
+#~ msgid "Remove from this topic"
+#~ msgstr "ਇਸ ਵਿਸ਼ੇ ਤੋਂ ਹਟਾਓ"
+
+#  Toplevel
+#~ msgid "_File"
+#~ msgstr "ਫਾਇਲ(_F)"
+
+#~ msgid "_Edit"
+#~ msgstr "ਸੋਧ(_E)"
+
+#~ msgid "_View"
+#~ msgstr "ਵੇਖੋ(_V)"
+
+#  File Menu
+#~ msgid "_New Topic"
+#~ msgstr "ਨਵਾਂ ਵਿਸ਼ਾ(_N)"
+
+#~ msgid "Create a new topic"
+#~ msgstr "ਨਵਾਂ ਵਿਸ਼ਾ ਬਣਾਓ"
+
+#~ msgid "Open in New _Window"
+#~ msgid_plural "Open in New _Windows"
+#~ msgstr[0] "ਨਵੇਂ ਝਰੋਖੇ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+#~ msgstr[1] "ਨਵੇਂ ਝਰੋਖੇ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+
+#~ msgid "Open the selected bookmark in a new window"
+#~ msgstr "ਚੁਣਿਆ ਬੁੱਕਮਾਰਕ ਨਵੇਂ ਝਰੋਖੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Open in New _Tab"
+#~ msgid_plural "Open in New _Tabs"
+#~ msgstr[0] "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+#~ msgstr[1] "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ(_T)"
+
+#~ msgid "Open the selected bookmark in a new tab"
+#~ msgstr "ਚੁਣਿਆ ਬੁੱਕਮਾਰਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
+#~ msgid "_Rename…"
+#~ msgstr "ਨਾਂ ਬਦਲੋ(_R)..."
+
+#~ msgid "Rename the selected bookmark or topic"
+#~ msgstr "ਚੁਣੇ ਬੁੱਕਮਾਰਕ ਜਾਂ ਵਿਸ਼ੇ ਦਾ ਨਾਂ ਤਬਦੀਲ"
+
+#~ msgid "_Properties"
+#~ msgstr "ਵਿਸ਼ੇਸ਼ਤਾ(_P)"
+
+#~ msgid "View or modify the properties of the selected bookmark"
+#~ msgstr "ਚੁਣੇ ਬੁੱਕਮਾਰਕ ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਵੇਖੋ ਜਾਂ ਸੋਧੋ"
+
+#~ msgid "Import bookmarks from another browser or a bookmarks file"
+#~ msgstr "ਹੋਰ ਝਲਕਾਰੇ ਜਾਂ ਬੁੱਕਮਾਰਕ ਫਾਇਲ ਵਿੱਚੋਂ ਬੁੱਕਮਾਰਕ ਲਿਆਓ"
+
+#~ msgid "Export bookmarks to a file"
+#~ msgstr "ਫਾਇਲ 'ਤੇ ਬੁੱਕਮਾਰਕ ਨਿਰਯਾਤ"
+
+#~ msgid "Close the bookmarks window"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਵਿੰਡੋ ਬੰਦ ਕਰੋ"
+
+#~ msgid "Cut the selection"
+#~ msgstr "ਚੁਣਿਆ ਕੱਟੋ"
+
+#~ msgid "Copy the selection"
+#~ msgstr "ਚੁਣੇ ਦੀ ਕਾਪੀ ਕਰੋ"
+
+#~ msgid "Paste the clipboard"
+#~ msgstr "ਕਲਿਪਬੋਰਡ ਚਿਪਕਾਓ"
+
+#~ msgid "Delete the selected bookmark or topic"
+#~ msgstr "ਚੁਣੇ ਬੁੱਕਮਾਰਕ ਜਾਂ ਵਿਸ਼ੇ ਨੂੰ ਹਟਾਓ"
+
+#~ msgid "Select all bookmarks or text"
+#~ msgstr "ਸਭ ਬੁੱਕਮਾਰਕ ਜਾਂ ਪਾਠ ਚੁਣੋ"
+
+#  Help Menu
+#  Help menu
+#~ msgid "_Contents"
+#~ msgstr "ਸਮੱਗਰੀ(_C)"
+
+#~ msgid "Display bookmarks help"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਮੱਦਦ ਵੇਖੋ"
+
+#~ msgid "_About"
+#~ msgstr "ਇਸ ਬਾਰੇ(_A)"
+
+#~ msgid "Display credits for the web browser creators"
+#~ msgstr "ਵੈਬ ਝਲਕਾਰਾ ਬਣਾਉਣ ਦਾ ਮਾਣ ਵੇਖੋ"
+
+#~ msgid "Show the title column"
+#~ msgstr "ਸਿਰਲੇਖ ਕਾਲਮ ਵੇਖੋ"
+
+#~ msgid "Show the address column"
+#~ msgstr "ਕੇਵਲ ਐਡਰੈੱਸ ਕਾਲਮ ਵੇਖੋ"
+
+#~ msgid "Type a topic"
+#~ msgstr "ਇੱਕ ਵਿਸ਼ਾ ਲਿਖੋ"
+
+#~ msgid "Delete topic “%s”?"
+#~ msgstr "ਕੀ ਵਿਸ਼ਾ “%s” ਹਟਾਉਣਾ ਹੈ?"
+
+#~ msgid "Delete this topic?"
+#~ msgstr "ਕੀ ਇਹ ਵਿਸ਼ਾ ਹਟਾਉਣਾ ਹੈ?"
+
+#~ msgid ""
+#~ "Deleting this topic will cause all its bookmarks to become uncategorized, "
+#~ "unless they also belong to other topics. The bookmarks will not be "
+#~ "deleted."
+#~ msgstr ""
+#~ "ਇਸ ਵਿਸ਼ੇ ਨੂੰ ਹਟਾਉਣ ਨਾਲ ਇਸ ਦੇ ਸਭ ਬੁੱਕਮਾਰਕ ਬਿਨਾਂ-ਵਰਗ ਦੇ ਹੋਣ ਜਾਣਗੇ, ਜਦੋਂ ਤੱਕ ਕਿ ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ "
+#~ "ਹੋਰ ਵਿਸ਼ੇ ਨਾਲ ਸਬੰਧਿਤ ਨਹੀਂ ਕਰਦੇ ਹੋ। ਬੁੱਕਮਾਰਕ ਹਟਾਏ ਨਹੀਂ ਜਾਣਗੇ।"
+
+#~ msgid "_Delete Topic"
+#~ msgstr "ਵਿਸ਼ਾ ਹਟਾਓ(_D)"
+
+#~ msgid "Firebird"
+#~ msgstr "ਫਾਇਰਬਰਡ"
+
+#~ msgid "Mozilla “%s” profile"
+#~ msgstr "ਮੋਜ਼ੀਲਾ “%s” ਪਰੋਫਾਇਲ"
+
+#~ msgid "Galeon"
+#~ msgstr "ਗੇਲੀਅਨ"
+
+#~ msgid "Konqueror"
+#~ msgstr "ਕੋਨਕਿਊਰੋਰ"
+
+#~ msgid "Import Failed"
+#~ msgstr "ਆਯਾਤ ਅਸਫ਼ਲ"
+
+#~ msgid ""
+#~ "The bookmarks from “%s” could not be imported because the file is "
+#~ "corrupted or of an unsupported type."
+#~ msgstr ""
+#~ "“%s” ਤੋਂ ਬੁੱਕਮਾਰਕ ਆਯਾਤ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ, ਕਿਉਕਿ ਫਾਇਲ ਨਿਕਾਰਾ ਹੋ ਗਈ ਹੈ ਜਾਂ ਫਾਰਮੈਟ "
+#~ "ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+#~ msgid "Import Bookmarks from File"
+#~ msgstr "ਫਾਇਲ ਤੋਂ ਬੁੱਕਮਾਰਕ ਆਯਾਤ"
+
+#~ msgid "Firefox/Mozilla bookmarks"
+#~ msgstr "ਫਾਇਰਫਾਕਸ/ਮੋਜ਼ੀਲਾ ਬੁੱਕਮਾਰਕ"
+
+#~ msgid "Galeon/Konqueror bookmarks"
+#~ msgstr "ਗੇਲੀਅਨ/ਕੋਨਕਿਊਰਰ ਬੁੱਕਮਾਰਕ"
+
+#~ msgid "Bookmarks"
+#~ msgstr "ਬੁੱਕਮਾਰਕ"
+
+#~ msgid "File f_ormat:"
+#~ msgstr "ਫਾਇਲ ਫਾਰਮੈਟ(_o):"
+
+#~ msgid "Import bookmarks from:"
+#~ msgstr "ਇਥੋਂ ਬੁੱਕਮਾਰਕ ਆਯਾਤ:"
+
+#~ msgid "_Copy Address"
+#~ msgstr "ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ(_C)"
+
+#~ msgid "Topics"
+#~ msgstr "ਵਿਸ਼ੇ"
+
+#~ msgid "Title"
+#~ msgstr "ਸਿਰਲੇਖ"
+
+#~ msgid "Open the bookmarks in this topic in new tabs"
+#~ msgstr "ਨਵੀਆਂ ਟੈਬਾਂ ਵਿੱਚ ਇਹ ਵਿਸ਼ੇ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Create topic “%s”"
+#~ msgstr "ਵਿਸ਼ਾ “%s” ਬਣਾਓ"
+
+#~ msgid "_Title:"
+#~ msgstr "ਸਿਰਲੇਖ(_T):"
+
+#~ msgid "A_ddress:"
+#~ msgstr "ਐਡਰੈੱਸ(_d):"
+
+#~ msgid "T_opics:"
+#~ msgstr "ਵਿਸ਼ੇ(_O):"
+
+#~ msgid "Sho_w all topics"
+#~ msgstr "ਸਭ ਵਿਸ਼ੇ ਵੇਖੋ(_w)"
+
+#~| msgid "Clear"
+#~ msgid "C_lear"
+#~ msgstr "ਸਾਫ਼ ਕਰੋ(_l)"
+
+#~| msgid "<b>Select the personal data you want to clear</b>"
+#~ msgid "Select the personal data you wish to clear"
+#~ msgstr "ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਚੁਣੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ"
+
+#~| msgid ""
+#~| "You are about to clear personal data that is stored about the web pages "
+#~| "you have visited. Before proceeding, check the types of information that "
+#~| "you want to remove:"
+#~ msgid ""
+#~ "You are about to clear personal data that is stored about the web pages "
+#~ "you have visited. Check the types of information that you want to remove:"
+#~ msgstr ""
+#~ "ਤੁਸੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਵੈੱਬ ਪੇਜ਼ਾਂ ਵਲੋਂ ਸਟੋਰ ਕੀਤਾ ਨਿੱਜੀ ਡਾਟਾ ਸਾਫ਼ ਕਰਨ ਲਈ ਤਿਆਰ ਹੋ। "
+#~ "ਜਾਣਕਾਰੀ ਦੀ ਕਿਸਮ ਚੁਣੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਸਾਫ਼ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ:"
+
+#~| msgid "Cookies"
+#~ msgid "Coo_kies"
+#~ msgstr "ਕੂਕੀਜ਼(_k)"
+
+#~| msgid "_Temporary files"
+#~ msgid "Cache and _temporary files"
+#~ msgstr "ਕੈਸ਼ ਅਤੇ ਆਰਜ਼ੀ ਫਾਇਲਾਂ(_t)"
+
+#~| msgid "Clear browsing history?"
+#~ msgid "Browsing _history"
+#~ msgstr "ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ(_h)"
+
+#~ msgid "Saved _passwords"
+#~ msgstr "ਸੰਭਾਲੇ ਪਾਸਵਰਡ(_p)"
+
+#~ msgid "Filter cookies"
+#~ msgstr "ਕੂਕੀਜ਼ ਨੂੰ ਫਿਲਟਰ ਕਰੋ"
+
+#~| msgid "Sites"
+#~ msgid "Site"
+#~ msgstr "ਸਾਈਟ"
+
+#~| msgid "Delete the selected bookmark or topic"
+#~ msgid "Delete the selected cookies"
+#~ msgstr "ਚੁਣੇ ਕੂਕੀਜ਼ ਨੂੰ ਹਟਾਓ"
+
+#~ msgid "&#60;b&#62;Recent encodings&#60;/b&#62;"
+#~ msgstr "&#60;b&#62;ਤਾਜ਼ਾ ਇੰਕੋਡਿੰਗਾਂ&#60;/b&#62;"
+
+#~ msgid "&#60;b&#62;Related encodings&#60;/b&#62;"
+#~ msgstr "&#60;b&#62;ਸੰਬੰਧਿਤ ਇੰਕੋਡਿੰਗਾਂ&#60;/b&#62;"
+
+#~ msgid "_Quit"
+#~ msgstr "ਬੰਦ ਕਰੋ(_Q)"
+
+#~| msgid "_Location…"
+#~ msgid "_Copy Location"
+#~ msgstr "ਟਿਕਾਣੇ ਨੂੰ ਕਾਪੀ ਕਰੋ(_C)"
+
+#  Bookmarks menu
+#~| msgid "Add _Bookmark…"
+#~ msgid "Add _Bookmark"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਨੂੰ ਜੋੜੋ(_B)"
+
+#~ msgid "Date"
+#~ msgstr "ਮਿਤੀ"
+
+#~| msgid "Open the selected bookmark in a new tab"
+#~ msgid "Open the selected pages in new tabs"
+#~ msgstr "ਚੁਣੇ ਸਫ਼ਿਆਂ ਨੂੰ ਨਵੀਆਂ ਟੈਬਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
+#~| msgid "Remove the selected toolbar"
+#~ msgid "Forget the selected passwords"
+#~ msgstr "ਚੁਣੇ ਗਏ ਪਾਸਵਰਡਾਂ ਨੂੰ ਭੁੱਲੋ"
+
+#~ msgid "Preferences"
+#~ msgstr "ਮੇਰੀ ਪਸੰਦ"
+
+#~ msgid "A_utomatically open downloaded files"
+#~ msgstr "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਆਟੋਮੈਟਿਕ ਹੀ ਖੋਲ੍ਹੋ(_u)"
+
+#~ msgid "_Engine:"
+#~ msgstr "ਇੰਜਣ(_E):"
+
+#~ msgid "Allow popup _windows"
+#~ msgstr "ਪਾਪਅੱਪ ਵਿੰਡੋਜ਼ ਨੂੰ ਇਜ਼ਾਜਤ(_w)"
+
+#~ msgid "Enable _plugins"
+#~ msgstr "ਪਲੱਗਇਨ ਯੋਗ(_p)"
+
+#~ msgid "_Edit Stylesheet…"
+#~ msgstr "ਸਟਾਈਲ-ਸ਼ੀਟ ਸੋਧ(_E)…"
+
+#~ msgid "Manage _Cookies…"
+#~ msgstr "ਕੂਕੀਜ਼ ਦਾ ਪਰਬੰਧ(_C)…"
+
+#~ msgid "_Always accept"
+#~ msgstr "ਹਮੇਸ਼ਾ ਸਵੀਕਾਰ(_A)"
+
+#~ msgid "Only _from sites you visit"
+#~ msgstr "ਸਿਰਫ ਉਹਨਾਂ ਸਾਇਟਾਂ ਤੋਂ, ਜਿਨਾਂ ਤੁਸੀ ਜਾ ਚੁੱਕੇ ਹੋ(_f)"
+
+#~ msgid "<small>For example, not from advertisers on these sites</small>"
+#~ msgstr "<small>ਉਦਾਹਰਨ ਲਈ, ਇਹ ਸਾਈਟਾਂ ਤੋਂ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ</small>"
+
+#~| msgid "The site wants to set a cookie."
+#~ msgid "_Tell websites I do not want to be tracked"
+#~ msgstr "ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ(_T)"
+
+#~ msgid "Stored Data"
+#~ msgstr "ਸਟੋਰ ਕੀਤਾ ਡਾਟਾ"
+
+#~| msgid "Clear All Personal Data"
+#~ msgid "Cl_ear Personal Data…"
+#~ msgstr "ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ(_e)…"
+
+#~ msgid "_Up"
+#~ msgstr "ਉੱਪਰ(_U)"
+
+#~| msgid "_Download"
+#~ msgid "_Down"
+#~ msgstr "ਹੇਠਾਂ(_D)"
+
+#~ msgid "_Enable spell checking"
+#~ msgstr "ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਕਰਨਾ ਚਾਲੂ(_E)"
+
+#~ msgid "Language"
+#~ msgstr "ਭਾਸ਼ਾ"
+
+#~| msgid "Save Image As"
+#~ msgctxt "shortcut window"
+#~ msgid "Save page as web app"
+#~ msgstr "ਸਫ਼ੇ ਨੂੰ ਵੈੱਬ ਐਪ ਵਜੋਂ ਸੰਭਾਲੋ"
+
+#~| msgid "Bookmarks"
+#~ msgctxt "shortcut window"
+#~ msgid "Bookmarks"
+#~ msgstr "ਬੁੱਕਮਾਰਕ"
+
+#~| msgid "_Search:"
+#~ msgctxt "shortcut window"
+#~ msgid "Search"
+#~ msgstr "ਖੋਜ"
+
+#  View menu
+#~ msgid "Stop"
+#~ msgstr "ਰੋਕੋ"
+
+#~ msgid "Stop current data transfer"
+#~ msgstr "ਮੌਜੂਦਾ ਡਾਟਾ ਟਰਾਂਸਫਰ ਰੋਕੋ"
+
+#~ msgid "Display the latest content of the current page"
+#~ msgstr "ਮੌਜੂਦਾ ਪੇਜ਼ ਦੇ ਤਾਜ਼ਾ ਸਮੱਗਰੀ ਵੇਖੋ"
+
+#~ msgid "Open a new tab in an existing browser window"
+#~ msgstr "ਇੱਕ ਮੌਜੂਦਾ ਝਲਕਾਰਾ ਝਰੋਖੇ ਵਿੱਚ ਇੱਕ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Import bookmarks from the given file"
+#~ msgstr "ਦਿੱਤੀ ਫਾਇਲ ਵਿੱਚੋ ਬੁੱਕਮਾਰਕ ਲਿਆਓ"
+
+#~ msgid "Add a bookmark"
+#~ msgstr "ਇੱਕ ਬੁੱਕਮਾਰਕ ਜੋੜ੍ਹੋ"
+
+#~ msgid "Could not start Web"
+#~ msgstr "ਵੈੱਬ ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"
+
+#~ msgid ""
+#~ "Startup failed because of the following error:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "ਹੇਠ ਦਿੱਤੀ ਗਲਤੀ ਕਰਕੇ ਸ਼ੁਰੂ ਕਰਨਾ ਅਸਫ਼ਲ ਰਿਹਾ ਹੈ:\n"
+#~ "%s"
+
+#~ msgid "_Open…"
+#~ msgstr "ਖੋਲ੍ਹੋ(_O)..."
+
+#~ msgid "Save _As…"
+#~ msgstr "…ਵਾਂਗ ਸੰਭਾਲੋ(_A)"
+
+#~ msgid "Find Ne_xt"
+#~ msgstr "ਅੱਗੇ ਖੋਜ(_x)"
+
+#~ msgid "Find Pre_vious"
+#~ msgstr "ਪਿੱਛੇ ਖੋਜ(_v)"
+
+#~| msgid "_Edit Bookmarks"
+#~ msgid "Edit _Bookmarks"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਸੋਧ(_B)"
+
+#  View menu
+#~ msgid "_Stop"
+#~ msgstr "ਰੋਕੋ(_S)"
+
+#~ msgid "_Normal Size"
+#~ msgstr "ਸਧਾਰਨ ਅਕਾਰ(_N)"
+
+#~ msgid "Text _Encoding"
+#~ msgstr "ਟੈਕਸਟ ਇੰਕੋਡਿੰਗ(_E)"
+
+#~| msgid "Web Inspector"
+#~ msgid "_Toggle Inspector"
+#~ msgstr "ਇੰਸਪੈਕਟਰ ਬਦਲੋ(_T)"
+
+#~ msgid "_Location…"
+#~ msgstr "ਟਿਕਾਣਾ(_L)..."
+
+#  Tabs menu
+#~ msgid "_Previous Tab"
+#~ msgstr "ਪਿੱਛੇ ਟੈਬ(_P)"
+
+#~ msgid "_Detach Tab"
+#~ msgstr "ਟੈਬ ਵੱਖ ਕਰੋ(_D)"
+
+#~ msgid "_Fullscreen"
+#~ msgstr "ਪੂਰੀ ਸਕਰੀਨ(_F)"
+
+#~ msgid "Popup _Windows"
+#~ msgstr "ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼(_W)"
+
+#~ msgid "Selection Caret"
+#~ msgstr "ਗੁਪਤ-ਲੇਖਣ ਚੁਣੋ"
+
+#~ msgid "There are unsubmitted changes to form elements"
+#~ msgstr "ਫਾਰਮ ਇਕਾਈ ਵਿੱਚ ਨਾ-ਭੇਜੀਆਂ ਤਬਦੀਲੀਆਂ ਹਨ।"
+
+#~ msgid "If you close the document anyway, you will lose that information."
+#~ msgstr "ਜੇਕਰ ਡੌਕੂਮੈਂਟ ਕਿਸੇ ਤਰਾਂ ਬੰਦ ਕਰ ਦਿੱਤਾ ਤਾਂ, ਜਾਣਕਾਰੀ ਖਤਮ ਹੋ ਜਾਵੇਗੀ।"
+
+#~ msgid "Close _Document"
+#~ msgstr "ਡੌਕੂਮੈਂਟ ਬੰਦ ਕਰੋ(_D)"
+
+#~| msgid "If you close this window, the downloads will be cancelled"
+#~ msgid "If you quit, the downloads will be cancelled"
+#~ msgstr "ਜੇ ਤੁਸੀਂ ਬਾਹਰ ਗਏ ਤਾਂ ਡਾਊਨਲੋਡ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ"
+
+#~| msgid "Close window and cancel downloads"
+#~ msgid "Quit and cancel downloads"
+#~ msgstr "ਬਾਹਰ ਜਾਓ ਅਤੇ ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਰੱਦ ਕਰੋ"
+
+#~ msgid "Save As"
+#~ msgstr "ਇੰਝ ਸੰਭਾਲੋ"
+
+#~ msgid "Save As Application"
+#~ msgstr "ਐਪਲੀਕੇਸ਼ਨ ਵਜੋਂ ਸੰਭਾਲੋ"
+
+#~ msgid "Print"
+#~ msgstr "ਪਰਿੰਟ ਕਰੋ"
+
+#~| msgid "Encodings"
+#~ msgid "Encodings…"
+#~ msgstr "ਇੰਕੋਡਿੰਗ…"
+
+#~ msgid "Larger"
+#~ msgstr "ਵੱਡਾ"
+
+#~ msgid "Smaller"
+#~ msgstr "ਛੋਟਾ"
+
+#~ msgid "Zoom"
+#~ msgstr "ਜ਼ੂਮ"
+
+#~ msgid "New _Tab"
+#~ msgstr "ਨਵੀਂ ਟੈਬ(_T)"
+
+#~| msgid "Go to the next visited page"
+#~ msgid "Go to most visited"
+#~ msgstr "ਅਕਸਰ ਖੋਲ੍ਹੀਆਂ ਉੱਤੇ ਜਾਓ"
+
+#  Translators you should change these links to respect your locale.
+#  * For instance in .nl these should be
+#  * "http://www.google.nl" and "http://www.google.nl/search?q=%s"
+#~| msgid "Search the web"
+#~ msgid "Search the Web for '%s'"
+#~ msgstr "'%s' ਲਈ ਵੈੱਬ ਨੂੰ ਖੋਜੋ"
+
+#~ msgctxt "language"
+#~ msgid "User defined (%s)"
+#~ msgstr "ਯੂਜ਼ਰ ਵਲੋਂ ਦਿੱਤਾ (%s)"
+
+#~ msgid "DuckDuckGo"
+#~ msgstr "DuckDuckGo"
+
+#~ msgid "https://duckduckgo.com/?q=%s&t=epiphany"
+#~ msgstr "https://duckduckgo.com/?q=%s&t=epiphany"
+
+#~ msgid "Google"
+#~ msgstr "ਗੂਗਲ"
+
+#~| msgid "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+#~ msgid "https://google.com/search?q=%s"
+#~ msgstr "https://google.com/search?q=%s"
+
+#~ msgid "Bing"
+#~ msgstr "ਬਿੰਗ"
+
+#~| msgid "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+#~ msgid "https://www.bing.com/search?q=%s"
+#~ msgstr "https://www.bing.com/search?q=%s"
+
+#~ msgid "Contact us at:"
+#~ msgstr "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ:"
+
+#~ msgid "Contributors:"
+#~ msgstr "ਯੋਗਦਾਨ:"
+
+#~ msgid "Past developers:"
+#~ msgstr "ਪੁਰਾਣੇ ਡਿਵੈਲਪਰ:"
+
+#~ msgid "http://www.google.com"
+#~ msgstr "http://www.google.com"
+
+#~ msgid "http://www.google.com/search?q=%s&amp;ie=UTF-8&amp;oe=UTF-8"
+#~ msgstr "http://www.google.com/search?q=%s&amp;ie=UTF-8&amp;oe=UTF-8"
+
+#~ msgid "Content:"
+#~ msgstr "ਸਮੱਗਰੀ:"
+
+#~ msgid "Path:"
+#~ msgstr "ਮਾਰਗ:"
+
+#~ msgid "Send for:"
+#~ msgstr "ਇਸ ਲਈ ਭੇਜੋ:"
+
+#~ msgid "Expires:"
+#~ msgstr "ਮਿਆਦ:"
+
+#~ msgid "<b>_Automatic</b>"
+#~ msgstr "<b>ਆਟੋਮੈਟਿਕ(_A)</b>"
+
+#~ msgid "<b>_Use a different encoding:</b>"
+#~ msgstr "<b>ਵੱਖਰੀ ਇੰਕੋਡਿੰਗ ਵਰਤੋਂ(_U):</b>"
+
+#~ msgid "Enable Java_Script"
+#~ msgstr "ਜਾਵਾ-ਸਕ੍ਰਿਪਟ ਯੋਗ(_S)"
+
+#~ msgid "Temporary Files"
+#~ msgstr "ਆਰਜ਼ੀ ਫਾਇਲਾਂ"
+
+#~ msgid "_Disk space:"
+#~ msgstr "ਡਿਸਕ ਥਾਂ(_D):"
+
+#~ msgid "De_fault:"
+#~ msgstr "ਮੂਲ(_f):"
+
+#~ msgctxt "file type"
+#~ msgid "Unknown"
+#~ msgstr "ਅਣਜਾਣ"
+
+#~ msgid "Epiphany can't be used now. Initialization failed."
+#~ msgstr "ਏਪੀਫਾਨੀ ਇਸ ਸਮੇਂ ਵਰਤਿਆ ਨਹੀ ਜਾ ਸਕਦਾ ਹੈ। ਸ਼ੁਰੂਆਤ ਅਸਫਲ ਰਹੀ ਹੈ।"
+
+#~ msgid ""
+#~ "<big>Would you like to store the password for <b>%s</b> in <b>%s</b>?</"
+#~ "big>"
+#~ msgstr ""
+#~ "<big>ਕੀ ਤੁਸੀਂ <b>%s</b> ਲਈ ਪਾਸਵਰਡ ਨੂੰ <b>%s</b> ਵਿੱਚ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?</big>"
+
+#~ msgid "Oops! Error loading %s"
+#~ msgstr "ਓਹ ਹੋ! %s ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ"
+
+#~ msgid "Try again"
+#~ msgstr "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+
+#~ msgid "Load again anyway"
+#~ msgstr "ਕਿਵੇਂ ਵੀ ਫੇਰ ਲੋਡ ਕਰੋ"
+
+#~ msgid "File is not a valid .desktop file"
+#~ msgstr "ਫਾਇਲ ਇੱਕ ਠੀਕ .desktop ਫਾਇਲ ਨਹੀਂ ਹੈ"
+
+#~ msgid "Unrecognized desktop file Version '%s'"
+#~ msgstr "ਬੇਪਛਾਣ ਡੈਸਕਟਾਪ ਫਾਇਲ ਵਰਜਨ '%s'"
+
+#~ msgid "Starting %s"
+#~ msgstr "%s ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid "Application does not accept documents on command line"
+#~ msgstr "ਐਪਲੀਕੇਸ਼ਨ ਕਮਾਂਡ ਲਾਈਨ ਉੱਤੇ ਡੌਕੂਮੈਂਟ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕਰਦੀ ਹੈ"
+
+#~ msgid "Unrecognized launch option: %d"
+#~ msgstr "ਬੇਪਛਾਣ ਲਾਂਚ ਚੋਣ: %d"
+
+#~ msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+#~ msgstr "ਡੌਕੂਮੈਂਟ URIs  'Type=Link' ਡੈਸਕਟਾਪ ਐਂਟਰੀ ਨੂੰ ਦਿੱਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ"
+
+#~ msgid "Not a launchable item"
+#~ msgstr "ਚਲਾਉਣਯੋਗ ਆਈਟਮ ਨਹੀਂ"
+
+#~ msgid "Disable connection to session manager"
+#~ msgstr "ਸ਼ੈਸ਼ਨ ਮੈਨੇਜਰ ਨਾਲ ਕੁਨੈਕਸ਼ਨ ਆਯੋਗ ਕਰੋ"
+
+#~ msgid "Specify file containing saved configuration"
+#~ msgstr "ਸੰਭਾਲੀ ਸੰਰਚਨਾ ਰੱਖਣ ਵਾਲੀ ਫਾਇਲ ਦਿਓ"
+
+#~ msgid "Specify session management ID"
+#~ msgstr "ਸ਼ੈਸ਼ਨ ਪਰਬੰਧ ID ਦਿਓ"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Session management options:"
+#~ msgstr "ਸ਼ੈਸ਼ਨ ਪਰਬੰਧ ਚੋਣਾਂ:"
+
+#~ msgid "Show session management options"
+#~ msgstr "ਸ਼ੈਸ਼ਨ ਪਰਬੰਧ ਚੋਣਾਂ ਵੇਖੋ"
+
+#~ msgid "Master password needed"
+#~ msgstr "ਮਾਸਟਰ ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ"
+
+#~ msgid ""
+#~ "The passwords from the previous version (Gecko) are locked with a master "
+#~ "password. If you want Epiphany to import them, please enter your master "
+#~ "password below."
+#~ msgstr ""
+#~ "ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ (ਗੀਕੋ) ਤੋਂ ਪਾਸਵਰਡ ਮਾਸਟਰ ਪਾਸਵਰਡ ਨਾਲ ਲਾਕ ਹਨ। ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਏਪੀਫਨੀ "
+#~ "ਉਹਨਾਂ ਨੂੰ ਇਪੋਰਟ ਕਰੇ ਤਾਂ ਤੁਹਾਨੂੰ ਹੇਠਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਦੇਣਾ ਪਵੇਗਾ।"
+
+#~ msgid "%u:%02u hour left"
+#~ msgid_plural "%u:%02u hours left"
+#~ msgstr[0] "%u:%02u ਘੰਟਾ ਬਾਕੀ"
+#~ msgstr[1] "%u:%02u ਘੰਟੇ ਬਾਕੀ"
+
+#~ msgid "Show in folder"
+#~ msgstr "ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ"
+
+#~| msgid "All files"
+#~ msgid "All sites"
+#~ msgstr "ਸਭ ਸਾਇਟਾਂ"
+
+#~ msgid "%d _Similar"
+#~ msgid_plural "%d _Similar"
+#~ msgstr[0] "%d ਰਲਦੇ(_S)"
+#~ msgstr[1] "%d ਰਲਦੇ(_S)"
+
+#~ msgid "_Unify With %d Identical Bookmark"
+#~ msgid_plural "_Unify With %d Identical Bookmarks"
+#~ msgstr[0] "%d ਵਾਂਗ ਰਲ਼ਦੇ ਬੁੱਕਮਾਰਕ ਇਕਸਾਰ(_U)"
+#~ msgstr[1] "%d ਵਾਂਗ ਰਲ਼ਦੇ ਬੁੱਕਮਾਰਕ ਇਕਸਾਰ(_U)"
+
+#~ msgid "Show “%s”"
+#~ msgstr "“%s” ਵੇਖੋ"
+
+#~ msgid "Epiphany (RDF)"
+#~ msgstr "ਏਪੀਫਨੀ (RDF)"
+
+#~ msgid "Epiphany bookmarks"
+#~ msgstr "ਏਪਾਫਨੀ ਬੁੱਕਮਾਰਕ"
+
+#~ msgid "_Other…"
+#~ msgstr "ਹੋਰ(_O)..."
+
+#~ msgid "_Automatic"
+#~ msgstr "ਆਟੋਮੈਟਿਕ(_A)"
+
+#~ msgid "Wrapped"
+#~ msgstr "ਸਮੇਟਿਆ"
+
+#~ msgid "Find links:"
+#~ msgstr "ਲਿੰਕ ਖੋਜ:"
+
+#~ msgid "Find:"
+#~ msgstr "ਖੋਜ:"
+
+#~ msgid "_Case sensitive"
+#~ msgstr "ਅੱਖਰ ਅਕਾਰ(_C)"
+
+#~ msgid "Find Previous"
+#~ msgstr "ਪਿੱਛੇ ਖੋਜ"
+
+#~ msgid "Find Next"
+#~ msgstr "ਅੱਗੇ ਖੋਜ"
+
+#~ msgid "Leave Fullscreen"
+#~ msgstr "ਪੂਰੇ ਪਰਦੇ ਛੱਡੋ"
+
+#~ msgid "Open the selected history link in a new window"
+#~ msgstr "ਚੁਣਿਆ ਅਤੀਤ ਲਿੰਕ ਨਵੇਂ ਝਰੋਖੇ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Open the selected history link in a new tab"
+#~ msgstr "ਚੁਣਿਆ ਅਤੀਤ ਲਿੰਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Bookmark the selected history link"
+#~ msgstr "ਚੁਣੇ ਅਤੀਤ ਸੰਬੰਧ ਨੂੰ ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਲਿਖੋ"
+
+#~ msgid "Close the history window"
+#~ msgstr "ਅਤੀਤ ਵਿੰਡੋ ਬੰਦ ਕਰ ਦਿਓ"
+
+#~ msgid "Delete the selected history link"
+#~ msgstr "ਚੁਣਿਆ ਅਤੀਤ ਸੰਬੰਧ ਹਟਾਓ"
+
+#~ msgid "Select all history links or text"
+#~ msgstr "ਸਭ ਅਤੀਤ ਸੰਬੰਧ ਜਾਂ ਪਾਠ ਚੁਣੋ"
+
+#~ msgid "Clear _History"
+#~ msgstr "ਅਤੀਤ ਸਾਫ਼(_H)"
+
+#~ msgid "Clear your browsing history"
+#~ msgstr "ਆਪਣਾ ਝਲਕਾਰਾ ਅਤੀਤ ਸਾਫ ਕਰੋ"
+
+#~ msgid "Display history help"
+#~ msgstr "ਅਤੀਤ ਮੱਦਦ ਵੇਖੋ"
+
+#~ msgid "_Date and Time"
+#~ msgstr "ਮਿਤੀ ਅਤੇ ਸਮਾਂ(_D)"
+
+#~ msgid "Show the date and time column"
+#~ msgstr "ਮਿਤੀ ਅਤੇ ਸਮਾਂ ਕਾਲਮ ਵੇਖੋ"
+
+#~ msgid "Last 30 minutes"
+#~ msgstr "ਆਖਰੀ 30 ਮਿੰਟ"
+
+#~ msgid "Today"
+#~ msgstr "ਅੱਜ"
+
+#~ msgid "Last %d day"
+#~ msgid_plural "Last %d days"
+#~ msgstr[0] "ਆਖਰੀ %d ਦਿਨ"
+#~ msgstr[1] "ਆਖਰੀ %d ਦਿਨ"
+
+#~ msgid "Launch the bookmarks editor"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਸੰਪਾਦਕ ਚਲਾਓ"
+
+#~ msgid "Downloads will be aborted and logout proceed in %d second."
+#~ msgid_plural "Downloads will be aborted and logout proceed in %d seconds."
+#~ msgstr[0] "ਡਾਊਨਲੋਡ ਨੂੰ ਅਧੂਰਾ ਛੱਡਿਆ ਜਾਵੇਗਾ ਅਟੇ ਲਾਗ-ਆਉਟ %d ਸਕਿੰਟਾਂ 'ਚ ਜਾਰੀ ਰਹੇਗਾ।"
+#~ msgstr[1] "ਡਾਊਨਲੋਡ ਨੂੰ ਅਧੂਰਾ ਛੱਡਿਆ ਜਾਵੇਗਾ ਅਟੇ ਲਾਗ-ਆਉਟ %d ਸਕਿੰਟ 'ਚ ਜਾਰੀ ਰਹੇਗਾ।"
+
+#~ msgid "Abort pending downloads?"
+#~ msgstr "ਕੀ ਬਕਾਇਆ ਡਾਊਨਲੋਡ ਅਧੂਰੇ ਛੱਡਣੇ ਹਨ?"
+
+#~ msgid ""
+#~ "There are still downloads pending. If you log out, they will be aborted "
+#~ "and lost."
+#~ msgstr ""
+#~ "ਹਾਲ਼ੇ ਡਾਊਨਲੋਡ ਬਕਾਇਆ ਹਨ। ਜੇਕਰ ਤੁਸੀਂ ਲਾਗ-ਆਉਟ ਕੀਤਾ ਤਾਂ ਇਹ ਅਧੂਰੇ ਖਤਮ ਹੋ ਜਾਣਗੇ ਅਤੇ ਮੁੜ-"
+#~ "ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਣਗੇ।"
+
+#~ msgid "_Cancel Logout"
+#~ msgstr "ਲਾਗ-ਆਉਟ ਰੱਦ ਕਰੋ(_C)"
+
+#~ msgid "_Abort Downloads"
+#~ msgstr "ਡਾਊਨਲੋਡ ਅਧੂਰੇ ਛੱਡੋ(_A)"
+
+#~| msgid "Don't recover"
+#~ msgid "_Don't recover"
+#~ msgstr "ਮੁੜ-ਪ੍ਰਾਪਤ ਨਾ ਕਰੋ(_D)"
+
+#~| msgid "Recover session"
+#~ msgid "_Recover session"
+#~ msgstr "ਸ਼ੈਸ਼ਨ ਮੁੜ-ਪ੍ਰਾਪਤ(_R)"
+
+#~ msgid "Do you want to recover the previous browser windows and tabs?"
+#~ msgstr "ਕੀ ਤੁਸੀਂ ਪਹਿਲਾਂ ਬਰਾਊਜ਼ ਕੀਤੀਆਂ ਵਿੰਡੋ ਤੇ ਟੈਬ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#~ msgid "_Larger Text"
+#~ msgstr "ਸ਼ਬਦ ਵੱਡਾ(_L)"
+
+#~ msgid "S_maller Text"
+#~ msgstr "ਸ਼ਬਦ ਛੋਟਾ(_m)"
+
+#~ msgid "_Work Offline"
+#~ msgstr "ਆਫਲਾਈਨ(_W)"
+
+#  The name of the default downloads folder
+#~ msgid "_Downloads Bar"
+#~ msgstr "ਡਾਊਨਲੋਡ ਪੱਟੀ(_D)"
+
+#~ msgid "_Download Link"
+#~ msgstr "ਲਿੰਕ ਡਾਊਨਲੋਡ(_D)"
+
+#~ msgid "_Bookmark Link…"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਲਿੰਕ(_B)…"
+
+#~ msgid "_Use Image As Background"
+#~ msgstr "ਚਿੱਤਰ ਨੂੰ ਬੈਕਗਰਾਊਂਡ ਦੇ ਤੌਰ 'ਤੇ ਵਰਤੋਂ(_U)"
+
+#~ msgid "St_art Animation"
+#~ msgstr "ਸਜੀਵਤਾ ਚਾਲੂ(_a)"
+
+#~ msgid "St_op Animation"
+#~ msgstr "ਸਜੀਵਤਾ ਰੋਕੋ(_o)"
+
+#~ msgid "Inspect _Element"
+#~ msgstr "ਐਲੀਮੈਂਟ ਜਾਂਚੋ(_E)"
+
+#~ msgid "C_ookies"
+#~ msgstr "ਕੂਕੀਜ਼(_o)"
+
+#  keep this in sync with embed/ephy-history.c's HISTORY_PAGE_OBSOLETE_DAYS
+#~ msgid "Hi_story"
+#~ msgstr "ਅਤੀਤ(_s)"
+
+#~ msgid "Encrypted connections only"
+#~ msgstr "ਇੰਕ੍ਰਿਪਟਡ ਕੁਨੈਕਸ਼ਨ ਹੀ"
+
+#~ msgid "Any type of connection"
+#~ msgstr "ਕੋਈ ਕੁਨੈਕਸ਼ਨ ਵੀ"
+
+#~ msgid "End of current session"
+#~ msgstr "ਮੌਜੂਦਾ ਸ਼ੈਸ਼ਨ ਦਾ ਅੰਤ"
+
+#~ msgid "Domain"
+#~ msgstr "ਡੋਮੇਨ"
+
+#~ msgid "Host"
+#~ msgstr "ਹੋਸਟ"
+
+#~ msgid "User Password"
+#~ msgstr "ਯੂਜ਼ਰ ਪਾਸਵਰਡ"
+
+#~ msgid "Download Link"
+#~ msgstr "ਲਿੰਕ ਡਾਊਨਲੋਡ ਕਰੋ"
+
+#~| msgid ""
+#~| "The GNOME Web Browser is free software; you can redistribute it and/or "
+#~| "modify it under the terms of the GNU General Public License as published "
+#~| "by the Free Software Foundation; either version 2 of the License, or (at "
+#~| "your option) any later version."
+#~ msgid ""
+#~ "Web is free software; you can redistribute it and/or modify it under the "
+#~ "terms of the GNU General Public License as published by the Free Software "
+#~ "Foundation; either version 2 of the License, or (at your option) any "
+#~ "later version."
+#~ msgstr ""
+#~ "ਵੈੱਬ ਮੁਫ਼ਤ ਸਾਫਟਵੇਅਰ ਹੈ, ਜੋ ਕਿ ਗਨੂ (ਜਰਨਲ ਪਬਲਿਕ ਲਾਈਸੈਂਸ, ਜੋ ਕਿ ਫਰੀ ਸਾਫਟਵੇਅਰ ਫਾਊਨਡੇਸ਼ਨ ਵਲੋਂ "
+#~ "ਪਰਕਾਸ਼ਿਤ ਕੀਤਾ ਗਿਆ ਹੈ) ਦੇ ਵਰਜਨ ੨ ਜਾਂ ਕੋਈ ਵੀ ਨਵੇਂ (ਤੁਹਾਡੀ ਸਹੂਲਤ ਮੁਤਾਬਕ) ਰਾਹੀਂ ਵੰਡਿਆ ਜਾ "
+#~ "ਸਕਦਾ ਹੈ।"
+
+#~ msgid ""
+#~ "The GNOME Web Browser is distributed in the hope that it will be useful, "
+#~ "but WITHOUT ANY WARRANTY; without even the implied warranty of "
+#~ "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General "
+#~ "Public License for more details."
+#~ msgstr ""
+#~ "ਗਨੋਮ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਇਹ ਸੋਚ ਕਿ ਵੰਡਿਆ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਇਹ ਲਾਭਦਾਇਕ ਹੋਵੇਗਾ, ਪਰ ਕੋਈ ਵਾਰੰਟੀ ਨਹੀਂ "
+#~ "ਦਿੱਤੀ ਜਾ ਰਹੀ ਹੈ, ਕਿਸੇ ਵੀ ਖਾਸ ਮਕਸਦ ਲਈ ਅਨੁਕੂਲ ਹੋਣ ਦੀ ਵੀ ਵਾਰੰਟੀ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦੀ ਹੈ। ਹੋਰ "
+#~ "ਵੇਰਵੇ ਲਈ ਗਨੂ ਜਰਨਲ ਪਬਲਿਕ ਲਾਈਸੈਂਸ ਵੇਖ ਲਵੋ।"
+
+#~ msgid ""
+#~ "You should have received a copy of the GNU General Public License along "
+#~ "with the GNOME Web Browser; if not, write to the Free Software "
+#~ "Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  "
+#~ "02110-1301  USA"
+#~ msgstr ""
+#~ "ਤੁਸੀਂ ਗਨੂ ਜਰਨਲ ਪਬਲਿਕ ਲਾਈਸੈਂਸ ਦੀ ਇੱਕ ਨਕਲ ਗਨੋਮ ਵੈੱਬ ਝਲਕਾਰੇ ਨਾਲ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ, ਜੇਕਰ "
+#~ "ਨਹੀਂ ਤਾਂ ਫਰੀ ਸਾਫਟਵੇਅਰ ਫਾਊਨਡੇਸ਼ਨ, 59 ਟੈਂਪਲ ਪਲੇਸ, ਸੂਟ 330, ਬੋਸਟਨ, ਐਮ ਏ  02110-1301  "
+#~ "ਅਮਰੀਕਾ ਤੋਂ ਲੈ ਸਕਦੇ ਹੋ।"
+
+#~| msgid ""
+#~| "Lets you view web pages and find information on the internet.\n"
+#~| "Powered by WebKit"
+#~ msgid ""
+#~ "Lets you view web pages and find information on the internet.\n"
+#~ "Powered by WebKit %d.%d.%d"
+#~ msgstr ""
+#~ "ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਵੈੱਬ ਸਫ਼ੇ ਵੇਖਣ ਅਤੇ ਜਾਣਕਾਰੀ ਲੱਭਣ ਲਈ ਸਹਾਇਕ ਹੈ।\n"
+#~ "%d.%d.%d ਵੈੱਬਕਿੱਟ ਨਾਲ ਤਿਆਰ ਹੈ।"
+
+#~ msgid "Epiphany Web Bookmarks"
+#~ msgstr "ਏਪਾਫਨੀ ਵੈਬ ਬੁੱਕਮਾਰਕ"
+
+#~ msgid "Epiphany"
+#~ msgstr "ਏਪੀਫਨੀ"
+
+#~ msgid "Certificate _Fields"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ ਖੇਤਰ(_F)"
+
+#~ msgid "Certificate _Hierarchy"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ ਲੜੀ(_H)"
+
+#~ msgid "Common Name:"
+#~ msgstr "ਆਮ ਨਾਂ:"
+
+#~ msgid "Expires On:"
+#~ msgstr "ਮਿਆਦ:"
+
+#~ msgid "Field _Value"
+#~ msgstr "ਖੇਤਰ ਮੁੱਲ(_V)"
+
+#~| msgid "MD5 Fingerprint:"
+#~ msgid "Fingerprints"
+#~ msgstr "ਫਿੰਗਰਪ੍ਰਿੰਟ"
+
+#~| msgid "Issued On:"
+#~ msgid "Issued By"
+#~ msgstr "ਜਾਰੀ ਕਰਤਾ"
+
+#~ msgid "Issued On:"
+#~ msgstr "ਨੂੰ ਜਾਰੀ ਕੀਤਾ:"
+
+#~| msgid "Issued On:"
+#~ msgid "Issued To"
+#~ msgstr "ਜਾਰੀ ਕੀਤਾ"
+
+#~ msgid "MD5 Fingerprint:"
+#~ msgstr "MD5 ਨਿਸ਼ਾਨ:"
+
+#~ msgid "Organizational Unit:"
+#~ msgstr "ਸੰਗਠਨ ਇਕਾਈ:"
+
+#~ msgid "SHA1 Fingerprint:"
+#~ msgstr "SHA1 ਨਿਸ਼ਾਨ:"
+
+#~ msgid "Serial Number:"
+#~ msgstr "ਕਰਮ ਨੰਬਰ:"
+
+#~| msgid "<b>Validity</b>"
+#~ msgid "Validity"
+#~ msgstr "ਵੈਧਤਾ"
+
+#~ msgid ""
+#~ "To confirm that you want to sign the above text, choose a certificate to "
+#~ "sign the text with and enter its password below."
+#~ msgstr ""
+#~ "ਇਹ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਕਿ ਤੁਸੀਂ ਉੱਤੇ ਦਿੱਤੇ ਟੈਕਸਟ ਨੂੰ ਸਾਈਨ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਸਾਈਨ ਕਰਨ ਲਈ "
+#~ "ਸਰਟੀਫਿਕੇਟ ਚੁਣੋ ਅਤੇ ਉਸ ਲਈ ਹੇਠਾਂ ਪਾਸਵਰਡ ਦਿਉ।"
+
+#~ msgid "_Certificate:"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ(_I):"
+
+#  Add the buttons
+#~ msgid "_View Certificate&#x2026;"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ(_V)&#x2026;"
+
+#~ msgid "Set to _Blank Page"
+#~ msgstr "ਖਾਲੀ ਸਫ਼ਾ ਲਈ ਸੈਟ(_B)"
+
+#~ msgid "_Address:"
+#~ msgstr "ਐਡਰੈੱਸ(_A):"
+
+#~ msgid "As laid out on the _screen"
+#~ msgstr "ਜਿਵੇਂ ਸਕਰੀਨ ਉੱਤੇ ਪਿਆ ਹੈ(_s)"
+
+#~| msgid "<b>Footers</b>"
+#~ msgid "Footers"
+#~ msgstr "ਫੁੱਟਰ"
+
+#~| msgid "<b>Frames</b>"
+#~ msgid "Frames"
+#~ msgstr "ਫਰੇਮ"
+
+#~| msgid "<b>Headers</b>"
+#~ msgid "Headers"
+#~ msgstr "ਹੈੱਡਰ"
+
+#~ msgid "O_nly the selected frame"
+#~ msgstr "ਸਿਰਫ਼ ਚੁਣਿਆ ਫਰੇਮ ਹੀ(_n)"
+
+#~ msgid "P_age title"
+#~ msgstr "ਸਫ਼ਾ ਨਾਂ(_a)"
+
+#~ msgid "Page _numbers"
+#~ msgstr "ਸਫ਼ਾ ਗਿਣਤੀ(_n)"
+
+#~ msgid "Print background c_olors"
+#~ msgstr "ਬੈਕਗਰਾਊਂਡ ਰੰਗ ਛਾਪੋ(_o)"
+
+#~ msgid "Print background i_mages"
+#~ msgstr "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਛਾਪੋ(_m)"
+
+#~ msgid "_Date"
+#~ msgstr "ਮਿਤੀ(_D)"
+
+#~ msgid "_Each frame separately"
+#~ msgstr "ਹਰੇਕ ਫਰੇਮ ਵੱਖਰਾ(_E)"
+
+#~ msgid "_Page address"
+#~ msgstr "ਸਫ਼ਾ ਐਡਰੈੱਸ(_P)"
+
+#~ msgid ""
+#~ "CA Certificates file we should use was not found, all SSL sites will be "
+#~ "considered to have a broken certificate."
+#~ msgstr ""
+#~ "CA ਸਰਟੀਫਿਕੇਟ ਫਾਇਲ, ਜੋ ਅਸੀਂ ਵਰਤਣੀ ਸੀ, ਲੱਭੀ ਨਹੀਂ, ਸਭ SSL ਸਾਇਟਾਂ ਖਰਾਬ ਸਰਟੀਫਿਕੇਟ ਵਜੋਂ "
+#~ "ਮੰਨਣਗੀਆਂ।"
+
+#~ msgid "Show “_%s”"
+#~ msgstr "“_%s” ਵੇਖੋ"
+
+#~ msgid "_Move on Toolbar"
+#~ msgstr "ਟੂਲਬਾਰ ਉੱਤੇ ਏਧਰ-ਓਧਰ(_M)"
+
+#~ msgid "Move the selected item on the toolbar"
+#~ msgstr "ਚੁਣੀ ਇਕਾਈ ਨੂੰ ਟੂਲਬਾਰ ਵਿੱਚ ਭੇਜੋ"
+
+#~ msgid "_Delete Toolbar"
+#~ msgstr "ਟੂਲਬਾਰ ਹਟਾਓ(_D)"
+
+#~ msgid "Separator"
+#~ msgstr "ਵੱਖਰੇਵਾਂ"
+
+#~ msgid "Address Entry"
+#~ msgstr "ਐਡਰੈੱਸ ਇੰਦਰਾਜ਼"
+
+#~ msgid "%s:"
+#~ msgstr "%s:"
+
+#~ msgid "Executes the script “%s”"
+#~ msgstr "ਸਕ੍ਰਿਪਟ “%s” ਚਲਾਓ"
+
+#~ msgid "Update bookmark “%s”?"
+#~ msgstr "ਕੀ ਬੁੱਕਮਾਰਕ “%s” ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?"
+
+#~ msgid "The bookmarked page has moved to “%s”."
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਸਫ਼ਾ “%s” ਦੇ ਤੌਰ 'ਤੇ ਬਦਲ ਗਿਆ ਹੈ।"
+
+#~ msgid "_Don't Update"
+#~ msgstr "ਅੱਪਡੇਟ ਨਹੀਂ(_D)"
+
+#~ msgid "_Update"
+#~ msgstr "ਅੱਪਡੇਟ(_U)"
+
+#  FIXME: We "should" use gtk_message dialog here
+#  * but it doesn't support markup of text yet
+#  * so we build our own. See bug 65501.
+#~ msgid "Update Bookmark?"
+#~ msgstr "ਕੀ ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?"
+
+#~ msgid "_Show on Toolbar"
+#~ msgstr "ਟੂਲਬਾਰ ਉੱਤੇ ਵੇਖੋ(_S)"
+
+#~ msgid "Show the selected bookmark on a toolbar"
+#~ msgstr "ਇੱਕ ਟੂਲਬਾਰ ਉੱਤੇ ਚੁਣੇ ਬੁੱਕਮਾਰਕ ਵੇਖੋ"
+
+#~ msgid "Show properties for this bookmark"
+#~ msgstr "ਇਹ ਬੁੱਕਮਾਰਕ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਵੇਖੋ"
+
+#~ msgid "Open this bookmark in a new tab"
+#~ msgstr "ਇੱਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਇਹ ਬੁੱਕਮਾਰਕ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Open this bookmark in a new window"
+#~ msgstr "ਨਵੇਂ ਝਰੋਖੇ ਵਿੱਚ ਇਹ ਬੁੱਕਮਾਰਕ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Related"
+#~ msgstr "ਸਬੰਧਤ"
+
+#~ msgid "Topic"
+#~ msgstr "ਵਿਸ਼ਾ"
+
+#~ msgid "Go"
+#~ msgstr "ਜਾਓ"
+
+#~ msgid "Switch to this tab"
+#~ msgstr "ਇਸ ਟੈਬ ਲਈ ਤਬਦੀਲ"
+
+#~ msgid "Go to the previous visited page"
+#~ msgstr "ਪਹਿਲਾਂ ਵਰਤੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ"
+
+#~ msgid "Forward history"
+#~ msgstr "ਅਤੀਤ ਅੱਗੇ"
+
+#~ msgid "Go up one level"
+#~ msgstr "ਇੱਕ ਪਗ਼ ਉਪੱਰ ਜਾਓ"
+
+#~ msgid "List of upper levels"
+#~ msgstr "ਉੱਪਰਲੇ ਪਗ਼ਾਂ ਦੀ ਸੂਚੀ"
+
+#~ msgid "Enter a web address to open, or a phrase to search for"
+#~ msgstr "ਖੋਲਣ ਲਈ ਵੈਬ-ਐਡਰੈੱਸ ਦਿਓ, ਜਾਂ ਵੈਬ ਤੇ ਖੋਜ ਲਈ ਪੈਰਾ ਦਿਓ"
+
+#~ msgid "Adjust the text size"
+#~ msgstr "ਪਾਠ ਦਾ ਅਕਾਰ ਅਨੁਕੂਲ"
+
+#~ msgid "Go to the address entered in the address entry"
+#~ msgstr "ਉਸ ਸਿਰਨਾਵੇਂ 'ਤੇ ਜਾਓ, ਜੋ ਕਿ ਪਤਾ-ਇੰਦਰਾਜ ਵਿੱਚ ਦਿੱਤਾ ਗਿਆ ਹੈ"
+
+#~ msgid "_Home"
+#~ msgstr "ਮੁੱਖ(_H)"
+
+#~ msgid "Open a new window"
+#~ msgstr "ਨਵਾਂ ਝਰੋਖਾ ਖੋਲ੍ਹੋ"
+
+#~ msgctxt "toolbar style"
+#~ msgid "Default"
+#~ msgstr "ਡਿਫਾਲਟ"
+
+#~ msgctxt "toolbar style"
+#~ msgid "Text below icons"
+#~ msgstr "ਆਈਕਾਨ ਹੇਠ ਸ਼ਬਦ"
+
+#~ msgctxt "toolbar style"
+#~ msgid "Text beside icons"
+#~ msgstr "ਆਈਕਾਨ ਨਾਲ ਸ਼ਬਦ"
+
+#~ msgctxt "toolbar style"
+#~ msgid "Icons only"
+#~ msgstr "ਕੇਵਲ ਆਈਕਾਨ"
+
+#~ msgid "Toolbar Editor"
+#~ msgstr "ਟੂਲਬਾਰ ਐਡੀਟਰ"
+
+#~ msgid "Toolbar _button labels:"
+#~ msgstr "ਟੂਲਬਾਰ ਬਟਨ ਲੇਬਲ(_b):"
+
+#~ msgid "_Add a New Toolbar"
+#~ msgstr "ਨਵੀਂ ਟੂਲਬਾਰ ਜੋਡ਼ੋ(_A)"
+
+#~ msgid "_Go"
+#~ msgstr "ਜਾਓ(_G)"
+
+#~ msgid "T_ools"
+#~ msgstr "ਟੂਲ(_o)"
+
+#  View Menu
+#~ msgid "_Toolbars"
+#~ msgstr "ਟੂਲਬਾਰ(_T)"
+
+#~| msgid "Save the current page"
+#~ msgid "Save the current page as a Web Application"
+#~ msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਵਜੋਂ ਸੰਭਾਲੋ"
+
+#~ msgid "Page Set_up"
+#~ msgstr "ਸਫ਼ਾ ਸੈਟਅੱਪ(_u)"
+
+#~ msgid "Setup the page settings for printing"
+#~ msgstr "ਪਰਿੰਟ ਕਰਨ ਲਈ ਪੰਨਾ ਸੈੱਟਅੱਪ"
+
+#~ msgid "Print Pre_view"
+#~ msgstr "ਪਰਿੰਟ ਝਲਕ(_v)"
+
+#~ msgid "Print preview"
+#~ msgstr "ਪਰਿੰਟ ਝਲਕ"
+
+#~ msgid "Print the current page"
+#~ msgstr "ਮੌਜੂਦਾ ਸਫ਼ਾ ਛਾਪੋ"
+
+#~ msgid "Send a link of the current page"
+#~ msgstr "ਮੌਜੂਦਾ ਸਫ਼ੇ ਦਾ ਲਿੰਕ ਭੇਜੋ"
+
+#~ msgid "Undo the last action"
+#~ msgstr "ਅਖੀਰੀ ਕਾਰਵਾਈ ਮੁਡ਼ ਕਰੋ"
+
+#~ msgid "Redo the last undone action"
+#~ msgstr "ਆਖਰੀ ਮੁਡ਼ ਕਾਰਵਾਈ ਨੂੰ ਫਿਰ ਕਰੋ"
+
+#~ msgid "Paste clipboard"
+#~ msgstr "ਕਲਿੱਪਬੋਰਡ ਚੇਪੋ"
+
+#~ msgid "Delete text"
+#~ msgstr "ਟੈਕਸਟ ਹਟਾਓ"
+
+#~ msgid "Find a word or phrase in the page"
+#~ msgstr "ਸਫ਼ੇ ਵਿੱਚ ਸ਼ਬਦ ਜਾਂ ਪੈਰਾ ਲੱਭੋ"
+
+#~ msgid "Find next occurrence of the word or phrase"
+#~ msgstr "ਸ਼ਬਦ ਜਾਂ ਪੈਰੇ ਦੀ ਅਗਲੀ ਮੌਜੂਦਗੀ ਦੀ ਖੋਜ"
+
+#~ msgid "Find previous occurrence of the word or phrase"
+#~ msgstr "ਸ਼ਬਦ ਜਾਂ ਪੈਰੇ ਦੀ ਪਿਛਲੀ ਮੌਜੂਦਗੀ ਦੀ ਖੋਜ"
+
+#~ msgid "P_ersonal Data"
+#~ msgstr "ਨਿੱਜੀ ਜਾਣਕਾਰੀ(_e)"
+
+#~ msgid "View and remove cookies and passwords"
+#~ msgstr "ਕੂਕੀਜ਼ ਅਤੇ ਪਾਸਵਰਡ ਵੇਖੋ ਅਤੇ ਹਟਾਓ"
+
+#~ msgid "Certificate_s"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ(_s)"
+
+#  Add the buttons
+#~ msgid "Manage Certificates"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ ਪਰਬੰਧ"
+
+#~ msgid "P_references"
+#~ msgstr "ਮੇਰੀ ਪਸੰਦ(_r)"
+
+#~ msgid "Configure the web browser"
+#~ msgstr "ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਦੀ ਸੰਰਚਨਾ ਕਰੋ"
+
+#~ msgid "_Customize Toolbars…"
+#~ msgstr "ਟੂਲਬਾਰ ਪਸੰਦ(_C)..."
+
+#~ msgid "Customize toolbars"
+#~ msgstr "ਟੂਲਬਾਰ ਦੀ ਸੋਧ"
+
+#~ msgid "Increase the text size"
+#~ msgstr "ਟੈਕਸਟ ਦਾ ਆਕਾਰ ਵਧਾਓ"
+
+#~ msgid "Decrease the text size"
+#~ msgstr "ਟੈਕਸਟ ਦਾ ਆਕਾਰ ਘਟਾਓ"
+
+#~ msgid "Use the normal text size"
+#~ msgstr "ਟੈਕਸਟ ਦਾ ਅਕਾਰ ਸਧਾਰਨ ਕਰੋ"
+
+#~ msgid "Change the text encoding"
+#~ msgstr "ਟੈਕਸਟ-ਇੰਕੋਡਿੰਗ ਤਬਦੀਲ ਕਰੋ"
+
+#~ msgid "View the source code of the page"
+#~ msgstr "ਸਫ਼ੇ ਦਾ ਸਰੋਤ ਵੇਖੋ"
+
+#~ msgid "Page _Security Information"
+#~ msgstr "ਸਫ਼ਾ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ(_S)"
+
+#~ msgid "Display security information for the web page"
+#~ msgstr "ਵੈੱਬ ਸਫ਼ੇ ਲਈ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਵੇਖੋ"
+
+#~ msgid "Open the bookmarks window"
+#~ msgstr "ਬੁੱਕਮਾਰਕ ਵਿੰਡੋ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Go to a specified location"
+#~ msgstr "ਖਾਸ ਟਿਕਾਣੇ ਤੇ ਜਾਓ"
+
+#~ msgid "Open the history window"
+#~ msgstr "ਅਤੀਤ ਵਿੰਡੋ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Activate previous tab"
+#~ msgstr "ਪਿਛਲੀ ਟੈਬ ਨੂੰ ਸਰਗਰਮ ਕਰੋ"
+
+#~ msgid "Activate next tab"
+#~ msgstr "ਅਗਲੀ ਟੈਬ ਸਰਗਰਮ"
+
+#~ msgid "Display web browser help"
+#~ msgstr "ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਮੱਦਦ ਵੇਖੋ"
+
+#~ msgid "Switch to offline mode"
+#~ msgstr "ਆਫਲਾਈਨ ਢੰਗ ਵਿੱਚ ਤਬਦੀਲ"
+
+#  View Menu
+#~ msgid "_Hide Toolbars"
+#~ msgstr "ਟੂਲਬਾਰ ਓਹਲੇ(_H)"
+
+#~ msgid "Show or hide toolbar"
+#~ msgstr "ਟੂਲਬਾਰ ਵੇਖੋ/ਓਹਲੇ"
+
+#~ msgid "Show the active downloads for this window"
+#~ msgstr "ਇਸ ਵਿੰਡੋ ਲਈ ਸਰਗਰਮ ਡਾਊਨਲੋਡ ਵੇਖਾਉ"
+
+#~ msgid "Men_ubar"
+#~ msgstr "ਮੇਨੂ-ਪੱਟੀ(_u)"
+
+#~ msgid "Show or hide unrequested popup windows from this site"
+#~ msgstr "ਇਸ ਸਾਇਟ ਤੋਂ ਬੇ-ਲੋੜੀਦੇ ਪੋਪਅੱਪ ਵਿੰਡੋ ਓਹਲੇ ਕਰੋ ਜਾਂ ਵੇਖੋ"
+
+#~ msgid "Show Only _This Frame"
+#~ msgstr "ਸਿਰਫ਼ ਏਹੀ ਫਰੇਮ ਹੀ ਵੇਖੋ(_T)"
+
+#~ msgid "Show only this frame in this window"
+#~ msgstr "ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਇਹ ਫਰੇਮ ਹੀ ਵੇਖੋ"
+
+#~ msgid "Open link in this window"
+#~ msgstr "ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Open link in a new window"
+#~ msgstr "ਲਿੰਕ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Open link in a new tab"
+#~ msgstr "ਲਿੰਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+
+#~ msgid "Save link with a different name"
+#~ msgstr "ਲਿੰਕ ਵੱਖਰੇ ਨਾਂ ਨਾਲ ਸੰਭਾਲੋ"
+
+#~ msgid "_Send Email…"
+#~ msgstr "ਈ-ਮੇਲ ਭੇਜੋ(_S)…"
+
+#~ msgid "Insecure"
+#~ msgstr "ਅਸੁਰੱਖਿਅਤ"
+
+#~ msgid "Broken"
+#~ msgstr "ਟੁੱਟਾ"
+
+#~ msgid "Low"
+#~ msgstr "ਥੋਡ਼ਾ"
+
+#~ msgid "High"
+#~ msgstr "ਜਿਆਦਾ"
+
+#~ msgid "Security level: %s"
+#~ msgstr "ਸੁਰੱਖਿਆ ਪੱਧਰ: %s"
+
+#  Images
+#~ msgid "Open image “%s”"
+#~ msgstr "ਚਿੱਤਰ “%s” ਖੋਲ੍ਹੋ"
+
+#~ msgid "Use as desktop background “%s”"
+#~ msgstr "ਚਿੱਤਰ “%s” ਨੂੰ ਬੈਕਗਰਾਊਂਡ ਦੇ ਤੌਰ 'ਤੇ ਵਰਤੋਂ"
+
+#~ msgid "Save image “%s”"
+#~ msgstr "ਚਿੱਤਰ “%s” ਸੰਭਾਲੋ"
+
+#~ msgid "Copy image address “%s”"
+#~ msgstr "ਚਿੱਤਰ ਐਡਰੈੱਸ “%s” ਕਾਪੀ ਕਰੋ"
+
+#~ msgid "Send email to address “%s”"
+#~ msgstr "ਐਡਰੈੱਸ “%s” ਨੂੰ ਈ-ਮੇਲ ਭੇਜੋ"
+
+#~ msgid "Copy email address “%s”"
+#~ msgstr "ਈ-ਮੇਲ ਐਡਰੈੱਸ “%s” ਕਾਪੀ ਕਰੋ"
+
+#~ msgid "Save link “%s”"
+#~ msgstr "ਲਿੰਕ “%s” ਸੰਭਾਲੋ"
+
+#~ msgid "Bookmark link “%s”"
+#~ msgstr "ਲਿੰਕ “%s” ਬੁੱਕਮਾਰਕ"
+
+#~ msgid "Copy link's address “%s”"
+#~ msgstr "ਲਿੰਕ ਐਡਰੈੱਸ “%s” ਕਾਪੀ ਕਰੋ"
+
+#~ msgid "<b>Fingerprints</b>"
+#~ msgstr "<b>ਨਿਸ਼ਾਨ</b>"
+
+#~ msgid "<b>Issued By</b>"
+#~ msgstr "<b>ਜਾਰੀ ਕਰਤਾ</b>"
+
+#~ msgid "<b>Issued To</b>"
+#~ msgstr "<b>ਲਈ ਜਾਰੀ</b>"
+
+#~ msgid "<b>Cookies</b>"
+#~ msgstr "<b>ਕੂਕੀਜ਼</b>"
+
+#~ msgid "<b>Downloads</b>"
+#~ msgstr "<b>ਡਾਊਨਲੋਡ</b>"
+
+#~ msgid "<b>Encodings</b>"
+#~ msgstr "<b>ਇੰਕੋਡਿੰਗ</b>"
+
+#~ msgid "<b>Fonts</b>"
+#~ msgstr "<b>ਫੋਂਟ</b>"
+
+#~ msgid "<b>Home page</b>"
+#~ msgstr "<b>ਮੁੱਖ ਸਫ਼ਾ</b>"
+
+#~ msgid "<b>Languages</b>"
+#~ msgstr "<b>ਭਾਸ਼ਾ</b>"
+
+#~ msgid "<b>Passwords</b>"
+#~ msgstr "<b>ਪਾਸਵਰਡ</b>"
+
+#~ msgid "<b>Style</b>"
+#~ msgstr "<b>ਸਟਾਈਲ</b>"
+
+#~ msgid "<b>Temporary Files</b>"
+#~ msgstr "<b>ਆਰਜ਼ੀ ਫਾਇਲਾਂ</b>"
+
+#~ msgid ""
+#~ "A list of protocols to be considered safe in addition to the default, "
+#~ "when disable_unsafe_protocols is enabled."
+#~ msgstr ""
+#~ "ਮੂਲ ਪਰੋਟੋਕਾਲਾਂ ਤੋ ਬਿਨਾਂ ਹੋਰ ਸੁਰੱਖਿਅਤ ਪਰੋਟੋਕਾਲਾਂ ਦੀ ਸੂਚੀਂ, ਜਦੋਂ ਕਿ "
+#~ "disable_unsafe_protocols ਯੋਗ ਹੋਵੇ।"
+
+#~ msgid "Disable JavaScript chrome control"
+#~ msgstr "ਜਾਵਾ-ਸਕਰਿਪਟ ਕਰੋਮ ਕੰਟਰੋਲ ਅਯੋਗ ਕਰੋ"
+
+#~ msgid "Disable JavaScript's control over window chrome."
+#~ msgstr "ਜਾਵਾ-ਸਕਰਿਪਟ ਦਾ ਝਰੋਖਾ ਕਰੋਮ ਕੰਟਰੋਲ ਅਯੋਗ ਹੈ।"
+
+#~ msgid ""
+#~ "Disable all historical information by disabling back and forward "
+#~ "navigation, not allowing the history dialog and hiding the most used "
+#~ "bookmarks list."
+#~ msgstr ""
+#~ "ਵਾਪਸੀ ਬਟਨ ਅਯੋਗ ਕਰਕੇ ਅਤੀਤ ਦੀ ਜਾਣਕਾਰੀ ਅਯੋਗ ਕਰੋ, ਇਸ ਨਾਲ ਅਤੀਤ ਵਾਰਤਾਲਾਪ ਲੁਕਵਾਂ ਰਹੇਗਾ "
+#~ "ਅਤੇ ਬੁੱਕਮਾਰਕ ਸੂਚੀ ਵੀ ਉਪਲਬੱਧ ਰਹੇਗੀ।"
+
+#~ msgid "Disable arbitrary URLs"
+#~ msgstr "ਅਨਿਯਮਤ URL ਆਯੋਗ"
+
+#~ msgid "Disable the user's ability to add or edit bookmarks."
+#~ msgstr "ਯੂਜ਼ਰਾਂ ਨੂੰ ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧਣ ਦੀ ਸਹੂਲਤ ਨੂੰ ਅਯੋਗ ਕਰੋ।"
+
+#~ msgid "Disable the user's ability to edit toolbars."
+#~ msgstr "ਯੂਜ਼ਰਾਂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ ਨੂੰ ਸੋਧਣ ਦੀ ਸਹੂਲਤ ਨੂੰ ਅਯੋਗ ਕਰੋ।"
+
+#~ msgid "Disable the user's ability to type in a URL to Epiphany."
+#~ msgstr "ਏਪੀਫਾਨੀ ਵਿੱਚ ਯੂਜ਼ਰ ਨੂੰ ਟਾਇਪ ਕਰਨ ਦੀ ਸਹੂਲਤ ਅਯੋਗ ਕਰੋ।"
+
+#~ msgid "Disable toolbar editing"
+#~ msgstr "ਟੂਲਬਾਰ ਸੋਧ ਅਯੋਗ"
+
+#~ msgid "Disable unsafe protocols"
+#~ msgstr "ਅਸੁਰੱਖਿਅਤ ਪਰੋਟੋਕਾਲ ਅਯੋਗ ਕਰੋ"
+
+#~ msgid ""
+#~ "Disables loading of content from unsafe protocols. Safe protocols are "
+#~ "http and https."
+#~ msgstr "ਅਸੁਰੱਖਿਅਤ ਪਰੋਟੋਕਾਲ ਤੋਂ ਡਾਟਾ ਲੋਡਿੰਗ ਅਯੋਗ। ਸੁਰੱਖਿਅਤ ਪਰੋਟੋਕਾਲ ਹਨ http: ਅਤੇ https:"
+
+#~ msgid "Epiphany cannot quit"
+#~ msgstr "ਏਪੀਫਾਨੀ ਬੰਦ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ"
+
+#~ msgid "Hide menubar by default"
+#~ msgstr "ਮੇਨੂ-ਪੱਟੀ ਨੂੰ ਮੂਲ ਓਹਲੇ ਰੱਖੋ"
+
+#~ msgid "Hide the menubar by default."
+#~ msgstr "ਮੇਨੂ-ਪੱਟੀ ਨੂੰ ਮੂਲ ਓਹਲੇ ਰੱਖੋ"
+
+#~ msgid "Lock in fullscreen mode"
+#~ msgstr "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਵਿੱਚ ਲਾਕ"
+
+#~ msgid "Locks Epiphany in fullscreen mode."
+#~ msgstr "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਵਿੱਚ ਏਪੀਫਾਨੀ ਨੂੰ ਤਾਲਾ ਲਗਾਓ।"
+
+#~ msgid "User is not allowed to close Epiphany"
+#~ msgstr "ਯੂਜ਼ਰ ਨੂੰ ਏਪੀਫਨੀ ਬੰਦ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਨਹੀਂ "
+
+#~ msgid "Always show the tab bar"
+#~ msgstr "ਟੈਬ-ਪੱਟੀ ਹਮੇਸ਼ਾ ਵੇਖੋ"
+
+#~ msgid ""
+#~ "Default encoding. Accepted values are: \"armscii-8\", \"Big5\", \"Big5-"
+#~ "HKSCS\", \"EUC-JP\", \"EUC-KR\", \"gb18030\", \"GB2312\", \"geostd8\", "
+#~ "\"HZ-GB-2312\", \"IBM850\", \"IBM852\", \"IBM855\", \"IBM857\", "
+#~ "\"IBM862\", \"IBM864\", \"IBM866\", \"ISO-2022-CN\", \"ISO-2022-JP\", "
+#~ "\"ISO-2022-KR\", \"ISO-8859-1\", \"ISO-8859-2\", \"ISO-8859-3\", "
+#~ "\"ISO-8859-4\", \"ISO-8859-5\", \"ISO-8859-6\", \"ISO-8859-7\", "
+#~ "\"ISO-8859-8\", \"ISO-8859-8-I\", \"ISO-8859-9\", \"ISO-8859-10\", "
+#~ "\"ISO-8859-11\", \"ISO-8859-13\", \"ISO-8859-14\", \"ISO-8859-15\", "
+#~ "\"ISO-8859-16\", \"ISO-IR-111\", \"KOI8-R\", \"KOI8-U\", \"Shift_JIS\", "
+#~ "\"TIS-620\", \"UTF-7\", \"UTF-8\", \"VISCII\", \"windows-874\", "
+#~ "\"windows-1250\", \"windows-1251\", \"windows-1252\", \"windows-1253\", "
+#~ "\"windows-1254\", \"windows-1255\", \"windows-1256\", \"windows-1257\", "
+#~ "\"windows-1258\", \"x-euc-tw\", \"x-gbk\", \"x-johab\", \"x-mac-arabic\", "
+#~ "\"x-mac-ce\", \"x-mac-croatian\", \"x-mac-cyrillic\", \"x-mac-devanagari"
+#~ "\", \"x-mac-farsi\", \"x-mac-greek\", \"x-mac-gujarati\", \"x-mac-gurmukhi"
+#~ "\", \"x-mac-hebrew\", \"x-mac-icelandic\", \"x-mac-roman\", \"x-mac-"
+#~ "romanian\", \"x-mac-turkish\", \"x-mac-ukrainian\", \"x-user-defined\", "
+#~ "\"x-viet-tcvn5712\", \"x-viet-vps\" and \"x-windows-949\"."
+#~ msgstr ""
+#~ "ਮੂਲ ਇੰਕੋਡਿੰਗ। ਮਨਜ਼ੂਰ ਮੁੱਲ ਹਨ: \"armscii-8\", \"Big5\", \"Big5-HKSCS\", \"EUC-JP"
+#~ "\", \"EUC-KR\", \"gb18030\", \"GB2312\", \"geostd8\", \"HZ-GB-2312\", "
+#~ "\"IBM850\", \"IBM852\", \"IBM855\", \"IBM857\", \"IBM862\", \"IBM864\", "
+#~ "\"IBM866\", \"ISO-2022-CN\", \"ISO-2022-JP\", \"ISO-2022-KR\", "
+#~ "\"ISO-8859-1\", \"ISO-8859-2\", \"ISO-8859-3\", \"ISO-8859-4\", "
+#~ "\"ISO-8859-5\", \"ISO-8859-6\", \"ISO-8859-7\", \"ISO-8859-8\", "
+#~ "\"ISO-8859-8-I\", \"ISO-8859-9\", \"ISO-8859-10\", \"ISO-8859-11\", "
+#~ "\"ISO-8859-13\", \"ISO-8859-14\", \"ISO-8859-15\", \"ISO-8859-16\", \"ISO-"
+#~ "IR-111\", \"KOI8-R\", \"KOI8-U\", \"Shift_JIS\", \"TIS-620\", \"UTF-7\", "
+#~ "\"UTF-8\", \"VISCII\", \"windows-874\", \"windows-1250\", "
+#~ "\"windows-1251\", \"windows-1252\", \"windows-1253\", \"windows-1254\", "
+#~ "\"windows-1255\", \"windows-1256\", \"windows-1257\", \"windows-1258\", "
+#~ "\"x-euc-tw\", \"x-gbk\", \"x-johab\", \"x-mac-arabic\", \"x-mac-ce\", \"x-"
+#~ "mac-croatian\", \"x-mac-cyrillic\", \"x-mac-devanagari\", \"x-mac-farsi"
+#~ "\", \"x-mac-greek\", \"x-mac-gujarati\", \"x-mac-gurmukhi\", \"x-mac-"
+#~ "hebrew\", \"x-mac-icelandic\", \"x-mac-roman\", \"x-mac-romanian\", \"x-"
+#~ "mac-turkish\", \"x-mac-ukrainian\", \"x-user-defined\", \"x-viet-"
+#~ "tcvn5712\", \"x-viet-vps\" ਅਤੇ \"x-windows-949\"."
+
+#~ msgid "Enable Web Inspector"
+#~ msgstr "ਵੈੱਬ ਇੰਸਪੈਕਟਰ ਚਾਲੂ"
+
+#~ msgid "How to print frames"
+#~ msgstr "ਫਰੇਮ ਕਿਵੇਂ ਛਾਪਣੇ ਹਨ"
+
+#~ msgid ""
+#~ "How to print pages containing frames. Allowed values are \"normal\", "
+#~ "\"separately\" and \"selected\"."
+#~ msgstr ""
+#~ "ਫਰੇਮ ਰੱਖਣ ਵਾਲੇ ਸਫ਼ੇ ਨੂੰ ਕਿਵੇਂ ਛਾਪਣਾ ਹੈ। ਮਨਜ਼ੂਰ ਮੁੱਲ ਹਨ \"normal (ਆਮ)\", \" separately "
+#~ "(ਵੱਖ ਵੱਖ)\" ਅਤੇ\" \"selected (ਚੁਣੇ)\""
+
+#~ msgid "ISO-8859-1"
+#~ msgstr "ISO-8859-1"
+
+#~ msgid ""
+#~ "Middle click to open the web page pointed to by the currently selected "
+#~ "text"
+#~ msgstr "ਵਿਚਕਾਰਲਾ ਬਟਨ ਦਬਾਓ, ਤਾਂਕਿ ਚੁਣੇ ਪਾਠ ਵਿੱਚਲਾ ਵੈਬ ਸਫ਼ਾ ਖੋਲਿਆ ਜਾ ਸਕੇ"
+
+#~ msgid ""
+#~ "Middle clicking on the main view pane will open the web page pointed to "
+#~ "by the currently selected text."
+#~ msgstr "ਮੁੱਖ ਦਰਿਸ਼ ਤੇ ਵਿਚਕਾਰਲਾ ਬਟਨ ਦਬਾਉ ਤਾਂਕਿ ਚੁਣੇ ਪਾਠ ਵਿੱਚਲਾ ਵੈਬ ਸਫ਼ਾ ਖੋਲਿਆ ਜਾ ਸਕੇ।"
+
+#~ msgid "Show bookmarks bar by default"
+#~ msgstr "ਬੁੱਕਮਾਰਕ-ਪੱਟੀ ਮੂਲ ਹੀ ਵੇਖੋ"
+
+#~ msgid "Show statusbar by default"
+#~ msgstr "ਹਾਲਤ-ਪੱਟੀ ਮੂਲ ਹੀ ਵੇਖੋ"
+
+#~ msgid ""
+#~ "Show the history pages visited \"ever\", \"last_two_days\", "
+#~ "\"last_three_days\", \"today\"."
+#~ msgstr ""
+#~ "ਲੰਘੇ ਅਤੀਤ ਸਫ਼ੇ ਵੇਖਾਉ \"ever (ਹਮੇਸ਼ਾ)\", \"last_two_days (ਆਖਰੀ ਦੋ ਦਿਨ)\", "
+#~ "\"ast_three_days (ਆਖਰੀ ਤਿੰਨ ਦਿਨ)\", \"today (ਅੱਜ)\""
+
+#~ msgid "Show the tab bar also when there is only one tab open."
+#~ msgstr "ਜੇਕਰ ਇੱਕ ਟੈਬ ਵੀ ਖੁੱਲੀ ਹੋਵੇ ਤਾਂ ਵੀ ਟੈਬ ਵੇਖੋ।"
+
+#~ msgid "Show toolbars by default"
+#~ msgstr "ਟੂਲਬਾਰ ਮੂਲ ਹੀ ਵੇਖੋ"
+
+#~ msgid "Size of disk cache, in MB."
+#~ msgstr "ਡਿਸਕ ਕੈਚੇਂ ਦਾ ਅਕਾਰ (ਮੈਬਾ ਵਿੱਚ)"
+
+#~ msgid "The bookmark information shown in the editor view"
+#~ msgstr "ਸੰਪਾਦਕ ਦਿੱਖ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਜਾਣਕਾਰੀ ਵੇਖੋ"
+
+#~ msgid ""
+#~ "The bookmark information shown in the editor view. Valid values in the "
+#~ "list are \"address\" and \"title\"."
+#~ msgstr ""
+#~ "ਸੰਪਾਦਕ ਦਿੱਖ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਜਾਣਕਾਰੀ ਵਿੱਚ ਵੇਖਾਉ। ਸੂਚੀ ਜਾਇਜ਼ ਮੁੱਲ ਹਨ \"address (ਐਡਰੈੱਸ)\" "
+#~ "ਅਤੇ \"title (ਸਿਰਲੇਖ)\"।"
+
+#~ msgid "The currently selected fonts language"
+#~ msgstr "ਮੌਜੂਦਾ ਚੁਣੇ ਫੋਂਟ ਦੀ ਭਾਸ਼ਾ"
+
+#~ msgid ""
+#~ "The currently selected fonts language. Valid values are \"ar\" (arabic), "
+#~ "\"x-baltic\" (baltic languages), \"x-central-euro\" (central european "
+#~ "languages), \"x-cyrillic\" (languages written with cyrillic alphabet), "
+#~ "\"el\" (greek), \"he\" (hebrew), \"ja\" (japanese), \"ko\" (korean), \"zh-"
+#~ "CN\" (simplified chinese), \"th\" (thai), \"zh-TW\" (traditional "
+#~ "chinese), \"tr\" (turkish), \"x-unicode\" (other languages), \"x-western"
+#~ "\" (languages written in latin script), \"x-tamil\" (tamil) and \"x-"
+#~ "devanagari\" (devanagari)."
+#~ msgstr ""
+#~ "ਮੌਜੂਦਾ ਚੁਣੇ ਫੋਂਟ ਭਾਸ਼ਾ ਹੈ। ਸੰਭਵ ਮੁੱਲ ਹਨ \"ar\" (arabic), \"x-baltic\" (baltic "
+#~ "languages), \"x-central-euro\" (central european languages), \"x-cyrillic"
+#~ "\" (languages written with cyrillic alphabet), \"el\" (greek), \"he"
+#~ "\" (hebrew), \"ja\" (japanese), \"ko\" (korean), \"zh-CN\" (simplified "
+#~ "chinese), \"th\" (thai), \"zh-TW\" (traditional chinese), \"tr"
+#~ "\" (turkish), \"x-unicode\" (other languages), \"x-western\" (languages "
+#~ "written in latin script), \"x-tamil\" (tamil) ਅਤੇ \"x-devanagari"
+#~ "\" (devanagari)"
+
+#~ msgid "The page information shown in the history view"
+#~ msgstr "ਅਤੀਤ ਦਰਿਸ਼ ਵਿੱਚ ਵੇਖਾਈ ਸਫ਼ਾ ਜਾਣਕਾਰੀ"
+
+#~ msgid ""
+#~ "The page information shown in the history view. Valid values in the list "
+#~ "are \"ViewTitle\", \"ViewAddress\" and \"ViewDateTime\"."
+#~ msgstr ""
+#~ "ਅਤੀਤ ਦਰਿਸ਼ ਵਿੱਚ ਵੇਖਾਈ ਸਫ਼ਾ ਜਾਣਕਾਰੀ। ਸੂਚੀ ਵਿੱਚ ਸੰਭਾਵਿਤ ਮੁੱਲ ਹਨ \"ViewTitle\", "
+#~ "\"ViewAddress\" ਅਤੇ \"ViewDateTime\""
+
+#~ msgid "Toolbar style"
+#~ msgstr "ਟੂਲਬਾਰ ਸ਼ੈਲੀ"
+
+#~ msgid ""
+#~ "Toolbar style. Allowed values are \"\" (use GNOME default style), \"both"
+#~ "\" (text and icons), \"both-horiz\" (text besides icons), \"icons\", and "
+#~ "\"text\"."
+#~ msgstr ""
+#~ "ਟੂਲਬਾਰ ਸ਼ੈਲੀ। ਸੰਭਵ ਮੁੱਲ ਹਨ \"\" (use GNOME default style), \"both\" (text and "
+#~ "icons), \"both-horiz\" (text besides icons), \"icons\", ਅਤੇ \"text\""
+
+#~ msgid "Whether to print the background color"
+#~ msgstr "ਕੀ ਬੈਕਗਰਾਊਂਡ ਰੰਗ ਛਾਪਣਾ ਹੈ"
+
+#~ msgid "Whether to print the background images"
+#~ msgstr "ਕੀ ਬੈਕਗਰਾਊਂਡ ਤਸਵੀਰ ਛਾਪਣੀ ਹੈ"
+
+#~ msgid "Whether to print the date in the footer"
+#~ msgstr "ਕੀ ਫੁੱਟਰ ਵਿੱਚ ਮਿਤੀ ਛਾਪਣੀ ਹੈ"
+
+#~ msgid "Whether to print the page numbers (x of total) in the footer"
+#~ msgstr "ਕੀ ਫੁੱਟਰ ਵਿੱਚ ਸਫ਼ਾ ਨੰਬਰ (ਕੁੱਲ ਦਾ x) ਛਾਪਣਾ ਹੈ"
+
+#~ msgid "x-western"
+#~ msgstr "x-ਪੱਛਮੀ"
+
+#~ msgid "<b>Web Development</b>"
+#~ msgstr "<b>ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ</b>"
+
+#~ msgid "Let web pages specify their own _fonts"
+#~ msgstr "ਵੈੱਬ ਸਫ਼ਿਆਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਆਪਣੇ ਫੋਂਟ ਵਰਤਣ ਦਿਓ(_F)"
+
+#~ msgid "Let web pages specify their own c_olors"
+#~ msgstr "ਵੈੱਬ ਸਫ਼ਿਆਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਆਪਣੇ ਰੰਗ ਵਰਤਣ ਦਿਓ(_o)"
+
+#~ msgid "_Minimum size:"
+#~ msgstr "ਘੱਟੋ-ਘੱਟ ਅਕਾਰ(_M):"
+
+#~ msgid "_Show Downloads"
+#~ msgstr "ਡਾਊਨਲੋਡ ਵੇਖੋ(_S)"
+
+#~ msgid "%u:%02u.%02u"
+#~ msgstr "%u:%02u.%02u"
+
+#~ msgid "%02u.%02u"
+#~ msgstr "%02u.%02u"
+
+#~ msgid "_Pause"
+#~ msgstr "ਵਿਰਾਮ(_P)"
+
+#~ msgid "_Resume"
+#~ msgstr "ਮੁੜ-ਪ੍ਰਾਪਤ(_R)"
+
+#~ msgid "The file “%s” has been downloaded."
+#~ msgstr "ਫਾਇਲ “%s” ਡਾਊਨਲੋਡ ਕੀਤੀ ਗਈ।"
+
+#~ msgid ""
+#~ "%s\n"
+#~ "%s of %s"
+#~ msgstr ""
+#~ "%s\n"
+#~ "ਅਕਾਰ %s ਕੁੱਲ %s"
+
+#~ msgid "The file “%s” has been added to the downloads queue."
+#~ msgstr "ਫਾਇਲ “%s” ਨੂੰ ਡਾਊਨਲੋਡ ਕਤਾਰ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+
+#~ msgctxt "download status"
+#~ msgid "Unknown"
+#~ msgstr "ਅਣਜਾਣ"
+
+#~ msgctxt "download status"
+#~ msgid "Failed"
+#~ msgstr "ਫੇਲ੍ਹ ਹੈ"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Remaining"
+#~ msgstr "ਬਕਾਇਆ"
+
+#~ msgid "Download this potentially unsafe file?"
+#~ msgstr "ਕੀ ਗੰਭੀਰ ਅਸੁਰੱਖਿਅਤ ਫਾਇਲ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨਾ ਹੈ?"
+
+#~ msgid ""
+#~ "File Type: “%s”.\n"
+#~ "\n"
+#~ "It is unsafe to open “%s” as it could potentially damage your documents "
+#~ "or invade your privacy. You can download it instead."
+#~ msgstr ""
+#~ "ਫਾਇਲ ਕਿਸਮ: “%s”\n"
+#~ "\n"
+#~ "“%s” ਫਾਇਲ ਨੂੰ ਸਿੱਧੇ ਰੂਪ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਖਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਤੁਹਾਡੇ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਭਾਰੀ "
+#~ "ਨੁਕਸਾਨ ਕਰ ਸਕਦੀ ਹੈ ਜਾਂ ਰਹੱਸ ਨੂੰ ਭੰਗ ਕਰ ਸਕਦੀ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#~ msgid "Open this file?"
+#~ msgstr "ਕੀ ਇਹ ਫਾਇਲ ਖੋਲ੍ਹਣੀ ਹੈ?"
+
+#~ msgid ""
+#~ "File Type: “%s”.\n"
+#~ "\n"
+#~ "You can open “%s” using “%s” or save it."
+#~ msgstr ""
+#~ "ਫਾਇਲ ਕਿਸਮ: “%s”\n"
+#~ "\n"
+#~ "ਤੁਸੀਂ “%s” ਨੂੰ “%s” ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ ਜਾਂ ਸੰਭਾਲ ਸਕਦੇ ਹੋ।"
+
+#~ msgid ""
+#~ "File Type: “%s”.\n"
+#~ "\n"
+#~ "You have no application able to open “%s”. You can download it instead."
+#~ msgstr ""
+#~ "ਫਾਇਲ ਕਿਸਮ: “%s”\n"
+#~ "\n"
+#~ "ਤੁਹਾਡੇ ਕੋਲ “%s” ਨੂੰ ਖੋਲਣ ਲਈ ਕੋਈ ਕਾਰਜ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#~ msgid "A problem occurred while loading %s"
+#~ msgstr "%s ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ"
+
+#~ msgid ""
+#~ "GConf error:\n"
+#~ "  %s"
+#~ msgstr ""
+#~ "ਜੀ-ਕਾਨਫ ਗਲਤੀ:\n"
+#~ "  %s"
+
+#~ msgid "Failed to read latest migration marker, aborting profile migration."
+#~ msgstr "ਤਾਜ਼ਾ ਮਾਈਗਰੇਟਰ ਮਾਰਕਰ ਪੜ੍ਹਨ ਲਈ ਫੇਲ੍ਹ ਹੈ, ਪਰੋਫਾਇਲ ਮਾਈਗਰੇਸ਼ਨ ਅਧੂਰੀ ਛੱਡੀ।"
+
+#~ msgid "Show only the title column"
+#~ msgstr "ਸਿਰਲੇਖ ਕਾਲਮ ਹੀ ਵੇਖੋ"
+
+#~ msgid "T_itle and Address"
+#~ msgstr "ਟਾਇਟਲ ਤੇ ਐਡਰੈੱਸ(_i)"
+
+#~ msgid "Show both the title and address columns"
+#~ msgstr "ਸਿਰਲੇਖ ਤੇ ਐਡਰੈੱਸ ਦੋਂਵੇ ਕਾਲਮ ਵੇਖੋ"
+
+#~ msgid "Default font type. Possible values are \"serif\" and \"sans-serif\"."
+#~ msgstr "ਮੂਲ ਫੋਂਟ ਕਿਸਮ। ਸੰਭਵ ਮੁੱਲ ਹਨ \"ਸੀਰਫ (serif)\" ਅਤੇ \"ਸੰਜ਼-ਸੀਰਫ (sans-serif)\""
+
+#~ msgid "Use s_mooth scrolling"
+#~ msgstr "ਮੁਲਾਇਮ ਘੁੰਮਾਉਣਾ ਵਰਤੋ(_m)"
+
+#~ msgid "_Save As..."
+#~ msgstr "... ਵਜੋਂ ਸੰਭਾਲੋ(_S)"
+
+#~ msgid "Redirecting to “%s”…"
+#~ msgstr "“%s” ਵੱਲ ਦਿਸ਼ਾ ਬਦਲੀ ਜਾਂਦੀ ਹੈ..."
+
+#~ msgid "Transferring data from “%s”…"
+#~ msgstr "“%s” ਤੋਂ ਡਾਟਾ ਤਬਦੀਲ ਹੋ ਰਿਹਾ ਹੈ..."
+
+#~ msgid "Waiting for authorization from “%s”…"
+#~ msgstr "“%s” ਤੋਂ ਪਰਮਾਣਿਕਤਾ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾਂਦੀ ਹੈ..."
+
+#~ msgid ""
+#~ "Epiphany appears to have exited unexpectedly the last time it was run. "
+#~ "You can recover the opened windows and tabs."
+#~ msgstr ""
+#~ "ਸ਼ਾਇਦ ਅਖੀਰਲੀ ਵਾਰ ਚਲਾਉਣ ਮਗਰੋ ਏਪੀਫਾਨੀ ਕਰੈਸ ਹੋ ਗਿਆ ਜਾਂ ਖਤਮ ਕੀਤਾ ਗਿਆ ਸੀ। ਤੁਸੀਂ ਖੋਲੇ "
+#~ "ਝਰੋਖੇ 'ਤੇ ਟੈਬਾਂ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#~ msgid "Crash Recovery"
+#~ msgstr "ਕਰੈਂਸ ਮੁੜ-ਪ੍ਰਾਪਤੀ"
+
+#~ msgid "Sidebar extension required"
+#~ msgstr "ਬਾਹੀ ਸਹਿਯੋਗੀ ਲੋੜੀਦਾ ਹੈ"
+
+#~ msgid "Sidebar Extension Required"
+#~ msgstr "ਬਾਹੀ ਐਕਸ਼ਟੇਸ਼ਨ ਦੀ ਲੋੜ ਹੈ"
+
+#~ msgid "The link you clicked needs the sidebar extension to be installed."
+#~ msgstr "ਸਬੰਧ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਦਬਾਇਆ ਹੈ, ਲਈ ਬਾਹੀ ਐਕਸ਼ਟੇਸ਼ਨ ਸਥਾਪਤ ਹੋਣ ਦੀ ਲੋੜ ਹੈ।"
+
+#~ msgid "In keyboard selection mode, press F7 to exit"
+#~ msgstr "ਕੀ-ਬੋਰਡ ਚੋਣ ਢੰਗ ਵਿੱਚ, ਬੰਦ ਕਰਨ ਲਈ F7 ਦਬਾਓ"
+
+#~ msgid "St_atusbar"
+#~ msgstr "ਸਥਿਤੀ-ਪੱਟੀ(_a)"
+
+#~ msgid "Show or hide statusbar"
+#~ msgstr "ਹਾਲਤ-ਪੱਟੀ ਵੇਖੋ/ਓਹਲੇ"
+
+#~ msgid "%d hidden popup window"
+#~ msgid_plural "%d hidden popup windows"
+#~ msgstr[0] "%d ਓਹਲੇ ਪੋਪ-ਅੱਪ ਵਿੰਡੋ"
+#~ msgstr[1] "%d ਪੋਪ-ਅੱਪ ਵਿੰਡੋ"
+
+#~ msgid "The encoding autodetector. Empty string means autodetect is off"
+#~ msgstr "ਇੰਕੋਡਿੰਗ ਸਵੈ-ਖੋਜੀ। ਖਾਲੀ ਸਤਰ ਦਾ ਅਰਥ ਹੈ ਸਵੈ-ਖੋਜੀ ਬੰਦ ਹੈ"
+
+#~ msgid ""
+#~ "The encoding autodetector. Valid entries are \"\" (autodetectors off), "
+#~ "\"cjk_parallel_state_machine\" (autodetect east asian encodings), "
+#~ "\"ja_parallel_state_machine\" (autodetect japanese encodings), "
+#~ "\"ko_parallel_state_machine\" (autodetect korean encodings), \"ruprob"
+#~ "\" (autodetect russian encodings), \"ukprob\" (autodetect ukrainian "
+#~ "encodings), \"zh_parallel_state_machine\" (autodetect chinese encodings), "
+#~ "\"zhcn_parallel_state_machine\" (autodetect simplified chinese "
+#~ "encodings), \"zhtw_parallel_state_machine\" (autodetect traditional "
+#~ "chinese encodings) and \"universal_charset_detector\" (autodetect most "
+#~ "encodings)."
+#~ msgstr ""
+#~ "ਇੰਕੋਡਿੰਗ ਆਟੋ-ਖੋਜੀ। ਸੰਭਵ ਮੁੱਲ ਹਨ \"\" (autodetectors off), "
+#~ "\"cjk_parallel_state_machine\" (autodetect east asian encodings), "
+#~ "\"ja_parallel_state_machine\" (autodetect japanese encodings), "
+#~ "\"ko_parallel_state_machine\" (autodetect korean encodings), \"ruprob"
+#~ "\" (autodetect russian encodings), \"ukprob\" (autodetect ukrainian "
+#~ "encodings), \"zh_parallel_state_machine\" (autodetect chinese encodings), "
+#~ "\"zhcn_parallel_state_machine\" (autodetect simplified chinese "
+#~ "encodings), \"zhtw_parallel_state_machine\" (autodetect traditional "
+#~ "chinese encodings) ਅਤੇ \"universal_charset_detector\" (autodetect most "
+#~ "encodings)."
+
+#~ msgid "Au_todetect:"
+#~ msgstr "ਸਵੈ-ਖੋਜ(_t):"
+
+#~ msgid "For l_anguage:"
+#~ msgstr "ਭਾਸ਼ਾ ਲਈ(_a):"
+
+#~ msgid "_Detailed Font Settings…"
+#~ msgstr "ਵੇਰਵੇ ਸਮੇਤ ਫੋਂਟ ਸੈਟਿੰਗ(_D)..."
+
+#~ msgid "_Fixed width:"
+#~ msgstr "ਸਥਿਰ ਚੌੜਾਈ(_F):"
+
+#~ msgid "_Variable width:"
+#~ msgstr "ਅਸਥਿਰ ਚੌੜਾਈ(_V):"
+
+#~ msgid "download status|Unknown"
+#~ msgstr "ਅਣਜਾਣ"
+
+#~ msgid "download status|Failed"
+#~ msgstr "ਅਸਫਲ"
+
+#~ msgid "autodetectors|Off"
+#~ msgstr "ਬੰਦ"
+
+#~ msgid "automatically detect ... character encodings|Chinese"
+#~ msgstr "ਚੀਨੀ"
+
+#~ msgid "automatically detect ... character encodings|Simplified Chinese"
+#~ msgstr "ਸਧਾਰਨ ਚੀਨੀ"
+
+#~ msgid "automatically detect ... character encodings|Traditional Chinese"
+#~ msgstr "ਮੂਲ ਚੀਨੀ"
+
+#~ msgid "automatically detect ... character encodings|East Asian"
+#~ msgstr "ਪੂਰਬੀ ਏਸ਼ੀਆਈ"
+
+#~ msgid "automatically detect ... character encodings|Japanese"
+#~ msgstr "ਜਾਪਾਨੀ"
+
+#~ msgid "automatically detect ... character encodings|Korean"
+#~ msgstr "ਕੋਰੀਆਈ"
+
+#~ msgid "automatically detect ... character encodings|Russian"
+#~ msgstr "ਰੂਸੀ"
+
+#~ msgid "automatically detect ... character encodings|Universal"
+#~ msgstr "ਯੂਨੀਵਰਸਲ"
+
+#~ msgid "automatically detect ... character encodings|Ukrainian"
+#~ msgstr "ਯੂਕਰੇਨੀ"
+
+#~ msgid "File Type:|Unknown"
+#~ msgstr "ਅਣਜਾਣ"
+
+#~ msgid "“%s” Protocol is not Supported"
+#~ msgstr "“%s” ਪਰੋਟੋਕਾਲ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+#~ msgid "“%s” protocol is not supported."
+#~ msgstr "“%s” ਪਰੋਟੋਕਾਲ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+#~ msgid ""
+#~ "Supported protocols are “http”, “https”, “ftp”, “file”, “smb” and “sftp”."
+#~ msgstr ""
+#~ "ਸਹਾਇਕ ਪਰੋਟੋਕਾਲਾਂ 'ਚ “http”, “https”, “ftp”, “file”, “smb” ਅਤੇ “sftp” ਹਨ।"
+
+#~ msgid "File “%s” not Found"
+#~ msgstr "ਫਾਇਲ “%s” ਨਹੀਂ ਮਿਲੀ"
+
+#~ msgid "File “%s” not found."
+#~ msgstr "ਫਾਇਲ “%s” ਨਹੀਂ ਮਿਲੀ ਹੈ।"
+
+#~ msgid "“%s” Could not be Found"
+#~ msgstr "“%s” ਖੋਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ"
+
+#~ msgid ""
+#~ "Check that you are connected to the internet, and that the address is "
+#~ "correct."
+#~ msgstr "ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇੰਟਰਨੈਟ ਨਾਲ ਜੁੜੇ ਹੋਏ ਹੋ ਅਤੇ ਐਡਰੈੱਸ ਠੀਕ ਹੈ।"
+
+#~ msgid "If this page used to exist, you may find an archived version:"
+#~ msgstr "ਜੇਕਰ ਇਸ ਸਫ਼ੇ ਨੂੰ ਤੁਸੀਂ ਵਰਤਿਆ ਹੈ ਤਾਂ ਤੁਸੀਂ ਇਸ ਦਾ ਪੁਰਾਣਾ ਵਰਜਨ ਲੱਭ ਸਕਦੇ ਹੋ:"
+
+#~ msgid "“%s” Refused the Connection"
+#~ msgstr "“%s” ਵਲੋਂ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ"
+
+#~ msgid "“%s” refused the connection."
+#~ msgstr "“%s” ਵਲੋਂ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ।"
+
+#~ msgid "Likely causes of the problem are"
+#~ msgstr "ਸਮੱਸਿਆ ਦੇ ਸੰਭਵ ਕਾਰਨ ਜਾਪਦੇ ਹਨ"
+
+#~ msgid ""
+#~ "<ul><li>the service %s isn't started.</li>Try to start it using the "
+#~ "Services Configuration Tool in System > Control Center, or</"
+#~ "ul><ul><li>the port number %d is wrong.</li></ul>"
+#~ msgstr ""
+#~ "<ul><li>ਸੇਵਾ %s ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ।</li>ਇਸ ਨੂੰ ਸਿਸਟਮ > ਕੰਟਰੋਲ ਕੇਂਦਰ ਵਿੱਚ ਸੇਵਾ ਸੰਰਚਨਾ "
+#~ "ਸੰਦ ਨਾਲ ਸ਼ੁਰੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ </ul><ul><li>ਪੋਰਟ ਨੰਬਰ %d ਗਲਤ ਹੈ।</li></ul>"
+
+#~ msgid ""
+#~ "<ul><li>some service isn't started, or</li><li>the port number %d is "
+#~ "wrong.</li></ul>"
+#~ msgstr ""
+#~ "<ul><li>ਸੇਵਾ ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ, ਜਾਂ</li><li>ਪੋਰਟ ਨੰਬਰ %d ਗਲਤ ਹੈ।</li></ul>"
+
+#~ msgid ""
+#~ "<ul><li>some service isn't started, or</li><li>you got the port number "
+#~ "wrong.</li></ul>"
+#~ msgstr ""
+#~ "<ul><li>ਕੋਈ ਸੇਵਾ ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ, ਜਾਂ</li><li>ਤੁਸੀਂ ਗਲਤ ਪੋਰਟ ਨੰਬਰ ਲਿਆ ਹੈ।</"
+#~ "li></ul>"
+
+#~ msgid ""
+#~ "The server may be busy or you may have a network connection problem. Try "
+#~ "again later."
+#~ msgstr ""
+#~ "ਸਰਵਰ ਬਹੁਤ ਰੁਝਿਆ ਹੋ ਸਕਦਾ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਕੁਨੈਕਸ਼ਨ 'ਚ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ। ਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ ਕਰੋ।"
+
+#~ msgid "There may be an old version of the page you wanted:"
+#~ msgstr "ਹੋ ਸਕਦਾ ਹੈ, ਜੋ ਸਫ਼ਾ ਤੁਸੀਂ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਸ ਦਾ ਪੁਰਾਣਾ ਵਰਜਨ ਹੋ:"
+
+#~ msgid "“%s” Interrupted the Connection"
+#~ msgstr "“%s” ਨੇ ਕੁਨੈਕਸ਼ਨ 'ਚ ਰੁਕਾਵਟ"
+
+#~ msgid "“%s” interrupted the connection."
+#~ msgstr "“%s” ਨੇ ਕੁਨੈਕਸ਼ਨ 'ਚ ਰੁਕਾਵਟ ਪਾਈ ਹੈ।"
+
+#~ msgid "“%s” is not Responding"
+#~ msgstr "“%s” ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ"
+
+#~ msgid "“%s” is not responding."
+#~ msgstr "“%s” ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਿਹਾ ਹੈ।"
+
+#~ msgid "The connection was lost because the server took too long to respond."
+#~ msgstr "ਕੁਨੈਕਸ਼ਨ ਖਤਮ ਹੋ ਗਿਆ ਹੈ ਕਿਉਕਿ ਸਰਵਰ ਨੇ ਜਵਾਬ ਦੇਣ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਲਗਾ ਦਿੱਤਾ ਹੈ।"
+
+#~ msgid "Invalid Address"
+#~ msgstr "ਗਲਤ ਐਡਰੈੱਸ"
+
+#~ msgid "Invalid address."
+#~ msgstr "ਗਲਤ ਐਡਰੈੱਸ ਹੈ।"
+
+#~ msgid "“%s” Redirected Too Many Times"
+#~ msgstr "“%s” ਨੂੰ ਕਈ ਵਾਰ ਦਿਸ਼ਾ-ਪਰਿਵਰਤਨ ਕੀਤਾ ਗਿਆ"
+
+#~ msgid "“%s” Requires an Encrypted Connection"
+#~ msgstr "“%s” ਨੂੰ ਇੱਕ ਇੰਕਰਿਪਟ ਕੁਨੈਕਸ਼ਨ ਦੀ ਲੋੜ"
+
+#~ msgid "“%s” requires an encrypted connection."
+#~ msgstr "“%s” ਨੂੰ ਇੱਕ ਇਕਰਿਪਟ ਕੁਨੈਕਸ਼ਨ ਦੀ ਲੋੜ ਹੈ।"
+
+#~ msgid ""
+#~ "The document could not be loaded because encryption support is not "
+#~ "installed."
+#~ msgstr "ਦਸਤਾਵੇਜ਼ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਹੈ ਕਿਉਕਿ ਇਕਰਿਪਸ਼ਨ ਮੱਦਦ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ।"
+
+#~ msgid "“%s” Dropped the Connection"
+#~ msgstr "“%s” ਨੇ ਕੁਨੈਕਸ਼ਨ ਬੰਦ ਕਰ ਦਿੱਤਾ"
+
+#~ msgid "“%s” dropped the connection."
+#~ msgstr "“%s” ਨੇ ਕੁਨੈਕਸ਼ਨ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ।"
+
+#~ msgid "The server dropped the connection before any data could be read."
+#~ msgstr "ਸਰਵਰ ਨੇ ਕੋਈ ਡਾਟਾ ਸੰਚਾਰ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਕੁਨੈਕਸ਼ਨ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ।"
+
+#~ msgid "Cannot Load Document While Working Offline"
+#~ msgstr "ਆਫਲਾਇਨ ਢੰਗ 'ਚ ਦਸਤਾਵੇਜ਼ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।"
+
+#~ msgid "Cannot load document while working offline."
+#~ msgstr "ਆਫਲਾਇਨ ਢੰਗ 'ਚ ਦਸਤਾਵੇਜ਼ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।"
+
+#~ msgid "To view this document, disable “Work Offline” and try again."
+#~ msgstr "ਇਹ ਦਸਤਾਵੇਜ਼ ਵੇਖਣ ਲਈ, “ਆਫਲਾਇਨ ਕੰਮ ਕਰੋ” ਨੂੰ ਆਯੋਗ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਸ਼ ਕਰੋ"
+
+#~| msgid "“%s” Denied Access to Port “%d”"
+#~ msgid "Access Denied to Port “%d” of “%s”"
+#~ msgstr " ਪੋਰਟ “%d” 'ਤੇ “%s” ਨੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।"
+
+#~| msgid "“%s” denied access to port “%d”."
+#~ msgid "Access denied to port “%d” of “%s”."
+#~ msgstr "ਪੋਰਟ “%d” 'ਤੇ “%s” ਨੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।"
+
+#~ msgid "Could not Connect to Proxy Server"
+#~ msgstr "ਪਰਾਕਸੀ ਸਰਵਰ ਨਾਲ ਜੁੜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ।"
+
+#~ msgid "Could not connect to proxy server."
+#~ msgstr "ਪਰਾਕਸੀ ਸਰਵਰ ਨਾਲ ਜੁੜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਹੈ।"
+
+#~ msgid ""
+#~ "Check your proxy server settings. If the connection still fails, there "
+#~ "may be a problem with your proxy server or your network connection."
+#~ msgstr ""
+#~ "ਆਪਣੀ ਪਰਾਕਸੀ ਸਰਵਰ ਸੈਟਿੰਗ ਦੀ ਜਾਂਚ ਕਰੋ। ਜੇਕਰ ਕੁਨੈਕਸ਼ਨ ਅਜੇ ਵੀ ਫੇਲ੍ਹ ਹੋ ਜਾਦਾ ਹੈ ਤਾਂ ਤੁਹਾਡੇ "
+#~ "ਪਰਾਕਸੀ ਸਰਵਰ ਜਾਂ ਤੁਹਾਡਾ ਨੈਟਵਰਕ ਕੁਨੈਕਸ਼ਨ 'ਚ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ।"
+
+#~ msgid "Could not Display Content"
+#~ msgstr "ਭਾਗ ਨਹੀਂ ਵੇਖਾਏ ਜਾ ਸਕੇ"
+
+#~ msgid "Could not display content."
+#~ msgstr "ਭਾਗ ਵੇਖਾਏ ਨਹੀਂ ਜਾ ਸਕੇ"
+
+#~ msgid "The page uses an unsupported or invalid form of compression."
+#~ msgstr "ਸਫ਼ਾ ਨਪੀੜਨ ਦੀ ਨਾ-ਸਹਾਇਕ ਜਾਂ ਗਲਤ ਫਾਰਮ ਵਰਤਦਾ ਹੈ।"
+
+#~ msgid "You may find an old version:|in the Google Cache"
+#~ msgstr "Google ਕੈਂਚੇ 'ਚ"
+
+#~ msgid "You may find an old version:|in the Internet Archive"
+#~ msgstr "ਇੰਟਰਨੈਟ ਆਰਚੀਵ 'ਚ"
+
+#~ msgid "_Abort Script"
+#~ msgstr "ਸਕਰਿਪਟ ਅਧੂਰੀ ਛੱਡੋ(_A)"
+
+#~ msgid "Text files"
+#~ msgstr "ਪਾਠ ਫਾਇਲਾਂ"
+
+#~ msgid "XML files"
+#~ msgstr "XML ਫਾਇਲਾਂ"
+
+#~ msgid "XUL files"
+#~ msgstr "XUL ਫਾਇਲਾਂ"
+
+#~ msgid "Accept cookie from %s?"
+#~ msgstr "%s ਤੋਂ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#~ msgid "Accept Cookie?"
+#~ msgstr "ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ?"
+
+#~ msgid "The site wants to modify an existing cookie."
+#~ msgstr "ਸਾਈਟ ਇੱਕ ਮੌਜੂਦਾ ਕੂਕੀਜ਼ ਨੂੰ ਸੋਧਣਾ ਚਾਹੁੰਦੀ ਹੈ।"
+
+#~ msgid "The site wants to set a second cookie."
+#~ msgstr "ਇਹ ਸਾਈਟ ਆਪਣਾ ਦੂਜਾ ਕੂਕੀਜ਼ ਰੱਖਣਾ ਚਾਹੁੰਦੀ ਹੈ।"
+
+#~ msgid "You already have %d cookie from this site."
+#~ msgid_plural "You already have %d cookies from this site."
+#~ msgstr[0] "ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਸਾਈਟ ਤੋਂ %d ਕੂਕੀਜ਼ ਪਹਿਲਾਂ ਹੀ ਹੈ।"
+#~ msgstr[1] "ਇਸ ਸਾਈਟ ਤੋਂ ਤੁਹਾਡੇ ਕੋਲ %d ਕੂਕੀਜ਼ ਹਨ।"
+
+#~ msgid "Apply this _decision to all cookies from this site"
+#~ msgstr "ਇਸ ਸਾਈਟ ਦੇ ਸਭ ਕੂਕੀਜ਼ ਲਈ ਇਹ ਫੈਸਲਾ ਲਾਗੂ ਕਰੋ(_d)"
+
+#~ msgid "_Reject"
+#~ msgstr "ਨਾ-ਮਨਜ਼ੂਰ(_R)"
+
+#~ msgid "_Accept"
+#~ msgstr "ਸਵੀਕਾਰ(_A)"
+
+#~ msgid "The web site “%s” requests that you sign the following text:"
+#~ msgstr "ਵੈੱਬ ਸਾਈਟ “%s” ਨੇ ਹੇਠ ਦਿੱਤੇ ਪਾਠ ਲਈ ਸਾਈਨ ਕਰਨ ਲਈ ਮੰਗ ਕੀਤੀ ਹੈ:"
+
+#~ msgid "_Sign text"
+#~ msgstr "ਅੱਗੇ ਸਾਇਨ(_S)"
+
+#~ msgid "Preparing to print"
+#~ msgstr "ਛਪਾਈ ਲਈ ਤਿਆਰੀ"
+
+#~ msgid "Page %d of %d"
+#~ msgstr "%2$d ਵਿੱਚੋਂ %1$d ਸਫ਼ਾ"
+
+#~ msgid "Spooling..."
+#~ msgstr "ਸਪੂਲਿੰਗ..."
+
+#~ msgid "Print error"
+#~ msgstr "ਪਰਿੰਟ ਗਲਤੀ"
+
+#~ msgid "Printing “%s”"
+#~ msgstr "“%s” ਛਾਪਿਆ ਜਾਂਦਾ ਹੈ"
+
+#~ msgid "Choose a certificate to present as identification to “%s”."
+#~ msgstr "“%s” ਦੀ ਸ਼ਨਾਖਤ ਦੇਣ ਲਈ ਸਰਟੀਫਿਕੇਟ ਦੀ ਚੋਣ ਕਰੋ।"
+
+#~ msgid "Select a certificate to identify yourself."
+#~ msgstr "ਖੁਦ ਦੀ ਸ਼ਨਾਖਤ ਦੇਣ ਲਈ ਸਰਟੀਫਿਕੇਟ ਦੀ ਚੋਣ ਕਰੋ।"
+
+#~ msgid "Certificate _Details"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ ਵੇਰਵਾ"
+
+#~ msgid ""
+#~ "The site “%s” returned security information for “%s”. It is possible that "
+#~ "someone is intercepting your communication to obtain your confidential "
+#~ "information."
+#~ msgstr ""
+#~ "ਸਾਇਟ “%s” ਨੇ “%s” ਲਈ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਵਾਪਸ ਕੀਤੀ ਹੈ। ਇਹ ਸੰਭਵ ਹੈ ਕਿ ਕੋਈ ਤੁਹਾਡੇ ਸੰਚਾਰ "
+#~ "ਵਿੱਚ ਆ ਕੇ ਗੁਪਤ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਿਹਾ ਹੋਵੇ।"
+
+#~ msgid ""
+#~ "You should only accept the security information if you trust “%s” and "
+#~ "“%s”."
+#~ msgstr ""
+#~ "ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਤਾਂ ਹੀ ਸਵੀਕਾਰ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ, ਜੇਕਰ ਤੁਸੀ “%s” ਅਤੇ “%s” ਉੱਤੇ "
+#~ "ਵਿਸ਼ਵਾਸ ਕਰਦੇ ਹੋ।"
+
+#~ msgid "Accept incorrect security information?"
+#~ msgstr "ਗਲਤ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨਾ ਹੈ?"
+
+#~ msgid ""
+#~ "It was not possible to automatically trust “%s”. It is possible that "
+#~ "someone is intercepting your communication to obtain your confidential "
+#~ "information."
+#~ msgstr ""
+#~ "“%s” ਉੱਤੇ ਆਟੋਮੈਟਿਕ ਯਕੀਨ ਕਰਨਾ ਸੰਭਵ ਨਹੀਂ ਹੈ। ਇਹ ਸੰਭਵ ਹੈ ਕਿ ਕੋਈ ਤੁਹਾਡੇ ਸੰਚਾਰ ਵਿੱਚ ਆ ਕੇ ਗੁਪਤ "
+#~ "ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਿਹਾ ਹੋਵੇ।"
+
+#~ msgid ""
+#~ "You should only connect to the site if you are certain you are connected "
+#~ "to “%s”."
+#~ msgstr ""
+#~ "ਤੁਹਾਨੂੰ ਸਾਇਟ ਨਾਲ ਤਾਂ ਹੀ ਜੁਡ਼ਨਾ ਚਾਹੀਦਾ ਹੈ, ਜੇਕਰ ਤੁਸੀ ਯਕੀਨੀ ਹੋ ਕਿ ਤੁਸੀ “%s” ਨਾਲ ਹੀ ਜੁਡ਼ "
+#~ "ਰਹੇ ਹੋ।"
+
+#~ msgid "Connect to untrusted site?"
+#~ msgstr "ਬੇਯਕੀਨ ਸਾਇਟ ਨਾਲ ਜੁਡ਼ਨਾ ਹੈ?"
+
+#~ msgid "_Trust this security information from now on"
+#~ msgstr "ਹੁਣ ਤੋਂ ਇਸ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਲਈ ਭਰੋਸਾ ਯੋਗ ਕੀਤਾ(_T)"
+
+#~ msgid "Co_nnect"
+#~ msgstr "ਜੋੜੋ(_n)"
+
+#~ msgid "Accept expired security information?"
+#~ msgstr "ਕੀ ਮਿਆਦ ਪੁੱਗੀ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨਾ ਹੈ?"
+
+#~ msgid "The security information for “%s” expired on %s."
+#~ msgstr "“%s” ਲਈ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਦੀ ਮਿਆਦ %s ਨੂੰ ਪੁੱਗ ਜਾਣੀ ਹੈ।"
+
+#~ msgid "Accept not yet valid security information?"
+#~ msgstr "ਹੁਣ ਤੱਕ ਜਾਇਜ ਨਾ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨਾ ਹੈ?"
+
+#~ msgid "The security information for “%s” isn't valid until %s."
+#~ msgstr "“%s” ਲਈ ਸੁਰੱਖਿਆ ਜਾਣਕਾਰੀ %s ਤੱਕ ਜਾਇਜ ਨਹੀ ਹੈ।"
+
+#  To translators: this a time format that is used while displaying the
+#  * expiry or start date of an SSL certificate, for the format see
+#  * strftime(3)
+#~ msgid "%a %d %b %Y"
+#~ msgstr "%a %d %b %Y"
+
+#~ msgid "You should ensure that your computer's time is correct."
+#~ msgstr "ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੋਣਾ ਜ਼ਰੂਰੀ ਹੈ ਕਿ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦਾ ਸਮਾਂ ਠੀਕ ਹੈ।"
+
+#~ msgid "Cannot establish connection to “%s”"
+#~ msgstr "“%s” ਨਾਲ ਕੁਨੈਕਸ਼ਨ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ"
+
+#~ msgid ""
+#~ "The certificate revocation list (CRL) from “%s” needs to be updated.\n"
+#~ "\n"
+#~ "Please ask your system administrator for assistance."
+#~ msgstr ""
+#~ "“%s” ਤੋਂ ਸਰਟੀਫਿਕੇਟ ਰੀਵੋਕੇਸ਼ਨ ਲਿਸਟ (CRL) ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ।\n"
+#~ "\n"
+#~ "ਮੱਦਦ ਲਈ ਆਪਣੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
+
+#~ msgid "Trust new Certificate Authority?"
+#~ msgstr "ਨਵੀਂ ਸਰਟੀਫਿਕੇਟ ਇਕਾਈ ਤੇ ਭਰੋਸਾ ਕਰਨਾ ਹੈ?"
+
+#~ msgid "_Trust CA"
+#~ msgstr "ਭਰੋਸੇਯੋਗ CA(_T)"
+
+#~ msgid "Trust new Certificate Authority “%s” to identify web sites?"
+#~ msgstr "ਕੀ ਨਵੇਂ ਸਰਟੀਫਿਕੇਟ ਸੰਗਠਨ “%s” ਵਲੋਂ ਵੈਬ ਸਾਇਤਾਂ ਨੂੰ ਪਛਾਣ 'ਤੇ ਭਰੋਸਾ ਕਰਨਾ ਹੈ?"
+
+#~ msgid ""
+#~ "Before trusting a Certificate Authority (CA) you should verify the "
+#~ "certificate is authentic."
+#~ msgstr ""
+#~ "ਕਿਸੇ ਸਰਟੀਫਿਕੇਟ ਸੰਗਠਨ (CA) 'ਤੇ ਭਰੋਸਾ ਕਰਨ ਤੋ ਪਹਿਲ਼ਾਂ ਜਾਂਚ ਲਵੋ ਕਿ ਸਰਟੀਫਕੇਟ ਪਰਮਾਣਿਕ ਹੈ।"
+
+#~ msgid "Select a password to protect this certificate"
+#~ msgstr "ਇਸ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਪਾਸਵਰਡ ਚੁਣੋ"
+
+#~ msgid "Enter the password for this certificate"
+#~ msgstr "ਇਸ ਸਰਟੀਫਿਕੇਟ ਲਈ ਪਾਸਵਰਡ ਦਿਓ।"
+
+#~ msgid "Certificate Revocation List Imported"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ ਰੀਵੋਕੇਸ਼ਨ ਲਿਸਟ ਅਯਾਤ ਕੀਤੀ ਗਈ"
+
+#~ msgid "Certificate Revocation List (CRL) successfully imported"
+#~ msgstr "ਸਰਟੀਫਿਕੇਟ ਰੀਵੋਕੇਸ਼ਨ ਲਿਸਟ ਨੂੰ ਸਫਲਤਾਪੂਰਕ ਅਯਾਤ ਕੀਤੀ ਗਈ"
+
+#~ msgid "Unit:"
+#~ msgstr "ਇਕਾਈ:"
+
+#~ msgid "Next Update:"
+#~ msgstr "ਅੱਗੇ ਅੱਪਡੇਟ:"
+
+#~ msgid "Not part of certificate"
+#~ msgstr "ਪਰਮਾਣਿਕਤਾ ਦਾ ਭਾਗ ਨਹੀ"
+
+#~ msgid "This certificate has been verified for the following uses:"
+#~ msgstr "ਇਸ ਤਰਮਾਣਿਕਤਾ ਨੂੰ ਹੇਠਲੇ ਯੂਜ਼ਰਾਂ ਨੇ ਜਾਂਚਿਆ ਹੈ:"
+
+#~ msgid "Could not verify this certificate because it has been revoked."
+#~ msgstr "ਇਸ ਪਰਮਾਣਿਕਤਾ ਨੂੰ ਜਾਂਚ ਨਹੀ ਸਕਦੇ, ਕਿਉਕਿ ਇਹ ਰੱਦ ਹੋ ਗਿਆ ਹੈ।"
+
+#~ msgid "Could not verify this certificate because it has expired."
+#~ msgstr "ਇਸ ਪਰਮਾਣਿਕਤਾ ਨੂੰ ਜਾਂਚ ਨਹੀ ਸਕਦੇ, ਕਿਉਕਿ ਇਸ ਦੀ ਮਿਆਦ ਮੁੱਗ ਚੁੱਕੀ ਹੈ।"
+
+#~ msgid "Could not verify this certificate because it is not trusted."
+#~ msgstr "ਇਸ ਪਰਮਾਣਿਕਤਾ ਨੂੰ ਜਾਂਚ ਨਹੀ ਸਕਦੇ, ਕਿਉਕਿ ਇਹ ਯਕੀਨੀ ਨਹੀ ਹੈ।"
+
+#~ msgid "Could not verify this certificate because the issuer is not trusted."
+#~ msgstr "ਇਸ ਪਰਮਾਣਿਕਤਾ ਨੂੰ ਜਾਂਚ ਨਹੀ ਸਕਦੇ, ਕਿਉਕਿ ਜਾਰੀਕਰਤਾ ਭਰੋਸੇਯੋਗ ਨਹੀ ਹੈ।"
+
+#~ msgid "Could not verify this certificate because the issuer is unknown."
+#~ msgstr "ਇਸ ਪਰਮਾਣਿਕਤਾ ਨੂੰ ਜਾਂਚ ਨਹੀ ਸਕਦੇ, ਕਿਉਕਿ ਜਾਰੀਕਰਤਾ ਅਣਪਛਾਤਾ ਹੈ।"
+
+#~ msgid ""
+#~ "Could not verify this certificate because the CA certificate is invalid."
+#~ msgstr "ਇਸ ਪਰਮਾਣਿਕਤਾ ਨੂੰ ਜਾਂਚ ਨਹੀ ਸਕਦੇ, ਕਿਉਕਿ CA ਸਰਟੀਫਕੇਟ ਜਾਇਜ਼ ਨਹੀ ਹੈ।"
+
+#~ msgid "Could not verify this certificate for unknown reasons."
+#~ msgstr "ਅਣਜਾਣੇ ਕਾਰਨਾਂ ਕਰਕੇ ਇਸ ਪਰਮਾਣਿਕਤਾ ਨੂੰ ਜਾਂਚ ਨਹੀ ਹੋ ਸਕਦੀ ਹੈ।"
+
+#~ msgid "Change Token Password"
+#~ msgstr "ਟੋਕਨ ਪਾਸਵਰਡ ਬਦਲੋ"
+
+#~ msgid "Change the password for the “%s” token"
+#~ msgstr "“%s” ਟੋਕਲ ਲਈ ਪਾਸਵਰਡ ਬਦਲੋ"
+
+#~ msgid "Get Token Password"
+#~ msgstr "ਟੋਕਨ ਪਾਸਵਰਡ ਲਵੋ"
+
+#~ msgid "Please enter the password for the “%s” token"
+#~ msgstr "“%s” ਟੋਕਨ ਲਈ ਪਾਸਵਰਡ ਦਿਓ ਜੀ"
+
+#~ msgid "Please select a token:"
+#~ msgstr "ਇੱਕ ਟੋਕਨ ਚੁਣੋ ਜੀ:"
+
+#~ msgid "Escrow the secret key?"
+#~ msgstr "ਗੁਪਤ- ਕੁੰਜੀ ਇਸਕਰੋ?"
+
+#~ msgid "Generating Private Key."
+#~ msgstr "ਨਿੱਜੀ-ਕੁੰਜੀ ਦਾ ਨਿਰਮਾਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
+
+#~ msgid ""
+#~ "Please wait while a new private key is generated. This process could take "
+#~ "a few minutes."
+#~ msgstr ""
+#~ "ਉਡੀਕੋ ਜੀ, ਜਦੋਂ ਤੱਕ ਕਿ ਨਿੱਜੀ ਕੁੰਜੀ ਦਾ ਨਿਰਮਾਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਇਹ ਕਾਰਵਾਈ ਕੁਝ ਮਿੰਟ ਲੈ "
+#~ "ਸਕਦੀ ਹੈ।"
+
+#~ msgid "This page is loaded over a low security connection"
+#~ msgstr "ਘੱਟ ਸੁਰੱਖਿਆ ਕੁਨੈਕਸ਼ਨ ਰਾਹੀਂ ਸਫ਼ਾ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+#~ msgid ""
+#~ "Any information you see or enter on this page could easily be intercepted "
+#~ "by a third party."
+#~ msgstr "ਇਸ ਸਫ਼ੇ ਤੇ ਜੋ ਵੀ ਜਾਣਕਾਰੀ ਤੁਸੀਂ ਭਰੋਗੇ ਜਾਂ ਵੇਖ ਰਹੇ ਹੋ, ਕੋਈ ਵੀ ਵੇਖ ਸਕਦਾ ਹੈ।"
+
+#~ msgid "Some parts of this page are loaded over an insecure connection"
+#~ msgstr "ਇਸ ਸਫ਼ੇ ਦੇ ਕੁਝ ਭਾਗ ਅਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਤੇ ਲੋਡ ਕੀਤੇ ਗਏ ਹਨ"
+
+#~ msgid ""
+#~ "Some information you see or enter will be sent over an insecure "
+#~ "connection, and could easily be intercepted by a third party."
+#~ msgstr ""
+#~ "ਇੱਕ ਅਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਤੇ ਭੇਜਣ ਅਤੇ ਪ੍ਰਾਪਤ ਹੋਣ ਵਾਲੀ ਜਾਣਕਾਰੀ ਹੈ ਅਤੇ ਕੋਈ ਵੀ ਇਸ ਨੂੰ ਵੇਖ ਸਕਦਾ ਹੈ।"
+
+#~ msgid "Send this information over an insecure connection?"
+#~ msgstr "ਕੀ ਅਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਤੇ ਜਾਣਕਾਰੀ ਭੇਜਣੀ ਹੈ?"
+
+#~ msgid ""
+#~ "The information you have entered will be sent over an insecure "
+#~ "connection, and could easily be intercepted by a third party."
+#~ msgstr ""
+#~ "ਜਾਣਕਾਰੀ, ਜੋ ਵੀ ਤੁਸੀਂ ਭਰੀ ਹੈ, ਨੂੰ ਅਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਤੇ ਭੇਜਿਆ ਜਾਵੇਗਾ ਅਤੇ ਕੋਈ ਵੀ ਇਸ ਨੂੰ ਵੇਖ "
+#~ "ਸਕਦਾ ਹੈ।"
+
+#  Edit menu
+#~ msgid "_Send"
+#~ msgstr "ਭੇਜੋ(_S)"
+
+#~ msgid ""
+#~ "Although this page was loaded over a secure connection, the information "
+#~ "you have entered will be sent over an insecure connection, and could "
+#~ "easily be intercepted by a third party."
+#~ msgstr ""
+#~ "ਹਾਲਾਂਕਿ ਇਹ ਸਫ਼ਾ ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਤੇ ਲੋਡ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਾਣਕਾਰੀ, ਜੋ ਵੀ ਤੁਸੀਂ ਭਰੋਗੇ, "
+#~ "ਅਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਰਾਹੀਂ ਹੀ ਭੇਜੀ ਜਾਵੇਗੀ, ਅਤੇ ਇਸ ਨੂੰ ਕੋਈ ਵੀ ਅਸਾਨੀ ਨਾਲ ਵੇਖ ਸਕਦਾ ਹੈ।"
+
+#~ msgid "select fonts for|Arabic"
+#~ msgstr "ਅਰਬੀ"
+
+#~ msgid "select fonts for|Baltic"
+#~ msgstr "ਬਾਲਟਿਕ"
+
+#~ msgid "select fonts for|Central European"
+#~ msgstr "ਕੇਂਦਰੀ ਯੂਰਪੀ"
+
+#~ msgid "select fonts for|Cyrillic"
+#~ msgstr "ਸਰਿੱਕ"
+
+#~ msgid "select fonts for|Devanagari"
+#~ msgstr "ਦੇਵਨਾਗਰੀ"
+
+#~ msgid "select fonts for|Greek"
+#~ msgstr "ਗਰੀਕ"
+
+#~ msgid "select fonts for|Hebrew"
+#~ msgstr "ਹੈਬਰਿਓ"
+
+#~ msgid "select fonts for|Japanese"
+#~ msgstr "ਜਾਪਾਨੀ"
+
+#~ msgid "select fonts for|Korean"
+#~ msgstr "ਕੋਰੀਆਈ"
+
+#~ msgid "select fonts for|Simplified Chinese"
+#~ msgstr "ਸਧਾਰਨ ਚੀਨੀ"
+
+#~ msgid "select fonts for|Tamil"
+#~ msgstr "ਤਾਮਿਲ"
+
+#~ msgid "select fonts for|Thai"
+#~ msgstr "ਥਾਈ"
+
+#~ msgid "select fonts for|Traditional Chinese"
+#~ msgstr "ਮੂਲ ਚੀਨੀ"
+
+#~ msgid "select fonts for|Traditional Chinese (Hong Kong)"
+#~ msgstr "ਮੂਲ ਚੀਨੀ (ਹਾਂਗ ਕਾਂਗ)"
+
+#~ msgid "select fonts for|Turkish"
+#~ msgstr "ਤੁਰਕ"
+
+#~ msgid "select fonts for|Armenian"
+#~ msgstr "ਅਰਮੀਨੀਆਈ"
+
+#~ msgid "select fonts for|Bengali"
+#~ msgstr "ਬੰਗਾਲੀ"
+
+#~ msgid "select fonts for|Unified Canadian Syllabics"
+#~ msgstr "ਯੂਨੀਫਾਇਡ ਕਨੇਡੀਅਨ ਸਿਲੇਬਸ"
+
+#~ msgid "select fonts for|Ethiopic"
+#~ msgstr "ਈਥਓਪੀਅਨ"
+
+#~ msgid "select fonts for|Georgian"
+#~ msgstr "ਜਾਰਜੀਆਈ"
+
+#~ msgid "select fonts for|Gujarati"
+#~ msgstr "ਗੁਜਰਾਤੀ"
+
+#~ msgid "select fonts for|Gurmukhi"
+#~ msgstr "ਗੁਰਮੁਖੀ"
+
+#~ msgid "select fonts for|Khmer"
+#~ msgstr "ਖਮੀਰ"
+
+#~ msgid "select fonts for|Malayalam"
+#~ msgstr "ਮਲਿਆਲਮ"
+
+#~ msgid "select fonts for|Western"
+#~ msgstr "ਪੱਛਮੀ"
+
+#~ msgid "select fonts for|Other Scripts"
+#~ msgstr "ਹੋਰ ਸਕਰਿਪਟਾਂ"
+
+#~ msgid "_Domain:"
+#~ msgstr "ਡੋਮੇਨ(_D):"
+
+#~ msgid "_New password:"
+#~ msgstr "ਨਵਾਂ ਪਾਸਵਰਡ(_N):"
+
+#~ msgid "Con_firm password:"
+#~ msgstr "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ(_f):"
+
+#  TODO: We need a better password quality meter
+#~ msgid "Password quality:"
+#~ msgstr "ਪਾਸਵਰਡ ਕੁਆਲਟੀ:"
+
+#~ msgid "Do not remember this password"
+#~ msgstr "ਇਹ ਪਾਸਵਰਡ ਯਾਦ ਨਾ ਰੱਖੋ"
+
+#~ msgid "_Remember password for this session"
+#~ msgstr "ਇਹ ਸ਼ੈਸ਼ਨ ਲਈ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ(_R)"
+
+#~ msgid "Unsafe protocol."
+#~ msgstr "ਅਸੁਰੱਖਿਅਤ ਪਰੋਟੋਕਾਲ ਹੈ।"
+
+#~ msgid ""
+#~ "The address has not been loaded, because it refers to an unsafe protocol "
+#~ "and thereby presents a security risk to your system."
+#~ msgstr ""
+#~ "ਐਡਰੈੱਸ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਨਾ-ਸੁਰੱਖਿਅਤ ਪਰੋਟੋਕਾਲ ਲਈ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਅਤੇ "
+#~ "ਤੁਹਾਡੇ ਸਿਸਟਮ ਲਈ ਇੱਕ ਸੁਰੱਖਿਆ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।"
+
+#~ msgid "No web address could be found in this file."
+#~ msgstr "ਇਸ ਫਾਇਲ ਵਿੱਚ ਕੋਈ ਵੈੱਬ ਐਡਰੈੱਸ ਨਹੀਂ ਲੱਭਿਆ ਹੈ।"
+
+#~ msgid "Epiphany Desktop File Plugin"
+#~ msgstr "ਏਪੀਫਨੀ ਡੈਸਕਟਾਪ ਫਾਇਲ ਪਲੱਗਇਨ"
+
+#~ msgid ""
+#~ "This plugin handles “.desktop” and “.url” files containing web links."
+#~ msgstr "ਇਹ ਪਲੱਗ-ਇਨ “.desktop” ਅਤੇ “.url” ਫਾਇਲ ਰੱਖਣ ਵਾਲੇ ਵੈੱਬ ਸਬੰਧਾਂ ਨੂੰ ਹੈਂਡਲ ਕਰਦੀ ਹੈ।"
+
+#~ msgid "toolbar style|Default"
+#~ msgstr "ਮੂਲ"
+
+#~ msgid "First"
+#~ msgstr "ਪਹਿਲਾਂ"
+
+#~ msgid "Go to the first page"
+#~ msgstr "ਪਹਿਲੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ"
+
+#~ msgid "Last"
+#~ msgstr "ਅਖੀਰੀ"
+
+#~ msgid "Go to the last page"
+#~ msgstr "ਅਖੀਰੀ ਸਫ਼ੇ 'ਤੇ ਜਾਓ"
+
+#~ msgid "Previous"
+#~ msgstr "ਪਿੱਛੇ"
+
+#~ msgid "Next"
+#~ msgstr "ਅੱਗੇ"
+
+#~ msgid "Close"
+#~ msgstr "ਬੰਦ ਕਰੋ"
+
+#~ msgid "Close print preview"
+#~ msgstr "ਛਾਪਾਈ ਝਲਕ ਬੰਦ"
+
+#~ msgid ""
+#~ "Hide the menubar by default. The menubar can still be accessed using F10."
+#~ msgstr "ਮੂਲ ਰੂਪ ਵਿੱਚ ਮੇਨੂ-ਪੱਠੀ ਓਹਲੇ ਰੱਖੋ। ਮੇਨੂ ਪੱਟੀ ਨੂੰ ਤਾਂ ਵੀ F10 ਰਾਹੀਂ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
+
+#~ msgid ""
+#~ "The page “%s” in this tab was not fully loaded yet when the web browser "
+#~ "crashed; it could have caused the crash."
+#~ msgstr ""
+#~ "ਇਸ ਟੈਬ ਵਿੱਚ ਸਫ਼ਾ “%s” ਉਦੋਂ ਤੱਕ ਪੂਰੀ ਤਰਾਂ ਲੋਡ ਨਹੀਂ ਹੋਇਆ ਸੀ, ਜਦੋਂ ਵੈੱਬ ਝਲਕਾਰਾ ਨਸ਼ਟ ਹੋ ਗਿਆ ਹੈ, "
+#~ "ਇਹ ਨਸ਼ਟ ਹੋਣ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।"
+
+#~ msgid ""
+#~ "The padlock icon in the statusbar indicates whether a page is secure."
+#~ msgstr "ਹਾਲਤ-ਪੱਟੀ ਵਿੱਚ padlock ਆਈਕਾਨ ਵੇਖਾਉਦਾ ਹੈ ਕਿ ਕੀ ਸਫ਼ਾ ਸੁਰੱਖਿਅਤ ਹੈ।"
+
+#  FIXME: We "should" use gtk_message dialog here
+#  * but it doesn't support markup of text yet
+#  * so we build our own. See bug 65501.
+#~ msgid "Quick Bookmark"
+#~ msgstr "ਤੁਰੰਤ ਬੁੱਕਮਾਰਕ"
+
+#~ msgid "Quick Topic"
+#~ msgstr "ਤੁਰੰਤ ਵਿਸ਼ੇ"
+
+#~ msgid "Title a_nd Address"
+#~ msgstr "ਟਾਇਟਲ ਅਤੇ ਐਡਰੈੱਸ(_n)"

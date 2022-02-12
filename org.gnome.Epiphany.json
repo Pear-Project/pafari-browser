@@ -1,0 +1,135 @@
+{
+    "app-id" : "org.gnome.Epiphany.Devel",
+    "runtime" : "org.gnome.Platform",
+    "runtime-version" : "master",
+    "sdk" : "org.gnome.Sdk",
+    "command" : "epiphany",
+    "tags" : [
+        "nightly"
+    ],
+    "desktop-file-name-suffix" : " (Epiphany Technology Preview)",
+    "finish-args" : [
+        "--device=dri",
+        "--filesystem=/run/.heim_org.h5l.kcm-socket",
+        "--filesystem=xdg-download",
+        "--share=ipc",
+        "--share=network",
+        "--socket=fallback-x11",
+        "--socket=pulseaudio",
+        "--socket=wayland",
+        "--system-talk-name=org.freedesktop.GeoClue2"
+    ],
+    "modules" : [
+         {
+            "name": "elementary-icons",
+            "buildsystem": "meson",
+            "sources": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/elementary/icons.git"
+                }
+            ],
+            "modules": [
+                {
+                    "name": "xcursorgen",
+                    "cleanup": [ "*" ],
+                    "sources": [
+                        {
+                            "type": "archive",
+                            "url": "https://xorg.freedesktop.org/archive/individual/app/xcursorgen-1.0.7.tar.gz",
+                            "sha256": "6bc32d4977ffd60c00583bfd217f1d1245ca54dafbfbbcdbf14f696f9487b83e"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "elementary-stylesheet",
+            "buildsystem": "meson",
+            "sources": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/elementary/stylesheet.git"
+                }
+            ],
+            "modules": [
+                {
+                    "name": "sassc",
+                    "cleanup": [ "*" ],
+                    "sources": [
+                        {
+                            "type": "git",
+                            "url": "https://github.com/sass/sassc.git",
+                            "tag": "3.6.1"
+                        },
+                        {
+                            "type": "script",
+                            "dest-filename": "autogen.sh",
+                            "commands": [ "autoreconf -si" ]
+                        }
+                    ],
+                    "modules": [
+                        {
+                            "name": "libsass",
+                            "cleanup": [ "*" ],
+                            "sources": [
+                                {
+                                    "type": "git",
+                                    "url": "https://github.com/sass/libsass.git",
+                                    "tag": "3.6.4"
+                                },
+                                {
+                                    "type": "script",
+                                    "dest-filename": "autogen.sh",
+                                    "commands": [ "autoreconf -si" ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "libdazzle",
+            "buildsystem" : "meson",
+            "sources" : [
+                {
+                    "type" : "git",
+                    "url" : "https://gitlab.gnome.org/GNOME/libdazzle.git"
+                }
+            ]
+        },
+        {
+            "name" : "libportal",
+            "buildsystem" : "meson",
+            "config-opts" : [
+                "-Dbackends=gtk3",
+                "-Dintrospection=false",
+                "-Ddocs=false"
+            ],
+            "sources" : [
+                {
+                    "type" : "git",
+                    "url" : "https://github.com/flatpak/libportal.git",
+                    "tag" : "0.5"
+                }
+            ]
+        },
+        {
+            "name" : "epiphany",
+            "buildsystem" : "meson",
+            "builddir" : true,
+            "config-opts" : [
+                "-Dtech_preview=true",
+                "-Dprofile=Devel"
+            ],
+            "sources" : [
+                {
+                    "type" : "git",
+                    "url" : "https://gitlab.gnome.org/GNOME/epiphany.git",
+                    "disable-shallow-clone" : true
+                }
+            ]
+        }
+    ]
+}

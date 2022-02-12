@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <requires lib="gtk+" version="3.0"/>
+  <template class="EphyPrefsDialog" parent="HdyPreferencesWindow">
+    <property name="role">epiphany-preferences</property>
+    <property name="modal">True</property>
+    <property name="window-position">center</property>
+    <property name="destroy-with-parent">True</property>
+    <property name="icon-name">gtk-preferences</property>
+    <property name="default-width">640</property>
+    <property name="default-height">800</property>
+    <property name="can-swipe-back">True</property>
+    <signal name="key-press-event" handler="on_key_press_event"/>
+    <signal name="delete-event" handler="on_delete_event"/>
+    <child>
+      <object class="PrefsGeneralPage" id="general_page"/>
+    </child>
+    <child>
+      <object class="PrefsPrivacyPage">
+        <signal name="passwords-row-activated" handler="on_passwords_row_activated"/>
+        <signal name="clear-data-row-activated" handler="on_clear_data_row_activated"/>
+      </object>
+    </child>
+    <child>
+      <object class="PrefsAppearancePage"/>
+    </child>
+  </template>
+</interface>
